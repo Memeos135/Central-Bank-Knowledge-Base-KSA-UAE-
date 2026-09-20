@@ -1,0 +1,2038 @@
+{
+  "generated": "2026-09-19T18:37:41.488901+00:00",
+  "conversion_report_present": true,
+  "scores": {
+    "grounding": {
+      "grade": "A",
+      "value": 1.0,
+      "note": "stored excerpts still present verbatim in their source"
+    },
+    "broken_arabic_exposure": {
+      "grade": "A",
+      "value": 0.0,
+      "note": "share of nodes resting on presentation-form Arabic (lower is better)"
+    },
+    "structure": {
+      "grade": "C",
+      "value": 0.572,
+      "note": "nodes with degree >= 2"
+    },
+    "dedup": {
+      "grade": "A",
+      "value": 1.0,
+      "note": "nodes not in a duplicate-label cluster"
+    },
+    "locator_coverage": {
+      "grade": "A",
+      "value": 1.0,
+      "note": "edges carrying an exact page locator"
+    },
+    "extraction_coverage": {
+      "grade": "B",
+      "value": 0.8908045977011494,
+      "under_extracted": [
+        "CBUAE_EN_6185_VER1",
+        "CBUAE_EN_1087_VER1",
+        "CBUAE_EN_1286_VER1",
+        "CBUAE_EN_5996_VER1",
+        "CBUAE_EN_3394_VER1",
+        "CBUAE_EN_7041_VER1",
+        "CBUAE_EN_2850_VER1",
+        "CBUAE_EN_1150_VER1",
+        "CBUAE_EN_3285_VER1",
+        "CBUAE_EN_1082_VER2",
+        "CBUAE_EN_3013_VER1",
+        "CBUAE_EN_1702_VER2",
+        "CBUAE_EN_1884_VER2",
+        "CBUAE_EN_3394_VER2",
+        "CBUAE_EN_3406_VER1",
+        "CBUAE_EN_3459_VER2",
+        "CBUAE_EN_3858_VER1",
+        "CBUAE_EN_3919_VER1",
+        "CBUAE_EN_3920_VER1"
+      ],
+      "note": "A-grade documents adequately covered"
+    },
+    "_overall": {
+      "grade": "B",
+      "avg_rank": 4.5,
+      "dimensions_scored": 6,
+      "dimensions_na": 0
+    }
+  },
+  "structural": {
+    "documents": [
+      {
+        "stem": "CBUAE_EN_2464_VER2",
+        "nodes": 98,
+        "pdf_pages": 204,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.48,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1691_VER2",
+        "nodes": 94,
+        "pdf_pages": 197,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.477,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3524_VER1",
+        "nodes": 59,
+        "pdf_pages": 163,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.362,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4229_VER1",
+        "nodes": 56,
+        "pdf_pages": 162,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.346,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3945_VER2",
+        "nodes": 53,
+        "pdf_pages": 114,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.465,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6788_VER1",
+        "nodes": 45,
+        "pdf_pages": 58,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.776,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5731_VER1",
+        "nodes": 39,
+        "pdf_pages": 101,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.386,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_996_VER1",
+        "nodes": 34,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.478,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6843_VER1",
+        "nodes": 31,
+        "pdf_pages": 68,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.456,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_238_VER1",
+        "nodes": 27,
+        "pdf_pages": 118,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.229,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6092_VER1",
+        "nodes": 27,
+        "pdf_pages": 53,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.509,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2413_VER1",
+        "nodes": 26,
+        "pdf_pages": 41,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.634,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5808_VER1",
+        "nodes": 26,
+        "pdf_pages": 55,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.473,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4961_VER1",
+        "nodes": 25,
+        "pdf_pages": 70,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.357,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6725_VER1",
+        "nodes": 25,
+        "pdf_pages": 59,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.424,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6127_VER1",
+        "nodes": 24,
+        "pdf_pages": 71,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.338,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6587_VER1",
+        "nodes": 24,
+        "pdf_pages": 49,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.49,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1531_VER1",
+        "nodes": 23,
+        "pdf_pages": 85,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.271,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1580_VER1",
+        "nodes": 23,
+        "pdf_pages": 91,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.253,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6185_VER1",
+        "nodes": 22,
+        "pdf_pages": 123,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.179,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_4669_VER1",
+        "nodes": 20,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.625,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5056_VER1",
+        "nodes": 19,
+        "pdf_pages": 43,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.442,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5072_VER1",
+        "nodes": 19,
+        "pdf_pages": 77,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.247,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_498_VER1",
+        "nodes": 19,
+        "pdf_pages": 34,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.559,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6593_VER1",
+        "nodes": 19,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.452,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1087_VER1",
+        "nodes": 18,
+        "pdf_pages": 114,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.158,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_1577_VER1",
+        "nodes": 18,
+        "pdf_pages": 29,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.621,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4368_VER1",
+        "nodes": 18,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.667,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4881_VER1",
+        "nodes": 18,
+        "pdf_pages": 56,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.321,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7267_VER1",
+        "nodes": 18,
+        "pdf_pages": 44,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.409,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2757_VER1",
+        "nodes": 17,
+        "pdf_pages": 45,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.378,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7031_VER1",
+        "nodes": 17,
+        "pdf_pages": 50,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.34,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5114_VER1",
+        "nodes": 16,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.889,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6531_VER1",
+        "nodes": 16,
+        "pdf_pages": 56,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4473_VER1",
+        "nodes": 16,
+        "pdf_pages": 26,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.615,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7178_VER1",
+        "nodes": 15,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.556,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4711_VER1_0",
+        "nodes": 15,
+        "pdf_pages": 48,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.312,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5027_VER1",
+        "nodes": 15,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.469,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_418_VER2",
+        "nodes": 15,
+        "pdf_pages": 46,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.326,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4689_VER1",
+        "nodes": 14,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.438,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1627_VER1",
+        "nodes": 14,
+        "pdf_pages": 34,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.412,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5558_VER1",
+        "nodes": 14,
+        "pdf_pages": 33,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.424,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1250_VER1",
+        "nodes": 13,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4728_VER1",
+        "nodes": 13,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.444,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7233_VER1",
+        "nodes": 13,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.591,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6052_VER1",
+        "nodes": 13,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.481,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6471_VER1",
+        "nodes": 13,
+        "pdf_pages": 35,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.371,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_699_VER1",
+        "nodes": 13,
+        "pdf_pages": 35,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.371,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6986_VER1",
+        "nodes": 13,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.812,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7246_VER1",
+        "nodes": 13,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.406,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1286_VER1",
+        "nodes": 12,
+        "pdf_pages": 59,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.203,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_4654_VER1",
+        "nodes": 12,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5974_VER1",
+        "nodes": 12,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.6,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7293_VER1",
+        "nodes": 12,
+        "pdf_pages": 29,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.414,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4640_VER1",
+        "nodes": 11,
+        "pdf_pages": 31,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.355,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1287_VER1",
+        "nodes": 11,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.458,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4044_VER1",
+        "nodes": 11,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.917,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1269_VER1",
+        "nodes": 11,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.9,
+        "nodes_per_page": 0.688,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6034_VER1",
+        "nodes": 11,
+        "pdf_pages": 19,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.579,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6678_VER1",
+        "nodes": 11,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.647,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4185_VER1",
+        "nodes": 11,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.846,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5622_VER1",
+        "nodes": 11,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.478,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4208_VER1",
+        "nodes": 11,
+        "pdf_pages": 31,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.355,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6431_VER1",
+        "nodes": 11,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.55,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6415_VER1",
+        "nodes": 11,
+        "pdf_pages": 19,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.579,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5609_VER1",
+        "nodes": 10,
+        "pdf_pages": 29,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.345,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_202_VER1",
+        "nodes": 10,
+        "pdf_pages": 26,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.385,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_915_VER1",
+        "nodes": 10,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.455,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_949_VER1",
+        "nodes": 10,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.417,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6070_VER1",
+        "nodes": 10,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.37,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4091_VER1_0",
+        "nodes": 10,
+        "pdf_pages": 40,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2387_VER1",
+        "nodes": 10,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.476,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_644_VER1",
+        "nodes": 10,
+        "pdf_pages": 34,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.294,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6530_VER1",
+        "nodes": 10,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.476,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4496_VER1",
+        "nodes": 10,
+        "pdf_pages": 19,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.526,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6663_VER1",
+        "nodes": 10,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1249_VER1",
+        "nodes": 9,
+        "pdf_pages": 43,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.209,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1430_VER1",
+        "nodes": 9,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.94,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2200_VER1",
+        "nodes": 9,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.529,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2825_VER1",
+        "nodes": 9,
+        "pdf_pages": 38,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.237,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1494_VER1",
+        "nodes": 9,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.214,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2267_VER1",
+        "nodes": 9,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.6,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5791_VER1",
+        "nodes": 9,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.692,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5996_VER1",
+        "nodes": 9,
+        "pdf_pages": 44,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.205,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_2776_VER1",
+        "nodes": 8,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5692_VER1",
+        "nodes": 8,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1836_VER1",
+        "nodes": 8,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.667,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1714_VER1",
+        "nodes": 8,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.571,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3459_VER1",
+        "nodes": 8,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7332_VER1",
+        "nodes": 8,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.348,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7000_VER1",
+        "nodes": 8,
+        "pdf_pages": 33,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.242,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1002_VER1",
+        "nodes": 7,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.292,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_156_VER1",
+        "nodes": 7,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.583,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2405_VER1",
+        "nodes": 7,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.875,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2620_VER1",
+        "nodes": 7,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.636,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4588_VER1",
+        "nodes": 7,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.538,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1702_VER1",
+        "nodes": 7,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3440_VER1",
+        "nodes": 7,
+        "pdf_pages": 25,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.28,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4407_VER1",
+        "nodes": 7,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.318,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4429_VER1",
+        "nodes": 7,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.219,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6446_VER1",
+        "nodes": 7,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.292,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6708_VER1",
+        "nodes": 7,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.304,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3042_VER1",
+        "nodes": 6,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_176_VER1",
+        "nodes": 6,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.375,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2028_VER1",
+        "nodes": 6,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2179_VER1",
+        "nodes": 6,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.261,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3509_VER1",
+        "nodes": 6,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.353,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2377_VER1",
+        "nodes": 6,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_6672_VER1",
+        "nodes": 6,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.429,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1884_VER1",
+        "nodes": 5,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.385,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2839_VER1",
+        "nodes": 5,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.667,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2896_VER1",
+        "nodes": 5,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.417,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4246_VER1",
+        "nodes": 5,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.714,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1082_VER1",
+        "nodes": 5,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.357,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2370_VER1_0",
+        "nodes": 5,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.556,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1941_VER1",
+        "nodes": 5,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5583_VER1",
+        "nodes": 5,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.455,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2792_VER1",
+        "nodes": 5,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.455,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4841_VER1_0",
+        "nodes": 5,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1853_VER1",
+        "nodes": 5,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1953_VER1",
+        "nodes": 5,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.417,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2343_VER1",
+        "nodes": 5,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.94,
+        "nodes_per_page": 0.417,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2809_VER1",
+        "nodes": 5,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.357,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3394_VER1",
+        "nodes": 5,
+        "pdf_pages": 39,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.128,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_6018_VER1",
+        "nodes": 5,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.278,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2978_VER1",
+        "nodes": 4,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.8,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1130_VER1",
+        "nodes": 4,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2079_VER1",
+        "nodes": 4,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.364,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3070_VER1",
+        "nodes": 4,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7041_VER1",
+        "nodes": 4,
+        "pdf_pages": 50,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.08,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_2850_VER1",
+        "nodes": 4,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_2850_VER2",
+        "nodes": 4,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.267,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3406_VER2",
+        "nodes": 4,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.308,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_7154_VER1",
+        "nodes": 4,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.444,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5590_VER1",
+        "nodes": 4,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.364,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_5705_VER1",
+        "nodes": 4,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1150_VER1",
+        "nodes": 3,
+        "pdf_pages": 26,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.115,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_2027_VER1",
+        "nodes": 3,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_4171_VER1",
+        "nodes": 3,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2103_VER1",
+        "nodes": 3,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.429,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2865_VER1",
+        "nodes": 3,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.214,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3013_VER2",
+        "nodes": 3,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3133_VER1",
+        "nodes": 3,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.273,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3285_VER1",
+        "nodes": 3,
+        "pdf_pages": 29,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.103,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3486_VER1",
+        "nodes": 3,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.214,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3934_VER1",
+        "nodes": 3,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1082_VER2",
+        "nodes": 2,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_2327_VER1",
+        "nodes": 2,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_156_VER2",
+        "nodes": 2,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.222,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2839_VER2",
+        "nodes": 2,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2888_VER1",
+        "nodes": 2,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.667,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_2896_VER2",
+        "nodes": 2,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.222,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3013_VER1",
+        "nodes": 2,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3106_VER1",
+        "nodes": 2,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3109_VER1",
+        "nodes": 2,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3121_VER1",
+        "nodes": 2,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3435_VER1",
+        "nodes": 2,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_1702_VER2",
+        "nodes": 1,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_1884_VER2",
+        "nodes": 1,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.091,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3117_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3394_VER2",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3406_VER1",
+        "nodes": 1,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.056,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3459_VER2",
+        "nodes": 1,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.067,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3844_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3844_VER2",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3845_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3853_VER1_0",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3858_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3884_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3901_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3912_VER1_0",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "CBUAE_EN_3919_VER1",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_3920_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "CBUAE_EN_4122_VER1_0",
+        "nodes": 1,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      }
+    ],
+    "median_nodes_per_page_AB": 0.41,
+    "degree": {
+      "isolated_count": 64,
+      "degree1_count": 624,
+      "top_hubs": [
+        {
+          "degree": 32,
+          "label": "Central Bank of the UAE"
+        },
+        {
+          "degree": 25,
+          "label": "Internal Shari'ah Supervision Committee (ISSC)"
+        },
+        {
+          "degree": 25,
+          "label": "Customer Due Diligence (CDD)"
+        },
+        {
+          "degree": 20,
+          "label": "Risk Governance Framework"
+        },
+        {
+          "degree": 19,
+          "label": "Trade-Based Money Laundering"
+        },
+        {
+          "degree": 18,
+          "label": "ICAAP Guidance"
+        },
+        {
+          "degree": 17,
+          "label": "Board of Directors"
+        },
+        {
+          "degree": 17,
+          "label": "Standards for Exchange Business in the UAE"
+        },
+        {
+          "degree": 16,
+          "label": "Central Bank Law (Decretal Federal Law 14/2018)"
+        },
+        {
+          "degree": 15,
+          "label": "Decretal Federal Law No. 14 of 2018"
+        }
+      ]
+    },
+    "locators": {
+      "nodes_with_source_location": 23,
+      "edges_with_page_locator": 2043,
+      "total_nodes": 1608,
+      "total_edges": 2043
+    },
+    "duplicate_clusters": [],
+    "edges": {
+      "confidence": {
+        "EXTRACTED": 1927,
+        "INFERRED": 116
+      },
+      "relations": {
+        "references": 1574,
+        "cites": 274,
+        "conceptually_related_to": 154,
+        "semantically_similar_to": 25,
+        "shares_data_with": 13,
+        "implements": 3
+      },
+      "orphan_count": 0,
+      "self_loop_count": 0
+    },
+    "coverage": {
+      "grounded_edges": 2042,
+      "edges_total": 2043,
+      "node_summaries": 1607,
+      "community_blurbs": 228,
+      "edge_narratives": 403
+    }
+  },
+  "grounding": {
+    "excerpts_total": 4085,
+    "checkable": 4085,
+    "grounded": 4085,
+    "rate": 1.0
+  },
+  "grounding_failures": [],
+  "broken_arabic": {
+    "exposed_nodes": 0,
+    "documents": {}
+  },
+  "integrity": {
+    "ok": true,
+    "data": {
+      "schema_version": 1,
+      "summary": {
+        "node_count": 1608,
+        "unverified_node_count": 0,
+        "raw_edge_count": 2043,
+        "non_object_edges": 0,
+        "missing_endpoint_edges": 0,
+        "dangling_endpoint_edges": 0,
+        "self_loop_edges": 0,
+        "valid_candidate_edges": 2043,
+        "exact_duplicate_edges": 0,
+        "directed_unique_endpoint_pairs": 2043,
+        "directed_same_endpoint_collapsed_edges": 0,
+        "undirected_unique_endpoint_pairs": 2043,
+        "undirected_same_endpoint_collapsed_edges": 0,
+        "same_endpoint_group_count": 0,
+        "relation_variant_groups": 0,
+        "source_file_variant_groups": 0,
+        "source_location_variant_groups": 0,
+        "context_variant_groups": 0,
+        "post_build_graph_type": "Graph",
+        "post_build_node_count": 1608,
+        "post_build_edge_count": 2043,
+        "post_build_error": "",
+        "input_path": "C:\\Users\\memeo\\Downloads\\CENTRAL_BANK_KNOWLEDGE_BASE\\CENTRAL_BANK_KNOWLEDGE_BASE\\graph-build\\cbuae\\graph.json",
+        "effective_directed": false
+      },
+      "examples": [],
+      "producer_suppression": {
+        "path": "C:\\Users\\memeo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\graphify\\extract.py",
+        "total_sites": 10,
+        "sites": [
+          {
+            "line": 1047,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 1197,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 1199,
+            "name": "seen_doc_refs",
+            "tuple_arity": 0,
+            "sample": "seen_doc_refs: set[str] = set()"
+          },
+          {
+            "line": 1622,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 2091,
+            "name": "seen_keys",
+            "tuple_arity": 0,
+            "sample": "seen_keys: set[tuple] = set()"
+          },
+          {
+            "line": 3014,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3122,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3201,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3696,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3697,
+            "name": "seen_edges",
+            "tuple_arity": 4,
+            "sample": "seen_edges: set[tuple[str, str, str, str | None]] = set()"
+          }
+        ],
+        "error": ""
+      },
+      "notes": [
+        "Diagnostics are read-only.",
+        "A normal graph.json is already post-build and cannot recover raw producer edges.",
+        "Producer suppression sites are heuristic source-code evidence."
+      ]
+    }
+  }
+}

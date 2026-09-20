@@ -1,0 +1,2444 @@
+{
+  "communities": {
+    "0": [
+      "cabinet_resolution_10_2019",
+      "cabinet_resolution_20_2019",
+      "federal_decree_20_2018",
+      "federal_law_6_2007",
+      "markdown_cbuae_en_238_ver1_shariah_committee",
+      "markdown_cbuae_en_3106_ver1",
+      "markdown_cbuae_en_3106_ver1_bod_13_2018",
+      "markdown_cbuae_en_3109_ver1",
+      "markdown_cbuae_en_3109_ver1_separation",
+      "markdown_cbuae_en_3117_ver1",
+      "markdown_cbuae_en_3121_ver1",
+      "markdown_cbuae_en_3121_ver1_financial_regulations",
+      "markdown_cbuae_en_3133_ver1",
+      "markdown_cbuae_en_3133_ver1_insurance_consultant",
+      "markdown_cbuae_en_3133_ver1_ministerial_23_1985",
+      "markdown_cbuae_en_3285_ver1",
+      "markdown_cbuae_en_3285_ver1_reinsurance",
+      "markdown_cbuae_en_3285_ver1_takaful_regulations",
+      "markdown_cbuae_en_3394_ver1",
+      "markdown_cbuae_en_3394_ver1_code_of_conduct",
+      "markdown_cbuae_en_3394_ver1_loss_damage_policy",
+      "markdown_cbuae_en_3394_ver1_ministerial_54_1987",
+      "markdown_cbuae_en_3394_ver1_tpl_policy",
+      "markdown_cbuae_en_3394_ver2",
+      "markdown_cbuae_en_3406_ver1",
+      "markdown_cbuae_en_3406_ver2",
+      "markdown_cbuae_en_3406_ver2_depreciation_schedule",
+      "markdown_cbuae_en_3406_ver2_surveyor_appointment",
+      "markdown_cbuae_en_3406_ver2_third_party_liability",
+      "markdown_cbuae_en_3435_ver1",
+      "markdown_cbuae_en_3440_ver1",
+      "markdown_cbuae_en_3440_ver1_aml_cft",
+      "markdown_cbuae_en_3440_ver1_compliance_officer",
+      "markdown_cbuae_en_3440_ver1_internal_audit_report",
+      "markdown_cbuae_en_3440_ver1_risk_assessment",
+      "markdown_cbuae_en_3459_ver1",
+      "markdown_cbuae_en_3459_ver1_actuary",
+      "markdown_cbuae_en_3459_ver1_commission_limits",
+      "markdown_cbuae_en_3459_ver1_distribution_channels",
+      "markdown_cbuae_en_3459_ver1_free_look_period",
+      "markdown_cbuae_en_3459_ver1_protection_benefit_ratio",
+      "markdown_cbuae_en_3459_ver1_wakala_mudaraba",
+      "markdown_cbuae_en_3459_ver2",
+      "markdown_cbuae_en_3486_ver1",
+      "markdown_cbuae_en_3486_ver1_settlement_report",
+      "markdown_cbuae_en_3486_ver1_surveyor_registration"
+    ],
+    "1": [
+      "aml_cft_decision",
+      "aml_cft_law",
+      "fatf_recommendations",
+      "markdown_cbuae_en_418_ver2",
+      "markdown_cbuae_en_418_ver2_tipping_off",
+      "markdown_cbuae_en_4368_ver1",
+      "markdown_cbuae_en_4368_ver1_correspondent_dd",
+      "markdown_cbuae_en_4368_ver1_str",
+      "markdown_cbuae_en_4368_ver1_tfs",
+      "markdown_cbuae_en_4407_ver1",
+      "markdown_cbuae_en_4429_ver1",
+      "markdown_cbuae_en_4429_ver1_risk_assessment",
+      "markdown_cbuae_en_6725_ver1_cdd_edd",
+      "markdown_cbuae_en_6725_ver1_shell_front_companies",
+      "markdown_cbuae_en_6788_ver1_cdd_edd",
+      "markdown_cbuae_en_6788_ver1_shell_front_shelf"
+    ],
+    "2": [
+      "markdown_cbuae_en_1494_ver1_svf_clearing",
+      "markdown_cbuae_en_1531_ver1",
+      "markdown_cbuae_en_1531_ver1_amlcft",
+      "markdown_cbuae_en_1531_ver1_business_conduct",
+      "markdown_cbuae_en_1531_ver1_business_continuity",
+      "markdown_cbuae_en_1531_ver1_corporate_governance",
+      "markdown_cbuae_en_1531_ver1_cyber_resilience",
+      "markdown_cbuae_en_1531_ver1_enforcement",
+      "markdown_cbuae_en_1531_ver1_float",
+      "markdown_cbuae_en_1531_ver1_float_management",
+      "markdown_cbuae_en_1531_ver1_information_accounting",
+      "markdown_cbuae_en_1531_ver1_money_worth",
+      "markdown_cbuae_en_1531_ver1_payment_security",
+      "markdown_cbuae_en_1531_ver1_reputation_risk",
+      "markdown_cbuae_en_1531_ver1_risk_management",
+      "markdown_cbuae_en_1531_ver1_svf",
+      "markdown_cbuae_en_1531_ver1_technology_risk"
+    ],
+    "3": [
+      "markdown_cbuae_en_2343_ver1_displaced_commercial_risk",
+      "markdown_cbuae_en_2343_ver1_irrbb_regulation",
+      "markdown_cbuae_en_2343_ver1_irrbb_standards",
+      "markdown_cbuae_en_2343_ver1_rate_of_return_risk",
+      "markdown_cbuae_en_2343_ver1_stress_testing",
+      "markdown_cbuae_en_2387_ver1_credit_risk",
+      "markdown_cbuae_en_2387_ver1_displaced_commercial_risk",
+      "markdown_cbuae_en_2387_ver1_equity_investment_risk",
+      "markdown_cbuae_en_2387_ver1_irrbb_regulation_165",
+      "markdown_cbuae_en_2387_ver1_market_risk",
+      "markdown_cbuae_en_2387_ver1_market_risk_regulation_164",
+      "markdown_cbuae_en_2387_ver1_rate_of_return_risk",
+      "markdown_cbuae_en_2387_ver1_risk_management_islamic_banks_standard",
+      "markdown_cbuae_en_2387_ver1_shariah_non_compliance_risk",
+      "markdown_cbuae_en_4881_ver1",
+      "markdown_cbuae_en_4881_ver1_board",
+      "markdown_cbuae_en_4881_ver1_cbuae",
+      "markdown_cbuae_en_4881_ver1_dmf",
+      "markdown_cbuae_en_4881_ver1_independent_validation",
+      "markdown_cbuae_en_4881_ver1_model_development",
+      "markdown_cbuae_en_4881_ver1_model_lifecycle",
+      "markdown_cbuae_en_4881_ver1_model_monitoring",
+      "markdown_cbuae_en_4881_ver1_model_oversight_committee",
+      "markdown_cbuae_en_4881_ver1_numerical_thresholds",
+      "markdown_cbuae_en_4881_ver1_risk_mgmt_regulation",
+      "markdown_cbuae_en_4961_ver1_basel_standards_irrbb",
+      "markdown_cbuae_en_4961_ver1_cbuae_standards_irrbb",
+      "markdown_cbuae_en_4961_ver1_credit_index",
+      "markdown_cbuae_en_4961_ver1_default_rate_estimation",
+      "markdown_cbuae_en_4961_ver1_ecl",
+      "markdown_cbuae_en_4961_ver1_eve",
+      "markdown_cbuae_en_4961_ver1_irrbb_models",
+      "markdown_cbuae_en_4961_ver1_lgd_models",
+      "markdown_cbuae_en_4961_ver1_macro_models",
+      "markdown_cbuae_en_4961_ver1_mmg",
+      "markdown_cbuae_en_4961_ver1_nii",
+      "markdown_cbuae_en_4961_ver1_npv_models",
+      "markdown_cbuae_en_4961_ver1_option_risk",
+      "markdown_cbuae_en_4961_ver1_pd_models",
+      "markdown_cbuae_en_4961_ver1_pit_lgd",
+      "markdown_cbuae_en_4961_ver1_pit_pd_transition_matrix",
+      "markdown_cbuae_en_4961_ver1_portfolio_scaling",
+      "markdown_cbuae_en_4961_ver1_rating_models",
+      "markdown_cbuae_en_4961_ver1_rating_to_pd",
+      "markdown_cbuae_en_4961_ver1_scenario_forecasting",
+      "markdown_cbuae_en_4961_ver1_ttc_lgd",
+      "markdown_cbuae_en_4961_ver1_vasicek_framework"
+    ],
+    "4": [
+      "markdown_cbuae_en_1249_ver1_asrr",
+      "markdown_cbuae_en_1249_ver1_basel3",
+      "markdown_cbuae_en_1249_ver1_cfp",
+      "markdown_cbuae_en_1249_ver1_elar",
+      "markdown_cbuae_en_1249_ver1_lcr",
+      "markdown_cbuae_en_1249_ver1_liquidity_manual",
+      "markdown_cbuae_en_1249_ver1_nsfr",
+      "markdown_cbuae_en_1249_ver1_stress_testing",
+      "markdown_cbuae_en_1250_ver1_stress_testing",
+      "markdown_cbuae_en_1286_ver1",
+      "markdown_cbuae_en_1286_ver1_article5_qualitative",
+      "markdown_cbuae_en_1286_ver1_article6_quantitative",
+      "markdown_cbuae_en_1286_ver1_central_bank_law",
+      "markdown_cbuae_en_1286_ver1_hqla",
+      "markdown_cbuae_en_1286_ver1_regulation_liquidity",
+      "markdown_cbuae_en_2776_ver1",
+      "markdown_cbuae_en_2776_ver1_basel_iii",
+      "markdown_cbuae_en_2776_ver1_circular_30_2012",
+      "markdown_cbuae_en_2776_ver1_guidance_manual",
+      "markdown_cbuae_en_2776_ver1_qualitative_requirements"
+    ],
+    "5": [
+      "markdown_cbuae_en_6587_ver1_edd",
+      "markdown_cbuae_en_6587_ver1_fatf_rec13",
+      "markdown_cbuae_en_6587_ver1_geographic_risk",
+      "markdown_cbuae_en_6587_ver1_governance_audit",
+      "markdown_cbuae_en_6587_ver1_nested_relationships",
+      "markdown_cbuae_en_6587_ver1_ongoing_monitoring",
+      "markdown_cbuae_en_6587_ver1_ownership_risk",
+      "markdown_cbuae_en_6587_ver1_payable_through",
+      "markdown_cbuae_en_6587_ver1_risk_factors",
+      "markdown_cbuae_en_6587_ver1_risk_mitigation",
+      "markdown_cbuae_en_6587_ver1_specific_dd",
+      "markdown_cbuae_en_6587_ver1_standard_cdd",
+      "markdown_cbuae_en_6587_ver1_wolfsberg_cbddq",
+      "markdown_cbuae_en_6593_ver1_cdd_kyc_recordkeeping",
+      "markdown_cbuae_en_6593_ver1_recordkeeping"
+    ],
+    "6": [
+      "markdown_cbuae_en_2413_ver1_api_design",
+      "markdown_cbuae_en_2413_ver1_api_governance",
+      "markdown_cbuae_en_2413_ver1_api_management_monitoring",
+      "markdown_cbuae_en_2413_ver1_data_protection",
+      "markdown_cbuae_en_2413_ver1_outsourcing_service_provider",
+      "markdown_cbuae_en_4473_ver1_authentication",
+      "markdown_cbuae_en_4473_ver1_biometric_authentication",
+      "markdown_cbuae_en_4473_ver1_mfa"
+    ],
+    "7": [
+      "markdown_cbuae_en_1287_ver1",
+      "markdown_cbuae_en_1287_ver1_compensation",
+      "markdown_cbuae_en_1287_ver1_corporate_governance_regulation",
+      "markdown_cbuae_en_1287_ver1_disclosure_transparency",
+      "markdown_cbuae_en_1287_ver1_group_structure",
+      "markdown_cbuae_en_3945_ver2_cabinet_decision_74_2020",
+      "markdown_cbuae_en_3945_ver2_independent_audit",
+      "markdown_cbuae_en_3945_ver2_intl_financial_sanctions",
+      "markdown_cbuae_en_3945_ver2_senior_management",
+      "markdown_cbuae_en_3945_ver2_small_org_governance",
+      "markdown_cbuae_en_7000_ver1_central_bank_law",
+      "markdown_cbuae_en_7031_ver1",
+      "markdown_cbuae_en_7031_ver1_board",
+      "markdown_cbuae_en_7031_ver1_control_functions",
+      "markdown_cbuae_en_7031_ver1_corporate_governance",
+      "markdown_cbuae_en_7031_ver1_malus_clawback",
+      "markdown_cbuae_en_7031_ver1_material_risk_taker",
+      "markdown_cbuae_en_7031_ver1_regulation",
+      "markdown_cbuae_en_7031_ver1_remuneration_committee",
+      "markdown_cbuae_en_7031_ver1_remuneration_framework",
+      "markdown_cbuae_en_7031_ver1_remuneration_policy",
+      "markdown_cbuae_en_7031_ver1_risk_committee",
+      "markdown_cbuae_en_7031_ver1_variable_remuneration",
+      "markdown_cbuae_en_7041_ver1",
+      "markdown_cbuae_en_7041_ver1_corporate_governance",
+      "markdown_cbuae_en_7178_ver1"
+    ],
+    "8": [
+      "markdown_cbuae_en_4711_ver1_0_board_ombudsman",
+      "markdown_cbuae_en_4711_ver1_0_chief_ombudsman",
+      "markdown_cbuae_en_4711_ver1_0_complaint_resolution",
+      "markdown_cbuae_en_4711_ver1_0_consumer",
+      "markdown_cbuae_en_4711_ver1_0_insurance_company",
+      "markdown_cbuae_en_498_ver1",
+      "markdown_cbuae_en_498_ver1_amlcft_decision",
+      "markdown_cbuae_en_498_ver1_amlcft_law",
+      "markdown_cbuae_en_498_ver1_cabinet_74",
+      "markdown_cbuae_en_498_ver1_circular_24_2019",
+      "markdown_cbuae_en_498_ver1_goaml",
+      "markdown_cbuae_en_498_ver1_lfi",
+      "markdown_cbuae_en_498_ver1_rhp",
+      "markdown_cbuae_en_498_ver1_tfs_obligations",
+      "markdown_cbuae_en_6725_ver1_transaction_monitoring"
+    ],
+    "9": [
+      "markdown_cbuae_en_3524_ver1_amlcft_decision_2019",
+      "markdown_cbuae_en_4368_ver1_fatf_guidance",
+      "markdown_cbuae_en_4368_ver1_npps",
+      "markdown_cbuae_en_996_ver1_aml_cft_law",
+      "markdown_cbuae_en_996_ver1_executive_office_guidance",
+      "markdown_cbuae_en_996_ver1_fatf_pf_typologies",
+      "markdown_cbuae_en_996_ver1_ffiec_manual",
+      "markdown_cbuae_en_996_ver1_fintrac_indicators",
+      "markdown_cbuae_en_996_ver1_guidance",
+      "markdown_cbuae_en_996_ver1_red_flags_circumvention",
+      "markdown_cbuae_en_996_ver1_red_flags_tf"
+    ],
+    "10": [
+      "markdown_cbuae_en_2620_ver1_ifi",
+      "markdown_cbuae_en_2620_ver1_shariah_governance_standard",
+      "markdown_cbuae_en_2620_ver1_shariah_report",
+      "markdown_cbuae_en_2757_ver1",
+      "markdown_cbuae_en_2757_ver1_business_conduct",
+      "markdown_cbuae_en_2757_ver1_complaint_management",
+      "markdown_cbuae_en_2757_ver1_consumer_data_protection",
+      "markdown_cbuae_en_2757_ver1_consumer_education",
+      "markdown_cbuae_en_2757_ver1_consumer_protection",
+      "markdown_cbuae_en_2757_ver1_federal_law_29_2006",
+      "markdown_cbuae_en_2757_ver1_financial_inclusion",
+      "markdown_cbuae_en_2757_ver1_governance_retail_operations",
+      "markdown_cbuae_en_2757_ver1_institutional_oversight",
+      "markdown_cbuae_en_2757_ver1_market_conduct",
+      "markdown_cbuae_en_2757_ver1_responsible_financing",
+      "markdown_cbuae_en_2757_ver1_shariah_compliance",
+      "markdown_cbuae_en_4229_ver1_article9_education",
+      "markdown_cbuae_en_4229_ver1_decretal_law_14_2018",
+      "markdown_cbuae_en_4229_ver1_fee_annexure",
+      "markdown_cbuae_en_4229_ver1_interest_profit_rate",
+      "markdown_cbuae_en_5731_ver1_art25_obligations_customers",
+      "markdown_cbuae_en_5731_ver1_art30_personal_data"
+    ],
+    "11": [
+      "markdown_cbuae_en_1002_ver1",
+      "markdown_cbuae_en_1002_ver1_customer_identification",
+      "markdown_cbuae_en_1002_ver1_electronic_insurance_operations",
+      "markdown_cbuae_en_1002_ver1_federal_law_1_2006",
+      "markdown_cbuae_en_1002_ver1_price_comparison_websites",
+      "markdown_cbuae_en_1002_ver1_website_management"
+    ],
+    "12": [
+      "markdown_cbuae_en_6531_ver1_cdd_kyc",
+      "markdown_cbuae_en_6531_ver1_control_effectiveness",
+      "markdown_cbuae_en_6531_ver1_control_environment",
+      "markdown_cbuae_en_6531_ver1_governance",
+      "markdown_cbuae_en_6531_ver1_independent_testing",
+      "markdown_cbuae_en_6531_ver1_inherent_risk",
+      "markdown_cbuae_en_6531_ver1_mlro",
+      "markdown_cbuae_en_6531_ver1_rba_application",
+      "markdown_cbuae_en_6531_ver1_residual_risk",
+      "markdown_cbuae_en_6531_ver1_risk_assessment",
+      "markdown_cbuae_en_6531_ver1_training",
+      "markdown_cbuae_en_996_ver1_internal_controls",
+      "markdown_cbuae_en_996_ver1_wolfsberg_guidance"
+    ],
+    "13": [
+      "markdown_cbuae_en_1087_ver1",
+      "markdown_cbuae_en_1087_ver1_actuary",
+      "markdown_cbuae_en_1087_ver1_appendix1",
+      "markdown_cbuae_en_1087_ver1_asset_valuation",
+      "markdown_cbuae_en_1087_ver1_federal_law_6_2007",
+      "markdown_cbuae_en_1087_ver1_ifrs",
+      "markdown_cbuae_en_1087_ver1_investment_committee",
+      "markdown_cbuae_en_1087_ver1_investment_regulations",
+      "markdown_cbuae_en_1087_ver1_records_requirements",
+      "markdown_cbuae_en_1087_ver1_section7",
+      "markdown_cbuae_en_1087_ver1_solvency_margin",
+      "markdown_cbuae_en_1087_ver1_technical_provisions",
+      "markdown_cbuae_en_1130_ver1_acceptance_letter",
+      "markdown_cbuae_en_1130_ver1_decision41",
+      "markdown_cbuae_en_1130_ver1_experimental_environment",
+      "markdown_cbuae_en_1130_ver1_innovative_solution_owner",
+      "markdown_cbuae_en_176_ver1",
+      "markdown_cbuae_en_176_ver1_actuary",
+      "markdown_cbuae_en_176_ver1_ministerial_resolution_22_1985",
+      "markdown_cbuae_en_176_ver1_professional_liability_policy",
+      "markdown_cbuae_en_2370_ver1_0_financial_reporting_external_audit_standards",
+      "markdown_cbuae_en_238_ver1",
+      "markdown_cbuae_en_238_ver1_aaoifi",
+      "markdown_cbuae_en_238_ver1_admissible_assets",
+      "markdown_cbuae_en_238_ver1_alae_ulae",
+      "markdown_cbuae_en_238_ver1_asset_allocation_limits",
+      "markdown_cbuae_en_238_ver1_glossary",
+      "markdown_cbuae_en_238_ver1_ibnr",
+      "markdown_cbuae_en_238_ver1_mathematical_reserve",
+      "markdown_cbuae_en_238_ver1_mgf",
+      "markdown_cbuae_en_238_ver1_oslr",
+      "markdown_cbuae_en_238_ver1_own_funds",
+      "markdown_cbuae_en_238_ver1_risk_management",
+      "markdown_cbuae_en_238_ver1_scr",
+      "markdown_cbuae_en_238_ver1_solvency_margin",
+      "markdown_cbuae_en_238_ver1_technical_provisions",
+      "markdown_cbuae_en_238_ver1_upr",
+      "markdown_cbuae_en_238_ver1_urr",
+      "markdown_cbuae_en_3524_ver1_banking_supervision_dept",
+      "markdown_cbuae_en_3524_ver1_ch11_fraud_management",
+      "markdown_cbuae_en_3524_ver1_ch3_licensing",
+      "markdown_cbuae_en_3524_ver1_ch4_continuing_obligations",
+      "markdown_cbuae_en_3524_ver1_ch7_accounts_audit",
+      "markdown_cbuae_en_3524_ver1_ch9_outsourcing",
+      "markdown_cbuae_en_3524_ver1_internal_auditor",
+      "markdown_cbuae_en_3524_ver1_letter_of_no_objection",
+      "markdown_cbuae_en_3524_ver1_remittance_intermediate_account",
+      "markdown_cbuae_en_5609_ver1_duty_to_report",
+      "markdown_cbuae_en_5609_ver1_external_audit",
+      "markdown_cbuae_en_5609_ver1_external_auditor",
+      "markdown_cbuae_en_5609_ver1_financial_reporting",
+      "markdown_cbuae_en_5609_ver1_regulation",
+      "markdown_cbuae_en_5609_ver1_special_considerations"
+    ],
+    "14": [
+      "markdown_cbuae_en_3945_ver2_third_party_reliance",
+      "markdown_cbuae_en_6843_ver1_cdd",
+      "markdown_cbuae_en_6843_ver1_dnfbps",
+      "markdown_cbuae_en_6843_ver1_edd",
+      "markdown_cbuae_en_6843_ver1_peps",
+      "markdown_cbuae_en_6843_ver1_vasps"
+    ],
+    "15": [
+      "markdown_cbuae_en_1287_ver1_pillar3",
+      "markdown_cbuae_en_2028_ver1",
+      "markdown_cbuae_en_2028_ver1_external_audit",
+      "markdown_cbuae_en_2028_ver1_financial_reporting",
+      "markdown_cbuae_en_2028_ver1_isa",
+      "markdown_cbuae_en_2179_ver1",
+      "markdown_cbuae_en_2179_ver1_board",
+      "markdown_cbuae_en_2179_ver1_compensation",
+      "markdown_cbuae_en_2179_ver1_corporate_governance"
+    ],
+    "16": [
+      "markdown_cbuae_en_2200_ver1_complaint_management",
+      "markdown_cbuae_en_2200_ver1_credit_information_agency",
+      "markdown_cbuae_en_2200_ver1_disclosure_transparency",
+      "markdown_cbuae_en_2200_ver1_responsible_conduct",
+      "markdown_cbuae_en_2200_ver1_shariah_compliance",
+      "markdown_cbuae_en_2200_ver1_sme_market_conduct_regulation"
+    ],
+    "17": [
+      "markdown_cbuae_en_1580_ver1_license",
+      "markdown_cbuae_en_5731_ver1_art26_white_papers",
+      "markdown_cbuae_en_5731_ver1_art32_certainty_transfers",
+      "markdown_cbuae_en_5731_ver1_art34_risk_management",
+      "markdown_cbuae_en_5731_ver1_art35_technology_risk",
+      "markdown_cbuae_en_5731_ver1_dirham_payment_token",
+      "markdown_cbuae_en_5731_ver1_distributed_ledger_technology",
+      "markdown_cbuae_en_5731_ver1_payment_token_issuer",
+      "markdown_cbuae_en_5731_ver1_virtual_asset"
+    ],
+    "18": [
+      "markdown_cbuae_en_5072_ver1_agent",
+      "markdown_cbuae_en_5072_ver1_commercial_companies_law",
+      "markdown_cbuae_en_5072_ver1_credit_information_agency",
+      "markdown_cbuae_en_5072_ver1_finance_company",
+      "markdown_cbuae_en_5072_ver1_higher_sharia_authority",
+      "markdown_cbuae_en_5072_ver1_islamic_finance_company",
+      "markdown_cbuae_en_5072_ver1_prev_regulation_112_2018",
+      "markdown_cbuae_en_5072_ver1_regulation",
+      "markdown_cbuae_en_5072_ver1_restricted_licence_finance_company",
+      "markdown_cbuae_en_5072_ver1_sharia_supervision_committee",
+      "markdown_cbuae_en_5072_ver1_short_term_credit"
+    ],
+    "19": [
+      "markdown_cbuae_en_1691_ver2_abcp",
+      "markdown_cbuae_en_1691_ver2_attachment_detachment",
+      "markdown_cbuae_en_1691_ver2_clean_up_call",
+      "markdown_cbuae_en_1691_ver2_implicit_support",
+      "markdown_cbuae_en_1691_ver2_resecuritisation",
+      "markdown_cbuae_en_1691_ver2_sec_erba",
+      "markdown_cbuae_en_1691_ver2_sec_sa",
+      "markdown_cbuae_en_1691_ver2_securitisation",
+      "markdown_cbuae_en_1691_ver2_stc",
+      "markdown_cbuae_en_1691_ver2_tranche_maturity",
+      "markdown_cbuae_en_2464_ver2_sec_sa",
+      "markdown_cbuae_en_2464_ver2_securitisation",
+      "markdown_cbuae_en_2464_ver2_tranche_thickness"
+    ],
+    "20": [
+      "markdown_cbuae_en_4669_ver1_takaful_insurance",
+      "markdown_cbuae_en_4669_ver1_takaful_regulation",
+      "markdown_cbuae_en_6052_ver1_collective_suitability",
+      "markdown_cbuae_en_6052_ver1_licensee",
+      "markdown_cbuae_en_6185_ver1_customer_protection_unit",
+      "markdown_cbuae_en_6185_ver1_emirates_insurance_federation",
+      "markdown_cbuae_en_6185_ver1_higher_shariah_authority",
+      "markdown_cbuae_en_6185_ver1_insurance_company",
+      "markdown_cbuae_en_6185_ver1_takaful_insurance_fund",
+      "markdown_cbuae_en_7233_ver1_article10_assignment",
+      "markdown_cbuae_en_7233_ver1_article5_establishment",
+      "markdown_cbuae_en_7233_ver1_article6_board_trustees",
+      "markdown_cbuae_en_7233_ver1_article7_duties_trustees",
+      "markdown_cbuae_en_7233_ver1_article8_legal_rep",
+      "markdown_cbuae_en_7233_ver1_article9_terms",
+      "markdown_cbuae_en_7233_ver1_fund_charter",
+      "markdown_cbuae_en_7233_ver1_wakala_contract",
+      "markdown_cbuae_en_7293_ver1",
+      "markdown_cbuae_en_7293_ver1_annex1",
+      "markdown_cbuae_en_7293_ver1_branch_inside",
+      "markdown_cbuae_en_7293_ver1_branch_outside",
+      "markdown_cbuae_en_7293_ver1_central_bank_law",
+      "markdown_cbuae_en_7293_ver1_classification",
+      "markdown_cbuae_en_7293_ver1_commencement",
+      "markdown_cbuae_en_7293_ver1_licence_application",
+      "markdown_cbuae_en_7293_ver1_licensing_process",
+      "markdown_cbuae_en_7293_ver1_registration",
+      "markdown_cbuae_en_7332_ver1",
+      "markdown_cbuae_en_7332_ver1_commercial_transactions_law",
+      "markdown_cbuae_en_7332_ver1_ijarah",
+      "markdown_cbuae_en_7332_ver1_mudaraba",
+      "markdown_cbuae_en_7332_ver1_murabaha",
+      "markdown_cbuae_en_7332_ver1_takaful"
+    ],
+    "21": [
+      "markdown_cbuae_en_949_ver1",
+      "markdown_cbuae_en_949_ver1_cabinet_decision_74",
+      "markdown_cbuae_en_949_ver1_risk_assessment",
+      "markdown_cbuae_en_949_ver1_transaction_monitoring",
+      "markdown_cbuae_en_996_ver1_independent_audit",
+      "markdown_cbuae_en_996_ver1_policies_procedures",
+      "markdown_cbuae_en_996_ver1_sanctions_compliance_program",
+      "markdown_cbuae_en_996_ver1_sanctions_risk_appetite",
+      "markdown_cbuae_en_996_ver1_senior_management_commitment",
+      "markdown_cbuae_en_996_ver1_thematic_review",
+      "markdown_cbuae_en_996_ver1_training"
+    ],
+    "22": [
+      "markdown_cbuae_en_3524_ver1_alternate_compliance_officer",
+      "markdown_cbuae_en_3524_ver1_amlcft_law_2018",
+      "markdown_cbuae_en_3524_ver1_biannual_compliance_report",
+      "markdown_cbuae_en_3524_ver1_ch10_risk_management",
+      "markdown_cbuae_en_3524_ver1_ch13_general_security",
+      "markdown_cbuae_en_3524_ver1_ch14_information_security",
+      "markdown_cbuae_en_3524_ver1_ch16_amlcft",
+      "markdown_cbuae_en_3524_ver1_compliance_officer",
+      "markdown_cbuae_en_6471_ver1_financial_intelligence_unit",
+      "markdown_cbuae_en_6843_ver1_provisional_measures",
+      "markdown_cbuae_en_6843_ver1_str"
+    ],
+    "23": [
+      "markdown_cbuae_en_2620_ver1_aaoifi",
+      "markdown_cbuae_en_2825_ver1",
+      "markdown_cbuae_en_2825_ver1_internal_shariah_control",
+      "markdown_cbuae_en_2825_ver1_three_lines_defense",
+      "markdown_cbuae_en_5056_ver1_ia_decision_50_2019",
+      "markdown_cbuae_en_5056_ver1_internal_shariah_audit",
+      "markdown_cbuae_en_5056_ver1_issc",
+      "markdown_cbuae_en_5056_ver1_shariah_governance",
+      "markdown_cbuae_en_5056_ver1_three_lines_defense",
+      "markdown_cbuae_en_5609_ver1_takaful_shariah_audit",
+      "markdown_cbuae_en_6034_ver1_external_audit_report",
+      "markdown_cbuae_en_6034_ver1_external_shariah_auditor",
+      "markdown_cbuae_en_6034_ver1_shariah_governance_standard",
+      "markdown_cbuae_en_6034_ver1_takaful_company",
+      "markdown_cbuae_en_7178_ver1_article20_surplus",
+      "markdown_cbuae_en_7178_ver1_article21_qard_hasan",
+      "markdown_cbuae_en_7246_ver1_article17_surplus",
+      "markdown_cbuae_en_7246_ver1_article18_qard_hasan",
+      "markdown_cbuae_en_7246_ver1_shareholders_account"
+    ],
+    "24": [
+      "markdown_cbuae_en_6052_ver1_fitness_propriety_standards",
+      "markdown_cbuae_en_6070_ver1_fitness_propriety_regulation",
+      "markdown_cbuae_en_6092_ver1",
+      "markdown_cbuae_en_6092_ver1_exchange_business_regulation",
+      "markdown_cbuae_en_6092_ver1_exchange_standards",
+      "markdown_cbuae_en_6092_ver1_fitness_propriety_regulation",
+      "markdown_cbuae_en_6092_ver1_lno",
+      "markdown_cbuae_en_6092_ver1_notice_1_2014",
+      "markdown_cbuae_en_6092_ver1_outsourcing",
+      "markdown_cbuae_en_6127_ver1",
+      "markdown_cbuae_en_6127_ver1_aml_laws",
+      "markdown_cbuae_en_6127_ver1_circular_7_2023",
+      "markdown_cbuae_en_6127_ver1_fitness_propriety_regulation",
+      "markdown_cbuae_en_6127_ver1_insurance_law"
+    ],
+    "25": [
+      "markdown_cbuae_en_2896_ver1",
+      "markdown_cbuae_en_2896_ver1_federal_law_10_1980",
+      "markdown_cbuae_en_2896_ver1_federal_law_1_2006",
+      "markdown_cbuae_en_2896_ver1_federal_law_6_1985",
+      "markdown_cbuae_en_2896_ver2",
+      "markdown_cbuae_en_2896_ver2_board_decision_42_2019"
+    ],
+    "26": [
+      "markdown_cbuae_en_1714_ver1",
+      "markdown_cbuae_en_1714_ver1_capital_requirements",
+      "markdown_cbuae_en_1714_ver1_circular_13_2021",
+      "markdown_cbuae_en_1714_ver1_credit_exposure_restrictions",
+      "markdown_cbuae_en_1714_ver1_credit_reports",
+      "markdown_cbuae_en_1714_ver1_permitted_activities",
+      "markdown_cbuae_en_1714_ver1_specialized_bank",
+      "markdown_cbuae_en_5558_ver1_business_continuity",
+      "markdown_cbuae_en_5558_ver1_central_bank_law",
+      "markdown_cbuae_en_5558_ver1_communication_plan",
+      "markdown_cbuae_en_5558_ver1_liquidity_facilities",
+      "markdown_cbuae_en_5558_ver1_recovery_capacity",
+      "markdown_cbuae_en_5558_ver1_recovery_indicators",
+      "markdown_cbuae_en_5558_ver1_recovery_options",
+      "markdown_cbuae_en_5558_ver1_recovery_plan",
+      "markdown_cbuae_en_5558_ver1_scenario_testing",
+      "markdown_cbuae_en_5622_ver1_application_process",
+      "markdown_cbuae_en_5622_ver1_consumer_protection",
+      "markdown_cbuae_en_5622_ver1_eligibility",
+      "markdown_cbuae_en_5622_ver1_exit_routes",
+      "markdown_cbuae_en_5622_ver1_regulation",
+      "markdown_cbuae_en_5622_ver1_regulatory_sandbox",
+      "markdown_cbuae_en_7000_ver1_cabinet_resolution_56",
+      "markdown_cbuae_en_7000_ver1_consent",
+      "markdown_cbuae_en_7000_ver1_dncr",
+      "markdown_cbuae_en_7000_ver1_regulation",
+      "markdown_cbuae_en_7000_ver1_telemarketing"
+    ],
+    "27": [
+      "markdown_cbuae_en_5974_ver1_article6_default",
+      "markdown_cbuae_en_5974_ver1_article7_sicr",
+      "markdown_cbuae_en_5996_ver1_article10_crm",
+      "markdown_cbuae_en_5996_ver1_article6_default",
+      "markdown_cbuae_en_5996_ver1_article7_sicr",
+      "markdown_cbuae_en_5996_ver1_article8_restructuring",
+      "markdown_cbuae_en_5996_ver1_article9_classification_provisioning",
+      "markdown_cbuae_en_5996_ver1_capital_adequacy_standards",
+      "markdown_cbuae_en_5996_ver1_model_management_standards",
+      "markdown_cbuae_en_5996_ver1_stage_classification"
+    ],
+    "28": [
+      "markdown_cbuae_en_2464_ver2_bcbs",
+      "markdown_cbuae_en_2464_ver2_claims_mdb",
+      "markdown_cbuae_en_2464_ver2_cva",
+      "markdown_cbuae_en_2464_ver2_maturity_calculation",
+      "markdown_cbuae_en_2464_ver2_simple_alternative"
+    ],
+    "29": [
+      "markdown_cbuae_en_6725_ver1_free_trade_zones",
+      "markdown_cbuae_en_6788_ver1_back_to_back_lcs",
+      "markdown_cbuae_en_6788_ver1_fictitious_documents",
+      "markdown_cbuae_en_6788_ver1_free_trade_zones",
+      "markdown_cbuae_en_6788_ver1_illicit_cash_integration",
+      "markdown_cbuae_en_6788_ver1_multiple_invoicing",
+      "markdown_cbuae_en_6788_ver1_over_under_invoicing",
+      "markdown_cbuae_en_6788_ver1_over_under_shipment",
+      "markdown_cbuae_en_6788_ver1_pass_through_accounts",
+      "markdown_cbuae_en_6788_ver1_rhp_alternative_remittance",
+      "markdown_cbuae_en_6788_ver1_sbml",
+      "markdown_cbuae_en_6788_ver1_surrogate_shopping_networks",
+      "markdown_cbuae_en_6788_ver1_tbml",
+      "markdown_cbuae_en_6788_ver1_third_party_intermediaries"
+    ],
+    "30": [
+      "markdown_cbuae_en_4429_ver1_cdd",
+      "markdown_cbuae_en_4429_ver1_sdd",
+      "markdown_cbuae_en_644_ver1_cdd_edd",
+      "markdown_cbuae_en_644_ver1_risk_based_approach",
+      "markdown_cbuae_en_644_ver1_str_reporting",
+      "markdown_cbuae_en_6593_ver1_cdd",
+      "markdown_cbuae_en_6593_ver1_edd",
+      "markdown_cbuae_en_6593_ver1_ongoing_monitoring",
+      "markdown_cbuae_en_6593_ver1_red_flags",
+      "markdown_cbuae_en_6593_ver1_risk_profile",
+      "markdown_cbuae_en_6593_ver1_sdd",
+      "markdown_cbuae_en_6593_ver1_source_of_funds",
+      "markdown_cbuae_en_915_ver1",
+      "markdown_cbuae_en_915_ver1_aml_cft_law",
+      "markdown_cbuae_en_915_ver1_beneficial_owner"
+    ],
+    "31": [
+      "markdown_cbuae_en_2464_ver2_bma",
+      "markdown_cbuae_en_2464_ver2_capital_planning",
+      "markdown_cbuae_en_2464_ver2_climate_risk",
+      "markdown_cbuae_en_2464_ver2_concentration_risk",
+      "markdown_cbuae_en_2464_ver2_hhi",
+      "markdown_cbuae_en_2464_ver2_icaap",
+      "markdown_cbuae_en_2464_ver2_icaap_governance",
+      "markdown_cbuae_en_2464_ver2_ilaap",
+      "markdown_cbuae_en_2464_ver2_liquidity_risk",
+      "markdown_cbuae_en_2464_ver2_reverse_stress_test",
+      "markdown_cbuae_en_2464_ver2_srep",
+      "markdown_cbuae_en_2464_ver2_stress_test",
+      "markdown_cbuae_en_2464_ver2_use_test"
+    ],
+    "32": [
+      "markdown_cbuae_en_3524_ver1",
+      "markdown_cbuae_en_3524_ver1_aml_training",
+      "markdown_cbuae_en_3524_ver1_apa_form",
+      "markdown_cbuae_en_3524_ver1_aup_remittance",
+      "markdown_cbuae_en_3524_ver1_cdd_process",
+      "markdown_cbuae_en_3524_ver1_cid_process",
+      "markdown_cbuae_en_3524_ver1_customer_complaints",
+      "markdown_cbuae_en_3524_ver1_faa_form",
+      "markdown_cbuae_en_3524_ver1_federal_decree_20_2018",
+      "markdown_cbuae_en_3524_ver1_kyc_process",
+      "markdown_cbuae_en_3524_ver1_lpa_form",
+      "markdown_cbuae_en_3524_ver1_record_retention",
+      "markdown_cbuae_en_3524_ver1_sanctions_screening",
+      "markdown_cbuae_en_3524_ver1_third_party_transactions",
+      "markdown_cbuae_en_3524_ver1_unclaimed_funds",
+      "markdown_cbuae_en_3524_ver1_wire_transfer_requirements",
+      "markdown_cbuae_en_3945_ver2_decree_20_2018"
+    ],
+    "33": [
+      "markdown_cbuae_en_1577_ver1_al_etihad_credit_bureau",
+      "markdown_cbuae_en_1577_ver1_client_money",
+      "markdown_cbuae_en_1577_ver1_conduct_of_business",
+      "markdown_cbuae_en_1577_ver1_governance",
+      "markdown_cbuae_en_1577_ver1_internal_controls",
+      "markdown_cbuae_en_1577_ver1_lca_regulation",
+      "markdown_cbuae_en_1577_ver1_licensing_requirements",
+      "markdown_cbuae_en_1577_ver1_prudential_requirements",
+      "markdown_cbuae_en_1577_ver1_reg_29_2011",
+      "markdown_cbuae_en_1577_ver1_reporting_record",
+      "markdown_cbuae_en_1577_ver1_risk_governance"
+    ],
+    "34": [
+      "markdown_cbuae_en_1580_ver1_aml_law",
+      "markdown_cbuae_en_1580_ver1_annex_i",
+      "markdown_cbuae_en_1580_ver1_annex_ii",
+      "markdown_cbuae_en_1580_ver1_payment_service_provider",
+      "markdown_cbuae_en_1580_ver1_retail_payment_service",
+      "markdown_cbuae_en_1580_ver1_retail_payment_service_user",
+      "markdown_cbuae_en_1580_ver1_rpscs_regulation",
+      "markdown_cbuae_en_4368_ver1_aml_cft_law",
+      "markdown_cbuae_en_4368_ver1_cabinet_decision_74",
+      "markdown_cbuae_en_4368_ver1_payment_risk_guidance",
+      "markdown_cbuae_en_4368_ver1_svf_regulation"
+    ],
+    "35": [
+      "markdown_cbuae_en_1494_ver1_rps",
+      "markdown_cbuae_en_1494_ver1_settlement_institution",
+      "markdown_cbuae_en_1494_ver1_system_operator",
+      "markdown_cbuae_en_1627_ver1",
+      "markdown_cbuae_en_1627_ver1_cpmi",
+      "markdown_cbuae_en_1627_ver1_cpmi_fraud_strategy",
+      "markdown_cbuae_en_1627_ver1_designation",
+      "markdown_cbuae_en_1627_ver1_iosco",
+      "markdown_cbuae_en_1627_ver1_lvps",
+      "markdown_cbuae_en_1627_ver1_pfmi"
+    ],
+    "36": [
+      "markdown_cbuae_en_4728_ver1",
+      "markdown_cbuae_en_4728_ver1_dcr",
+      "markdown_cbuae_en_4728_ver1_iah",
+      "markdown_cbuae_en_4728_ver1_irr",
+      "markdown_cbuae_en_4728_ver1_per",
+      "markdown_cbuae_en_4728_ver1_risk_mgmt_requirements"
+    ],
+    "37": [
+      "markdown_cbuae_en_1691_ver2",
+      "markdown_cbuae_en_1691_ver2_at1",
+      "markdown_cbuae_en_1691_ver2_basel_iii",
+      "markdown_cbuae_en_1691_ver2_capital_adequacy_regulation",
+      "markdown_cbuae_en_1691_ver2_capital_regulation_circular",
+      "markdown_cbuae_en_1691_ver2_dsib",
+      "markdown_cbuae_en_1691_ver2_ponv",
+      "markdown_cbuae_en_1691_ver2_qccp_clearing",
+      "markdown_cbuae_en_1691_ver2_sft_exposures",
+      "markdown_cbuae_en_1691_ver2_tier2",
+      "markdown_cbuae_en_1691_ver2_written_credit_derivatives",
+      "markdown_cbuae_en_1836_ver1",
+      "markdown_cbuae_en_1836_ver1_capital_conservation_buffer",
+      "markdown_cbuae_en_1836_ver1_cet1",
+      "markdown_cbuae_en_1836_ver1_countercyclical_buffer",
+      "markdown_cbuae_en_1836_ver1_dsib",
+      "markdown_cbuae_en_1836_ver1_tier1",
+      "markdown_cbuae_en_2464_ver2_additional_tier1",
+      "markdown_cbuae_en_2464_ver2_cet1_capital",
+      "markdown_cbuae_en_2464_ver2_deferred_tax_assets",
+      "markdown_cbuae_en_2464_ver2_grandfathering",
+      "markdown_cbuae_en_2464_ver2_maximum_distributable_amount",
+      "markdown_cbuae_en_2464_ver2_minority_interest",
+      "markdown_cbuae_en_2464_ver2_regulatory_adjustments",
+      "markdown_cbuae_en_2464_ver2_threshold_deduction",
+      "markdown_cbuae_en_2464_ver2_tier2",
+      "markdown_cbuae_en_2464_ver2_tier_capital_instruments",
+      "markdown_cbuae_en_2464_ver2_tier_capital_supply",
+      "markdown_cbuae_en_5027_ver1_connected_counterparties",
+      "markdown_cbuae_en_5027_ver1_large_exposure",
+      "markdown_cbuae_en_5027_ver1_related_parties",
+      "markdown_cbuae_en_5027_ver1_risk_governance",
+      "markdown_cbuae_en_5027_ver1_sovereign_exposures",
+      "markdown_cbuae_en_5027_ver1_unknown_client"
+    ],
+    "38": [
+      "markdown_cbuae_en_1250_ver1",
+      "markdown_cbuae_en_1250_ver1_article5_stress_testing",
+      "markdown_cbuae_en_1250_ver1_central_bank_law",
+      "markdown_cbuae_en_1269_ver1",
+      "markdown_cbuae_en_1269_ver1_article2_risk_governance",
+      "markdown_cbuae_en_1269_ver1_article3_risk_management_function",
+      "markdown_cbuae_en_1269_ver1_article5_stress_testing",
+      "markdown_cbuae_en_1269_ver1_icaap",
+      "markdown_cbuae_en_1269_ver1_risk_appetite_statement",
+      "markdown_cbuae_en_1287_ver1_article8_risk_management"
+    ],
+    "39": [
+      "markdown_cbuae_en_1691_ver2_commodities_risk",
+      "markdown_cbuae_en_1691_ver2_delta_plus",
+      "markdown_cbuae_en_1691_ver2_equity_risk",
+      "markdown_cbuae_en_1691_ver2_fx_risk",
+      "markdown_cbuae_en_1691_ver2_market_risk",
+      "markdown_cbuae_en_1691_ver2_options_treatment",
+      "markdown_cbuae_en_1691_ver2_prudent_valuation",
+      "markdown_cbuae_en_1691_ver2_simplified_approach_options",
+      "markdown_cbuae_en_2464_ver2_commodity_risk",
+      "markdown_cbuae_en_2464_ver2_delta_plus_method",
+      "markdown_cbuae_en_2464_ver2_equity_risk",
+      "markdown_cbuae_en_2464_ver2_market_risk",
+      "markdown_cbuae_en_2464_ver2_maturity_ladder_approach"
+    ],
+    "40": [
+      "markdown_cbuae_en_3945_ver2_business_risk_assessment",
+      "markdown_cbuae_en_3945_ver2_correspondent_relationships",
+      "markdown_cbuae_en_3945_ver2_edd",
+      "markdown_cbuae_en_3945_ver2_high_risk_countries",
+      "markdown_cbuae_en_3945_ver2_ml_typologies",
+      "markdown_cbuae_en_3945_ver2_mvts",
+      "markdown_cbuae_en_3945_ver2_namlcftc",
+      "markdown_cbuae_en_3945_ver2_national_strategy",
+      "markdown_cbuae_en_3945_ver2_npo",
+      "markdown_cbuae_en_3945_ver2_nra",
+      "markdown_cbuae_en_3945_ver2_risk_factors",
+      "markdown_cbuae_en_3945_ver2_vasp",
+      "markdown_cbuae_en_3945_ver2_wire_transfers",
+      "markdown_cbuae_en_3945_ver2_wolfsberg_group"
+    ],
+    "41": [
+      "markdown_cbuae_en_202_ver1_amlcft_program",
+      "markdown_cbuae_en_202_ver1_risk_assessment",
+      "markdown_cbuae_en_3524_ver1_cabinet_decision_10_2019",
+      "markdown_cbuae_en_3945_ver2",
+      "markdown_cbuae_en_3945_ver2_cabinet_10_2019",
+      "markdown_cbuae_en_3945_ver2_cdd",
+      "markdown_cbuae_en_3945_ver2_customer_risk_profile",
+      "markdown_cbuae_en_3945_ver2_ongoing_monitoring",
+      "markdown_cbuae_en_3945_ver2_rba",
+      "markdown_cbuae_en_3945_ver2_record_keeping",
+      "markdown_cbuae_en_3945_ver2_required_record_types",
+      "markdown_cbuae_en_3945_ver2_sdd",
+      "markdown_cbuae_en_498_ver1_agent_dd",
+      "markdown_cbuae_en_498_ver1_cid",
+      "markdown_cbuae_en_699_ver1_legal_arrangement",
+      "markdown_cbuae_en_699_ver1_legal_person"
+    ],
+    "42": [
+      "central_bank_law_14_2018",
+      "insurance_law_48_2023",
+      "markdown_cbuae_en_5114_ver1_board_senior_management",
+      "markdown_cbuae_en_5114_ver1_climate_financial_risk",
+      "markdown_cbuae_en_5114_ver1_ngfs",
+      "markdown_cbuae_en_5114_ver1_paris_agreement",
+      "markdown_cbuae_en_5114_ver1_principles",
+      "markdown_cbuae_en_5791_ver1_principle1",
+      "markdown_cbuae_en_5808_ver1_art2_licensing",
+      "markdown_cbuae_en_5808_ver1_art3_revocation",
+      "markdown_cbuae_en_5808_ver1_art5_fit_proper",
+      "markdown_cbuae_en_5808_ver1_insurance_brokers_regulation",
+      "markdown_cbuae_en_5808_ver1_law_14_2018",
+      "markdown_cbuae_en_5808_ver1_law_32_2021",
+      "markdown_cbuae_en_5808_ver1_law_48_2023",
+      "markdown_cbuae_en_6185_ver1",
+      "markdown_cbuae_en_6185_ver1_decretal_law_14_2018",
+      "markdown_cbuae_en_6185_ver1_law_14_2018",
+      "markdown_cbuae_en_6185_ver1_law_48_2023",
+      "markdown_cbuae_en_6415_ver1",
+      "markdown_cbuae_en_6415_ver1_art3_parent_responsibilities",
+      "markdown_cbuae_en_6415_ver1_art4_risk_concentration",
+      "markdown_cbuae_en_6415_ver1_art5_intragroup_transactions",
+      "markdown_cbuae_en_6415_ver1_art6_holding_company",
+      "markdown_cbuae_en_6415_ver1_art7_holding_considerations",
+      "markdown_cbuae_en_6415_ver1_art8_coordination",
+      "markdown_cbuae_en_6415_ver1_holding_company",
+      "markdown_cbuae_en_6415_ver1_insurance_group_supervision",
+      "markdown_cbuae_en_6415_ver1_parent",
+      "markdown_cbuae_en_6415_ver1_supervisory_college",
+      "markdown_cbuae_en_6431_ver1",
+      "markdown_cbuae_en_6431_ver1_art2_governance",
+      "markdown_cbuae_en_6431_ver1_art3_strategy",
+      "markdown_cbuae_en_6431_ver1_art4_risk_management",
+      "markdown_cbuae_en_6431_ver1_art5_capital",
+      "markdown_cbuae_en_6431_ver1_liability_risk",
+      "markdown_cbuae_en_6431_ver1_physical_risk",
+      "markdown_cbuae_en_6431_ver1_scenario_analysis",
+      "markdown_cbuae_en_6431_ver1_transition_risk",
+      "markdown_cbuae_en_6446_ver1",
+      "markdown_cbuae_en_6446_ver1_art14_fit_and_proper",
+      "markdown_cbuae_en_6446_ver1_art15_director_responsibilities",
+      "markdown_cbuae_en_6446_ver1_art3_activities",
+      "markdown_cbuae_en_6446_ver1_art4_conditions",
+      "markdown_cbuae_en_6986_ver1_disclosure_principles",
+      "markdown_cbuae_en_6986_ver1_principle6",
+      "markdown_cbuae_en_6986_ver1_principles",
+      "markdown_cbuae_en_6986_ver1_risk_management_principles",
+      "markdown_cbuae_en_6986_ver1_sfwg"
+    ],
+    "43": [
+      "markdown_cbuae_en_6471_ver1_executive_office",
+      "markdown_cbuae_en_6725_ver1_cabinet_decision_74",
+      "markdown_cbuae_en_6725_ver1_recommendation_7",
+      "markdown_cbuae_en_6725_ver1_tfs",
+      "markdown_cbuae_en_6725_ver1_unsc",
+      "markdown_cbuae_en_6725_ver1_unscr_1540",
+      "markdown_cbuae_en_6788_ver1_cabinet_decision_74_2020",
+      "markdown_cbuae_en_6788_ver1_sanctions_screening",
+      "markdown_cbuae_en_6788_ver1_tfs",
+      "markdown_cbuae_en_6843_ver1",
+      "markdown_cbuae_en_6843_ver1_decree_law_10_2025"
+    ],
+    "44": [
+      "markdown_cbuae_en_3945_ver2_ubo_resolution",
+      "markdown_cbuae_en_6843_ver1_beneficial_owner",
+      "markdown_cbuae_en_6843_ver1_legal_arrangements",
+      "markdown_cbuae_en_699_ver1_amlcft_law",
+      "markdown_cbuae_en_699_ver1_cabinet_decision_58",
+      "markdown_cbuae_en_699_ver1_guidance",
+      "markdown_cbuae_en_7154_ver1",
+      "markdown_cbuae_en_7154_ver1_aml_decree_law",
+      "markdown_cbuae_en_7154_ver1_registrar"
+    ],
+    "45": [
+      "markdown_cbuae_en_1691_ver2_asa",
+      "markdown_cbuae_en_1691_ver2_bcbs",
+      "markdown_cbuae_en_1691_ver2_bia",
+      "markdown_cbuae_en_1691_ver2_ccr",
+      "markdown_cbuae_en_1691_ver2_concentration_risk",
+      "markdown_cbuae_en_1691_ver2_derivative_exposures",
+      "markdown_cbuae_en_1691_ver2_hhi",
+      "markdown_cbuae_en_1691_ver2_irrbb",
+      "markdown_cbuae_en_1691_ver2_leverage_exposure_measure",
+      "markdown_cbuae_en_1691_ver2_leverage_ratio",
+      "markdown_cbuae_en_1691_ver2_liquidity_risk",
+      "markdown_cbuae_en_1691_ver2_operational_risk",
+      "markdown_cbuae_en_1691_ver2_pillar2_icaap",
+      "markdown_cbuae_en_1691_ver2_reputational_risk",
+      "markdown_cbuae_en_1691_ver2_sa",
+      "markdown_cbuae_en_1691_ver2_securitisation_review"
+    ],
+    "46": [
+      "markdown_cbuae_en_1691_ver2_ccp",
+      "markdown_cbuae_en_1691_ver2_ccr_standard",
+      "markdown_cbuae_en_1691_ver2_cva_capital",
+      "markdown_cbuae_en_1691_ver2_cva_hedges",
+      "markdown_cbuae_en_1691_ver2_cva_standard",
+      "markdown_cbuae_en_1691_ver2_default_fund",
+      "markdown_cbuae_en_1691_ver2_equity_funds",
+      "markdown_cbuae_en_1691_ver2_fba",
+      "markdown_cbuae_en_1691_ver2_leverage_adjustment",
+      "markdown_cbuae_en_1691_ver2_mba",
+      "markdown_cbuae_en_1691_ver2_qccp",
+      "markdown_cbuae_en_2464_ver2_eif",
+      "markdown_cbuae_en_2464_ver2_leverage_adjustment",
+      "markdown_cbuae_en_2464_ver2_lta"
+    ],
+    "47": [
+      "markdown_cbuae_en_1884_ver1",
+      "markdown_cbuae_en_1884_ver1_committee",
+      "markdown_cbuae_en_1884_ver1_dispute_settlement",
+      "markdown_cbuae_en_1884_ver1_remote_communication_technology",
+      "markdown_cbuae_en_1884_ver2"
+    ],
+    "48": [
+      "decretal_federal_law_14_2018",
+      "markdown_cbuae_en_1286_ver1_issc",
+      "markdown_cbuae_en_2027_ver1",
+      "markdown_cbuae_en_2027_ver1_sgs",
+      "markdown_cbuae_en_2200_ver1_higher_shariah_authority",
+      "markdown_cbuae_en_3509_ver1",
+      "markdown_cbuae_en_3509_ver1_alm_framework",
+      "markdown_cbuae_en_3509_ver1_islamic_window",
+      "markdown_cbuae_en_5692_ver1_annual_plan",
+      "markdown_cbuae_en_5692_ver1_field_review",
+      "markdown_cbuae_en_5692_ver1_review_process",
+      "markdown_cbuae_en_5692_ver1_shariah_compliance_function",
+      "markdown_cbuae_en_5692_ver1_snc_risk",
+      "markdown_cbuae_en_5705_ver1_guidance_note",
+      "markdown_cbuae_en_5705_ver1_prioritization_parameters",
+      "markdown_cbuae_en_5705_ver1_product_checklist",
+      "markdown_cbuae_en_5705_ver1_sampling_methodology"
+    ],
+    "49": [
+      "markdown_cbuae_en_4711_ver1_0_annual_levy",
+      "markdown_cbuae_en_4711_ver1_0_appeals_committee",
+      "markdown_cbuae_en_4711_ver1_0_complaint",
+      "markdown_cbuae_en_4711_ver1_0_determination",
+      "markdown_cbuae_en_4711_ver1_0_insurance_dispute_resolution_committee",
+      "markdown_cbuae_en_4711_ver1_0_ombudsman_unit",
+      "markdown_cbuae_en_4711_ver1_0_regulation",
+      "markdown_cbuae_en_4711_ver1_0_regulatory_development_division",
+      "markdown_cbuae_en_4841_ver1_0",
+      "markdown_cbuae_en_4841_ver1_0_maximum_limit"
+    ],
+    "50": [
+      "markdown_cbuae_en_1691_ver2_comprehensive_approach",
+      "markdown_cbuae_en_1691_ver2_credit_derivatives",
+      "markdown_cbuae_en_1691_ver2_crm",
+      "markdown_cbuae_en_1691_ver2_currency_mismatch",
+      "markdown_cbuae_en_1691_ver2_first_to_default",
+      "markdown_cbuae_en_1691_ver2_guarantees",
+      "markdown_cbuae_en_1691_ver2_maturity_mismatch",
+      "markdown_cbuae_en_1691_ver2_second_to_default",
+      "markdown_cbuae_en_1691_ver2_simple_approach"
+    ],
+    "51": [
+      "markdown_cbuae_en_2267_ver1_confidential_data",
+      "markdown_cbuae_en_2267_ver1_data_protection",
+      "markdown_cbuae_en_2267_ver1_governance_risk_management",
+      "markdown_cbuae_en_2267_ver1_master_system_of_record",
+      "markdown_cbuae_en_2267_ver1_outsourcing_agreements",
+      "markdown_cbuae_en_2267_ver1_outsourcing_outside_uae",
+      "markdown_cbuae_en_2267_ver1_outsourcing_register",
+      "markdown_cbuae_en_2267_ver1_outsourcing_regulation",
+      "markdown_cbuae_en_2267_ver1_risk_management_regulation",
+      "markdown_cbuae_en_2327_ver1_outsourcing_standards"
+    ],
+    "52": [
+      "markdown_cbuae_en_1953_ver1",
+      "markdown_cbuae_en_1953_ver1_iia_standards",
+      "markdown_cbuae_en_1953_ver1_internal_audit_function",
+      "markdown_cbuae_en_1953_ver1_internal_control_framework",
+      "markdown_cbuae_en_3945_ver2_internal_policies",
+      "markdown_cbuae_en_3945_ver2_three_lines_defense",
+      "markdown_cbuae_en_4654_ver1_actuarial_function",
+      "markdown_cbuae_en_4689_ver1_board",
+      "markdown_cbuae_en_4689_ver1_compliance_function",
+      "markdown_cbuae_en_4689_ver1_control_functions",
+      "markdown_cbuae_en_4689_ver1_countering_fraud",
+      "markdown_cbuae_en_4689_ver1_regulation",
+      "markdown_cbuae_en_4689_ver1_senior_management",
+      "markdown_cbuae_en_5072_ver1_board_of_directors"
+    ],
+    "53": [
+      "markdown_cbuae_en_1430_ver1",
+      "markdown_cbuae_en_1430_ver1_back_testing",
+      "markdown_cbuae_en_1430_ver1_internal_validation",
+      "markdown_cbuae_en_1430_ver1_islamic_banking",
+      "markdown_cbuae_en_1430_ver1_systems_controls",
+      "markdown_cbuae_en_1430_ver1_valuation",
+      "markdown_cbuae_en_4044_ver1_capital",
+      "markdown_cbuae_en_4044_ver1_central_bank_law",
+      "markdown_cbuae_en_4044_ver1_islamic_banking",
+      "markdown_cbuae_en_4044_ver1_market_risk_regulation",
+      "markdown_cbuae_en_4044_ver1_reporting_requirements",
+      "markdown_cbuae_en_4044_ver1_systems_controls",
+      "markdown_cbuae_en_4044_ver1_trading_book"
+    ],
+    "54": [
+      "markdown_cbuae_en_4208_ver1",
+      "markdown_cbuae_en_4208_ver1_art2_counterfeit",
+      "markdown_cbuae_en_4208_ver1_art3_court_cases",
+      "markdown_cbuae_en_4208_ver1_art4_cross_border",
+      "markdown_cbuae_en_4208_ver1_art5_card",
+      "markdown_cbuae_en_4208_ver1_art7_certificates",
+      "markdown_cbuae_en_4208_ver1_art8_reporting",
+      "markdown_cbuae_en_4208_ver1_irr_system",
+      "markdown_cbuae_en_4208_ver1_reg_29_2011"
+    ],
+    "55": [
+      "markdown_cbuae_en_4654_ver1_risk_appetite",
+      "markdown_cbuae_en_6678_ver1_alm",
+      "markdown_cbuae_en_6678_ver1_capital_adequacy",
+      "markdown_cbuae_en_6678_ver1_erm",
+      "markdown_cbuae_en_6678_ver1_erm_standards",
+      "markdown_cbuae_en_6678_ver1_orsa",
+      "markdown_cbuae_en_6678_ver1_recovery_planning",
+      "markdown_cbuae_en_6678_ver1_relevant_regulations",
+      "markdown_cbuae_en_6678_ver1_risk_limits"
+    ],
+    "56": [
+      "aml_cft_decision_10_2019",
+      "aml_cft_law_20_2018",
+      "fatf_mer_uae_2020",
+      "markdown_cbuae_en_644_ver1",
+      "markdown_cbuae_en_644_ver1_dnfbp",
+      "markdown_cbuae_en_644_ver1_dpms",
+      "markdown_cbuae_en_644_ver1_real_estate_sector"
+    ],
+    "57": [
+      "markdown_cbuae_en_1691_ver2_addon_commodity",
+      "markdown_cbuae_en_1691_ver2_addon_credit",
+      "markdown_cbuae_en_1691_ver2_addon_equity",
+      "markdown_cbuae_en_1691_ver2_addon_fx",
+      "markdown_cbuae_en_1691_ver2_addon_ir",
+      "markdown_cbuae_en_1691_ver2_adjusted_notional",
+      "markdown_cbuae_en_1691_ver2_hedging_set",
+      "markdown_cbuae_en_1691_ver2_maturity_factor",
+      "markdown_cbuae_en_1691_ver2_supervisory_delta",
+      "markdown_cbuae_en_1691_ver2_supervisory_factors"
+    ],
+    "58": [
+      "markdown_cbuae_en_2792_ver1",
+      "markdown_cbuae_en_2792_ver1_board_responsibility",
+      "markdown_cbuae_en_2792_ver1_major_acquisition",
+      "markdown_cbuae_en_2792_ver1_total_regulatory_capital",
+      "markdown_cbuae_en_2809_ver1",
+      "markdown_cbuae_en_2809_ver1_approval_requirement",
+      "markdown_cbuae_en_2809_ver1_controlling_shareholder",
+      "markdown_cbuae_en_2809_ver1_shareholder_register",
+      "markdown_cbuae_en_2809_ver1_significant_shareholder"
+    ],
+    "59": [
+      "markdown_cbuae_en_4091_ver1_0_aml_kyc_procedures",
+      "markdown_cbuae_en_4091_ver1_0_common_reporting_standard",
+      "markdown_cbuae_en_4091_ver1_0_crs_regulations",
+      "markdown_cbuae_en_4091_ver1_0_due_diligence_procedures",
+      "markdown_cbuae_en_4091_ver1_0_oecd",
+      "markdown_cbuae_en_4091_ver1_0_passive_nfe",
+      "markdown_cbuae_en_4091_ver1_0_reportable_account",
+      "markdown_cbuae_en_4091_ver1_0_reporting_financial_institution",
+      "markdown_cbuae_en_4091_ver1_0_uae_competent_authority"
+    ],
+    "60": [
+      "markdown_cbuae_en_4496_ver1",
+      "markdown_cbuae_en_4496_ver1_council",
+      "markdown_cbuae_en_4496_ver1_fi_dnfbp_obligations",
+      "markdown_cbuae_en_4496_ver1_freezing_measures",
+      "markdown_cbuae_en_4496_ver1_local_lists",
+      "markdown_cbuae_en_4496_ver1_office",
+      "markdown_cbuae_en_4496_ver1_ombudsperson",
+      "markdown_cbuae_en_4496_ver1_sanctions_committee",
+      "markdown_cbuae_en_4496_ver1_sanctions_list",
+      "markdown_cbuae_en_4496_ver1_unscr_1373"
+    ],
+    "61": [
+      "markdown_cbuae_en_3524_ver1_beneficial_owner",
+      "markdown_cbuae_en_3524_ver1_dnfbp",
+      "markdown_cbuae_en_3524_ver1_edd_process",
+      "markdown_cbuae_en_4407_ver1_edd",
+      "markdown_cbuae_en_4407_ver1_pep",
+      "markdown_cbuae_en_4407_ver1_pep_screening",
+      "markdown_cbuae_en_4407_ver1_related_customer",
+      "markdown_cbuae_en_4407_ver1_source_of_wealth",
+      "markdown_cbuae_en_4429_ver1_edd"
+    ],
+    "62": [
+      "markdown_cbuae_en_5583_ver1_annual_report",
+      "markdown_cbuae_en_5583_ver1_shariah_governance_standard",
+      "markdown_cbuae_en_5583_ver1_standard",
+      "markdown_cbuae_en_5590_ver1_charter",
+      "markdown_cbuae_en_5590_ver1_standard",
+      "markdown_cbuae_en_6018_ver1_issc",
+      "markdown_cbuae_en_7267_ver1_article14_sncr",
+      "markdown_cbuae_en_7267_ver1_islamic_finance_institution"
+    ],
+    "63": [
+      "markdown_cbuae_en_6127_ver1_authentication",
+      "markdown_cbuae_en_6127_ver1_data_holder",
+      "markdown_cbuae_en_6127_ver1_data_privacy_consent",
+      "markdown_cbuae_en_6127_ver1_data_sharing",
+      "markdown_cbuae_en_6127_ver1_data_sharing_provider",
+      "markdown_cbuae_en_6127_ver1_open_finance_provider",
+      "markdown_cbuae_en_6127_ver1_person_deemed_licensed",
+      "markdown_cbuae_en_6127_ver1_service_initiation",
+      "markdown_cbuae_en_6127_ver1_service_initiation_provider",
+      "markdown_cbuae_en_6127_ver1_service_owner"
+    ],
+    "64": [
+      "markdown_cbuae_en_2413_ver1_supervisory_authority",
+      "markdown_cbuae_en_4368_ver1_correspondent_banking",
+      "markdown_cbuae_en_4368_ver1_intermediation",
+      "markdown_cbuae_en_4368_ver1_nesting",
+      "markdown_cbuae_en_6843_ver1_financial_group",
+      "markdown_cbuae_en_6843_ver1_financial_institutions",
+      "markdown_cbuae_en_6843_ver1_shell_bank",
+      "markdown_cbuae_en_6843_ver1_wire_transfers"
+    ],
+    "65": [
+      "markdown_cbuae_en_156_ver1_claim_procedures",
+      "markdown_cbuae_en_156_ver1_code_of_conduct",
+      "markdown_cbuae_en_156_ver1_ministerial_res_296",
+      "markdown_cbuae_en_156_ver1_policy",
+      "markdown_cbuae_en_156_ver1_pricing",
+      "markdown_cbuae_en_156_ver2_bod_decision_40_2019",
+      "markdown_cbuae_en_156_ver2_code_of_conduct"
+    ],
+    "66": [
+      "markdown_cbuae_en_1691_ver2_ccf",
+      "markdown_cbuae_en_1691_ver2_credit_risk",
+      "markdown_cbuae_en_1691_ver2_ecai",
+      "markdown_cbuae_en_2464_ver2_claims_banks",
+      "markdown_cbuae_en_2464_ver2_claims_corporates",
+      "markdown_cbuae_en_2464_ver2_claims_pse",
+      "markdown_cbuae_en_2464_ver2_claims_sovereigns",
+      "markdown_cbuae_en_2464_ver2_credit_risk",
+      "markdown_cbuae_en_2464_ver2_gre_list",
+      "markdown_cbuae_en_2464_ver2_iosco_cra_code",
+      "markdown_cbuae_en_2464_ver2_rating_correspondence",
+      "markdown_cbuae_en_2464_ver2_regulatory_retail",
+      "markdown_cbuae_en_2464_ver2_residential_property"
+    ],
+    "67": [
+      "markdown_cbuae_en_1691_ver2_ead",
+      "markdown_cbuae_en_1691_ver2_netting_set",
+      "markdown_cbuae_en_1691_ver2_pfe",
+      "markdown_cbuae_en_1691_ver2_pfe_multiplier",
+      "markdown_cbuae_en_2464_ver2_counterparty_credit_risk",
+      "markdown_cbuae_en_2464_ver2_ead",
+      "markdown_cbuae_en_2464_ver2_netting",
+      "markdown_cbuae_en_2464_ver2_pfe",
+      "markdown_cbuae_en_2464_ver2_replacement_cost",
+      "markdown_cbuae_en_2464_ver2_supervisory_duration"
+    ],
+    "68": [
+      "markdown_cbuae_en_1691_ver2_duration_method",
+      "markdown_cbuae_en_1691_ver2_general_market_risk",
+      "markdown_cbuae_en_1691_ver2_interest_rate_risk",
+      "markdown_cbuae_en_1691_ver2_maturity_method",
+      "markdown_cbuae_en_2464_ver2_interest_rate_risk",
+      "markdown_cbuae_en_2464_ver2_specific_risk"
+    ],
+    "69": [
+      "markdown_cbuae_en_3945_ver2_aml_cft_decision",
+      "markdown_cbuae_en_3945_ver2_aml_cft_law",
+      "markdown_cbuae_en_3945_ver2_egmont_group",
+      "markdown_cbuae_en_3945_ver2_fatf",
+      "markdown_cbuae_en_3945_ver2_glossary",
+      "markdown_cbuae_en_3945_ver2_group_oversight",
+      "markdown_cbuae_en_3945_ver2_guidelines",
+      "markdown_cbuae_en_3945_ver2_menafatf",
+      "markdown_cbuae_en_3945_ver2_staff_screening_training",
+      "markdown_cbuae_en_6788_ver1_red_flags",
+      "markdown_cbuae_en_6788_ver1_vulnerable_sectors"
+    ],
+    "70": [
+      "markdown_cbuae_en_3524_ver1_ch12_counterfeit",
+      "markdown_cbuae_en_3524_ver1_fiu",
+      "markdown_cbuae_en_3524_ver1_goaml",
+      "markdown_cbuae_en_3945_ver2_goaml",
+      "markdown_cbuae_en_3945_ver2_str",
+      "markdown_cbuae_en_3945_ver2_tipping_off",
+      "markdown_cbuae_en_418_ver2_compliance_officer_mlro",
+      "markdown_cbuae_en_418_ver2_first_line",
+      "markdown_cbuae_en_418_ver2_red_flags",
+      "markdown_cbuae_en_418_ver2_sar",
+      "markdown_cbuae_en_418_ver2_second_line",
+      "markdown_cbuae_en_418_ver2_transaction_monitoring",
+      "markdown_cbuae_en_6530_ver1_board_senior_mgmt",
+      "markdown_cbuae_en_6530_ver1_role_based_training",
+      "markdown_cbuae_en_6530_ver1_third_line",
+      "markdown_cbuae_en_6530_ver1_training_needs_assessment",
+      "markdown_cbuae_en_6788_ver1_str_sar_reporting",
+      "markdown_cbuae_en_6788_ver1_uae_fiu"
+    ],
+    "71": [
+      "markdown_cbuae_en_4229_ver1",
+      "markdown_cbuae_en_4229_ver1_art2_disclosure",
+      "markdown_cbuae_en_4229_ver1_article3_institutional_oversight",
+      "markdown_cbuae_en_4229_ver1_article4_market_conduct",
+      "markdown_cbuae_en_4229_ver1_article5_business_conduct",
+      "markdown_cbuae_en_4229_ver1_concept_annual_percentage_rate",
+      "markdown_cbuae_en_4229_ver1_concept_authorized_agents",
+      "markdown_cbuae_en_4229_ver1_concept_base_lending_rate",
+      "markdown_cbuae_en_4229_ver1_concept_conduct_risk_management",
+      "markdown_cbuae_en_4229_ver1_concept_consumer_mobility",
+      "markdown_cbuae_en_4229_ver1_concept_consumer_protection_annual_report",
+      "markdown_cbuae_en_4229_ver1_concept_cooling_off_period",
+      "markdown_cbuae_en_4229_ver1_concept_no_objection_letter",
+      "markdown_cbuae_en_4229_ver1_concept_product_approval_framework",
+      "markdown_cbuae_en_4229_ver1_concept_shariah_compliance",
+      "markdown_cbuae_en_4229_ver1_concept_unauthorized_transactions",
+      "markdown_cbuae_en_4229_ver1_consumer_protection_reg",
+      "markdown_cbuae_en_4229_ver1_key_facts_statement",
+      "markdown_cbuae_en_4229_ver1_section211_general_provisions",
+      "markdown_cbuae_en_4229_ver1_section212_deposit_products",
+      "markdown_cbuae_en_4229_ver1_section213_credit_financing_products",
+      "markdown_cbuae_en_4229_ver1_section214_structured_products",
+      "markdown_cbuae_en_4229_ver1_section215_remittances_transfers_fx",
+      "markdown_cbuae_en_4229_ver1_section23_responsible_advertising",
+      "markdown_cbuae_en_4229_ver1_shariah_governance"
+    ],
+    "72": [
+      "markdown_cbuae_en_4640_ver1",
+      "markdown_cbuae_en_4640_ver1_cg_regulation",
+      "markdown_cbuae_en_4654_ver1",
+      "markdown_cbuae_en_4654_ver1_fraud_countering",
+      "markdown_cbuae_en_4654_ver1_outsourcing",
+      "markdown_cbuae_en_4654_ver1_rm_regulation",
+      "markdown_cbuae_en_4669_ver1",
+      "markdown_cbuae_en_4669_ver1_financial_regulations",
+      "markdown_cbuae_en_4669_ver1_insurance_law",
+      "markdown_cbuae_en_4669_ver1_sca_regulation"
+    ],
+    "73": [
+      "markdown_cbuae_en_4368_ver1_ekyc",
+      "markdown_cbuae_en_4473_ver1_digital_id",
+      "markdown_cbuae_en_4473_ver1_dpp_framework",
+      "markdown_cbuae_en_4473_ver1_emirates_id",
+      "markdown_cbuae_en_4473_ver1_ica_validation_gateway",
+      "markdown_cbuae_en_4473_ver1_identity_proofing",
+      "markdown_cbuae_en_4473_ver1_uae_pass",
+      "markdown_cbuae_en_6593_ver1_digital_identification"
+    ],
+    "74": [
+      "markdown_cbuae_en_4429_ver1_third_party_reliance",
+      "markdown_cbuae_en_4473_ver1",
+      "markdown_cbuae_en_4473_ver1_appropriateness_assessment",
+      "markdown_cbuae_en_4473_ver1_assurance_assessment",
+      "markdown_cbuae_en_4473_ver1_fatf_guidance",
+      "markdown_cbuae_en_4473_ver1_nist_guidelines",
+      "markdown_cbuae_en_4473_ver1_third_party_reliance",
+      "nist_digital_identity_guidelines"
+    ],
+    "75": [
+      "markdown_cbuae_en_1627_ver1_grievances_committee",
+      "markdown_cbuae_en_4669_ver1_general_assembly",
+      "markdown_cbuae_en_6185_ver1_administrative_sanctions",
+      "markdown_cbuae_en_6185_ver1_central_bank",
+      "markdown_cbuae_en_6185_ver1_currency_dirham",
+      "markdown_cbuae_en_6185_ver1_designated_infrastructure",
+      "markdown_cbuae_en_6185_ver1_financial_market_infrastructure",
+      "markdown_cbuae_en_6185_ver1_governor",
+      "markdown_cbuae_en_6185_ver1_licensed_financial_activities",
+      "markdown_cbuae_en_6185_ver1_licensed_financial_institution",
+      "markdown_cbuae_en_6185_ver1_resolution_authority"
+    ],
+    "76": [
+      "markdown_cbuae_en_7267_ver1_annex1_tools",
+      "markdown_cbuae_en_7267_ver1_article11_bcp",
+      "markdown_cbuae_en_7267_ver1_article13_third_party",
+      "markdown_cbuae_en_7267_ver1_article2_framework",
+      "markdown_cbuae_en_7267_ver1_article3_resilience",
+      "markdown_cbuae_en_7267_ver1_article6_risk_function",
+      "markdown_cbuae_en_7267_ver1_article7_internal_control",
+      "markdown_cbuae_en_7267_ver1_article8_ict_cyber",
+      "markdown_cbuae_en_7267_ver1_article9_incident"
+    ],
+    "77": [
+      "markdown_cbuae_en_5731_ver1_algorithmic_stablecoin",
+      "markdown_cbuae_en_5731_ver1_non_objection_registration",
+      "markdown_cbuae_en_5731_ver1_outsourcing_regulation",
+      "markdown_cbuae_en_5731_ver1_payment_token_conversion",
+      "markdown_cbuae_en_5731_ver1_payment_token_custody_transfer",
+      "markdown_cbuae_en_5731_ver1_payment_token_services_regulation",
+      "markdown_cbuae_en_5731_ver1_regulatory_capital",
+      "markdown_cbuae_en_5731_ver1_sca"
+    ],
+    "78": [
+      "markdown_cbuae_en_1702_ver1",
+      "markdown_cbuae_en_1702_ver1_car_loan",
+      "markdown_cbuae_en_1702_ver1_credit_cards",
+      "markdown_cbuae_en_1702_ver1_interest_computation",
+      "markdown_cbuae_en_1702_ver1_personal_loan",
+      "markdown_cbuae_en_1702_ver1_repayment_installments",
+      "markdown_cbuae_en_1702_ver1_union_law_10_1980",
+      "markdown_cbuae_en_1702_ver2"
+    ],
+    "79": [
+      "markdown_cbuae_en_6593_ver1_beneficial_ownership",
+      "markdown_cbuae_en_6593_ver1_identification_verification",
+      "markdown_cbuae_en_949_ver1_list_management",
+      "markdown_cbuae_en_949_ver1_sanctions_screening",
+      "markdown_cbuae_en_949_ver1_transaction_screening",
+      "markdown_cbuae_en_996_ver1_fuzzy_matching",
+      "markdown_cbuae_en_996_ver1_name_screening",
+      "markdown_cbuae_en_996_ver1_ownership_control_rule"
+    ],
+    "80": [
+      "markdown_cbuae_en_2850_ver1",
+      "markdown_cbuae_en_2850_ver1_bank_loans_regulation",
+      "markdown_cbuae_en_2850_ver1_notice_3871_2012",
+      "markdown_cbuae_en_2850_ver1_union_law_10_1980",
+      "markdown_cbuae_en_2850_ver2",
+      "markdown_cbuae_en_2850_ver2_board_resolution_31_2_2020",
+      "markdown_cbuae_en_2850_ver2_board_resolution_96_2019",
+      "markdown_cbuae_en_2850_ver2_regulation_29_2011"
+    ],
+    "81": [
+      "markdown_cbuae_en_1150_ver1_cabinet_resolution7",
+      "markdown_cbuae_en_1150_ver1_financial_regulations",
+      "markdown_cbuae_en_1150_ver1_fines_schedule",
+      "markdown_cbuae_en_1577_ver1_fed_law_2_2015",
+      "markdown_cbuae_en_3042_ver1",
+      "markdown_cbuae_en_3042_ver1_ia_board_decision_18_2020",
+      "markdown_cbuae_en_3042_ver1_ia_board_resolution_3_2010"
+    ],
+    "82": [
+      "markdown_cbuae_en_1494_ver1",
+      "markdown_cbuae_en_1494_ver1_central_bank_law",
+      "markdown_cbuae_en_1494_ver1_designation",
+      "markdown_cbuae_en_1531_ver1_licensing",
+      "markdown_cbuae_en_1627_ver1_netting",
+      "markdown_cbuae_en_1627_ver1_settlement_finality",
+      "markdown_cbuae_en_4171_ver1_national_shareholding_regulation",
+      "markdown_cbuae_en_4171_ver1_significant_shareholder_regulation",
+      "markdown_cbuae_en_4185_ver1_high_net_worth_customer",
+      "markdown_cbuae_en_4185_ver1_min_capital_regulation",
+      "markdown_cbuae_en_4185_ver1_restricted_licence_banks_regulation",
+      "markdown_cbuae_en_4185_ver1_wholesale_banking_regulation"
+    ],
+    "83": [
+      "markdown_cbuae_en_4229_ver1_article6_data_protection",
+      "markdown_cbuae_en_4229_ver1_authorized_agents_sharing",
+      "markdown_cbuae_en_4229_ver1_data_management_function",
+      "markdown_cbuae_en_4229_ver1_expressed_consent"
+    ],
+    "84": [
+      "markdown_cbuae_en_1531_ver1_aml_cft",
+      "markdown_cbuae_en_1531_ver1_fatf",
+      "markdown_cbuae_en_202_ver1",
+      "markdown_cbuae_en_202_ver1_amlcft_law",
+      "markdown_cbuae_en_202_ver1_standards",
+      "markdown_cbuae_en_5072_ver1_aml_law",
+      "markdown_cbuae_en_5731_ver1_aml_cft"
+    ],
+    "85": [
+      "markdown_cbuae_en_6052_ver1_authorized_individual",
+      "markdown_cbuae_en_6052_ver1_cpd",
+      "markdown_cbuae_en_6070_ver1_designated_functions",
+      "markdown_cbuae_en_6070_ver1_designated_functions_list",
+      "markdown_cbuae_en_6070_ver1_fit_and_proper_criteria",
+      "markdown_cbuae_en_6070_ver1_fit_and_proper_process"
+    ],
+    "86": [
+      "markdown_cbuae_en_2413_ver1",
+      "markdown_cbuae_en_2413_ver1_api",
+      "markdown_cbuae_en_2413_ver1_biometrics",
+      "markdown_cbuae_en_2413_ver1_credential_service_provider",
+      "markdown_cbuae_en_2413_ver1_enabling_technology",
+      "markdown_cbuae_en_2413_ver1_identity_lifecycle",
+      "markdown_cbuae_en_2413_ver1_outsourcing"
+    ],
+    "87": [
+      "markdown_cbuae_en_6471_ver1",
+      "markdown_cbuae_en_6471_ver1_fdl20_2018",
+      "markdown_cbuae_en_6471_ver1_money_laundering",
+      "markdown_cbuae_en_6471_ver1_national_committee",
+      "markdown_cbuae_en_6471_ver1_proliferation_financing",
+      "markdown_cbuae_en_6471_ver1_supreme_committee",
+      "markdown_cbuae_en_6471_ver1_terrorism_financing",
+      "markdown_cbuae_en_6843_ver1_nrisk_assessment"
+    ],
+    "88": [
+      "markdown_cbuae_en_5731_ver1_privacy_token",
+      "markdown_cbuae_en_6663_ver1_beneficiary",
+      "markdown_cbuae_en_6663_ver1_decision",
+      "markdown_cbuae_en_6663_ver1_intermediary_provider",
+      "markdown_cbuae_en_6663_ver1_originator",
+      "markdown_cbuae_en_6663_ver1_travel_rule",
+      "markdown_cbuae_en_6663_ver1_vasp",
+      "markdown_cbuae_en_6663_ver1_virtual_asset_transfer"
+    ],
+    "89": [
+      "markdown_cbuae_en_1082_ver1",
+      "markdown_cbuae_en_1082_ver1_medical_service_providers",
+      "markdown_cbuae_en_1082_ver1_tpa",
+      "markdown_cbuae_en_1082_ver1_tpa_insurance_company_agreement",
+      "markdown_cbuae_en_1082_ver1_tpa_licensing",
+      "markdown_cbuae_en_1082_ver2",
+      "markdown_cbuae_en_1082_ver2_bank_guaranty"
+    ],
+    "90": [
+      "markdown_cbuae_en_996_ver1_customer_screening",
+      "markdown_cbuae_en_996_ver1_false_positive_verification",
+      "markdown_cbuae_en_996_ver1_local_terrorist_list",
+      "markdown_cbuae_en_996_ver1_payments_screening",
+      "markdown_cbuae_en_996_ver1_sanctions_evasion",
+      "markdown_cbuae_en_996_ver1_screening_operations",
+      "markdown_cbuae_en_996_ver1_un_consolidated_list"
+    ],
+    "91": [
+      "markdown_cbuae_en_1580_ver1_crypto_asset",
+      "markdown_cbuae_en_1580_ver1_payment_token",
+      "markdown_cbuae_en_1580_ver1_payment_token_services",
+      "markdown_cbuae_en_1580_ver1_reserve_of_assets",
+      "markdown_cbuae_en_1580_ver1_white_paper"
+    ],
+    "92": [
+      "markdown_cbuae_en_2464_ver2_irrbb",
+      "markdown_cbuae_en_2464_ver2_model_mgmt_standards",
+      "markdown_cbuae_en_4881_ver1_cro",
+      "markdown_cbuae_en_4881_ver1_model_risk",
+      "markdown_cbuae_en_4881_ver1_remediation_process",
+      "markdown_cbuae_en_4881_ver1_validation_reporting"
+    ],
+    "93": [
+      "markdown_cbuae_en_2464_ver2_cva_capital_formula",
+      "markdown_cbuae_en_2464_ver2_cva_hedges",
+      "markdown_cbuae_en_2464_ver2_index_hedge",
+      "markdown_cbuae_en_2464_ver2_pillar_2",
+      "markdown_cbuae_en_2464_ver2_risk_weights",
+      "markdown_cbuae_en_2464_ver2_rwa",
+      "markdown_cbuae_en_2464_ver2_sne",
+      "markdown_cbuae_en_2464_ver2_supervisory_discount_factor"
+    ],
+    "94": [
+      "markdown_cbuae_en_156_ver1_law_6_2007",
+      "markdown_cbuae_en_176_ver1_insurance_authority",
+      "markdown_cbuae_en_2839_ver1",
+      "markdown_cbuae_en_2839_ver1_companies_law_8_1984",
+      "markdown_cbuae_en_2839_ver1_minimum_capital",
+      "markdown_cbuae_en_2839_ver2",
+      "markdown_cbuae_en_2839_ver2_cabinet_resolution_16_2017",
+      "markdown_cbuae_en_2978_ver1",
+      "markdown_cbuae_en_2978_ver1_board_decision_25_2014",
+      "markdown_cbuae_en_2978_ver1_board_decision_26_2014",
+      "markdown_cbuae_en_3070_ver1",
+      "markdown_cbuae_en_3070_ver1_points_of_sale"
+    ],
+    "95": [
+      "markdown_cbuae_en_3524_ver1_bank_guarantee",
+      "markdown_cbuae_en_3524_ver1_ch1_scope",
+      "markdown_cbuae_en_3524_ver1_ch2_capital",
+      "markdown_cbuae_en_3524_ver1_license_category_a",
+      "markdown_cbuae_en_3524_ver1_regulations_2014",
+      "markdown_cbuae_en_3524_ver1_standards",
+      "markdown_cbuae_en_3524_ver1_wps",
+      "markdown_cbuae_en_6788_ver1_documentary_trade_finance",
+      "markdown_cbuae_en_6788_ver1_letter_of_credit"
+    ],
+    "96": [
+      "markdown_cbuae_en_5056_ver1",
+      "markdown_cbuae_en_5056_ver1_takaful_regulation",
+      "markdown_cbuae_en_6018_ver1_commercial_transactions_law",
+      "markdown_cbuae_en_6018_ver1_external_shariah_audit_ifi",
+      "markdown_cbuae_en_6034_ver1_external_shariah_audit_takaful",
+      "markdown_cbuae_en_6034_ver1_insurance_law"
+    ],
+    "97": [
+      "markdown_cbuae_en_6530_ver1",
+      "markdown_cbuae_en_6530_ver1_cabinet_decision_10_2019",
+      "markdown_cbuae_en_6530_ver1_fdl20_2018",
+      "markdown_cbuae_en_6531_ver1",
+      "markdown_cbuae_en_6725_ver1_fatf",
+      "markdown_cbuae_en_6725_ver1_pf_risk"
+    ],
+    "98": [
+      "markdown_cbuae_en_4588_ver1",
+      "markdown_cbuae_en_4588_ver1_amlcft_law",
+      "markdown_cbuae_en_4588_ver1_fatf_standards",
+      "markdown_cbuae_en_4588_ver1_hawala_provider_certificate",
+      "markdown_cbuae_en_4588_ver1_registered_hawala_provider",
+      "markdown_cbuae_en_4588_ver1_remittance_reporting_system"
+    ],
+    "99": [
+      "markdown_cbuae_en_2825_ver1_external_shariah_audit",
+      "markdown_cbuae_en_3524_ver1_ch5_examinations",
+      "markdown_cbuae_en_3524_ver1_ch6_governance",
+      "markdown_cbuae_en_3524_ver1_manager_in_charge",
+      "markdown_cbuae_en_3524_ver1_transmittal_letter",
+      "markdown_cbuae_en_4229_ver1_article8_complaint_management",
+      "markdown_cbuae_en_4229_ver1_complaint_management_function",
+      "markdown_cbuae_en_4229_ver1_fair_treatment",
+      "markdown_cbuae_en_4640_ver1_board",
+      "markdown_cbuae_en_4640_ver1_compensation_committee",
+      "markdown_cbuae_en_4640_ver1_conflict_of_interest",
+      "markdown_cbuae_en_4640_ver1_related_party_transactions",
+      "markdown_cbuae_en_4640_ver1_risk_committee",
+      "markdown_cbuae_en_4640_ver1_senior_management",
+      "markdown_cbuae_en_4669_ver1_audit_committee",
+      "markdown_cbuae_en_4669_ver1_board",
+      "markdown_cbuae_en_4669_ver1_compensation_policy",
+      "markdown_cbuae_en_4669_ver1_corporate_governance_framework",
+      "markdown_cbuae_en_4669_ver1_risk_committee",
+      "markdown_cbuae_en_5056_ver1_shariah_provisions"
+    ],
+    "100": [
+      "markdown_cbuae_en_2413_ver1_dlt",
+      "markdown_cbuae_en_2413_ver1_dlt_design",
+      "markdown_cbuae_en_2413_ver1_dlt_governance",
+      "markdown_cbuae_en_2413_ver1_key_management",
+      "markdown_cbuae_en_2413_ver1_permissionless_dlt"
+    ],
+    "101": [
+      "markdown_cbuae_en_2865_ver1",
+      "markdown_cbuae_en_2865_ver1_federal_law_6_2007",
+      "markdown_cbuae_en_2865_ver1_ia_board_resolution_2_2009",
+      "markdown_cbuae_en_2888_ver1",
+      "markdown_cbuae_en_2888_ver1_cabinet_resolution_23_2009"
+    ],
+    "102": [
+      "markdown_cbuae_en_1627_ver1_central_bank_law",
+      "markdown_cbuae_en_4208_ver1_art9_shariah",
+      "markdown_cbuae_en_5027_ver1",
+      "markdown_cbuae_en_5027_ver1_circular_32_2013",
+      "markdown_cbuae_en_5027_ver1_grandfathering",
+      "markdown_cbuae_en_5974_ver1_circular_28_2010",
+      "markdown_cbuae_en_5974_ver1_credit_risk_regulation",
+      "markdown_cbuae_en_5974_ver1_notice_130_2016",
+      "markdown_cbuae_en_5974_ver1_notice_458_2018",
+      "markdown_cbuae_en_5996_ver1_credit_risk_standards",
+      "markdown_cbuae_en_6052_ver1_insurance_law"
+    ],
+    "103": [
+      "markdown_cbuae_en_6092_ver1_aml_laws",
+      "markdown_cbuae_en_6092_ver1_bank_guarantee",
+      "markdown_cbuae_en_6092_ver1_exchange_business",
+      "markdown_cbuae_en_6092_ver1_imts_provider",
+      "markdown_cbuae_en_6092_ver1_licensed_person",
+      "markdown_cbuae_en_6092_ver1_paid_up_capital"
+    ],
+    "104": [
+      "markdown_cbuae_en_6587_ver1_correspondent_banking",
+      "markdown_cbuae_en_6587_ver1_cross_border_payments",
+      "markdown_cbuae_en_6587_ver1_iso20022",
+      "markdown_cbuae_en_6587_ver1_rma",
+      "markdown_cbuae_en_6587_ver1_swift"
+    ],
+    "105": [
+      "markdown_cbuae_en_7246_ver1_article10_contribution",
+      "markdown_cbuae_en_7246_ver1_article11_wakala_fee",
+      "markdown_cbuae_en_7246_ver1_article7_operational_model",
+      "markdown_cbuae_en_7246_ver1_article8_contractual",
+      "markdown_cbuae_en_7246_ver1_article9_membership_policy",
+      "markdown_cbuae_en_7246_ver1_participants_investment_account",
+      "markdown_cbuae_en_7246_ver1_wakala_model"
+    ],
+    "106": [
+      "markdown_cbuae_en_1087_ver1_audit_committee",
+      "markdown_cbuae_en_1087_ver1_external_auditor",
+      "markdown_cbuae_en_1087_ver1_internal_auditor",
+      "markdown_cbuae_en_1087_ver1_section6"
+    ],
+    "107": [
+      "markdown_cbuae_en_2377_ver1_compliance_function",
+      "markdown_cbuae_en_2377_ver1_internal_audit_function",
+      "markdown_cbuae_en_2377_ver1_internal_control",
+      "markdown_cbuae_en_2377_ver1_internal_controls_compliance_audit_standards",
+      "markdown_cbuae_en_2377_ver1_internal_controls_regulation",
+      "markdown_cbuae_en_2377_ver1_three_lines_of_defence"
+    ],
+    "108": [
+      "markdown_cbuae_en_2103_ver1",
+      "markdown_cbuae_en_2103_ver1_minimum_capital",
+      "markdown_cbuae_en_2464_ver2_basel_framework",
+      "markdown_cbuae_en_2464_ver2_firb",
+      "markdown_cbuae_en_2464_ver2_leverage_ratio",
+      "markdown_cbuae_en_2464_ver2_pillar1",
+      "markdown_cbuae_en_2464_ver2_pillar2",
+      "markdown_cbuae_en_2464_ver2_pillar3",
+      "markdown_cbuae_en_2464_ver2_sa_ccr"
+    ],
+    "109": [
+      "markdown_cbuae_en_1580_ver1_annex_iii",
+      "markdown_cbuae_en_1580_ver1_card_scheme",
+      "markdown_cbuae_en_1580_ver1_pci_dss",
+      "markdown_cbuae_en_1580_ver1_uae_information_assurance_standards"
+    ],
+    "110": [
+      "markdown_cbuae_en_4185_ver1",
+      "markdown_cbuae_en_4185_ver1_art10_enforcement",
+      "markdown_cbuae_en_4185_ver1_art12_cancellation",
+      "markdown_cbuae_en_4185_ver1_art6_quality_capital",
+      "markdown_cbuae_en_4185_ver1_art8_breaches",
+      "markdown_cbuae_en_4185_ver1_art9_bank_regulations"
+    ],
+    "111": [
+      "markdown_cbuae_en_2413_ver1_ai_ethics",
+      "markdown_cbuae_en_2413_ver1_ai_governance",
+      "markdown_cbuae_en_2413_ver1_ai_model_validation",
+      "markdown_cbuae_en_2413_ver1_big_data_ai"
+    ],
+    "112": [
+      "markdown_cbuae_en_4229_ver1_article7_responsible_financing",
+      "markdown_cbuae_en_4229_ver1_consumer_affordability",
+      "markdown_cbuae_en_4229_ver1_consumer_suitability",
+      "markdown_cbuae_en_4229_ver1_credit_products",
+      "markdown_cbuae_en_4229_ver1_dbr",
+      "markdown_cbuae_en_4229_ver1_terms_of_financing"
+    ],
+    "113": [
+      "markdown_cbuae_en_2413_ver1_business_continuity",
+      "markdown_cbuae_en_2413_ver1_cloud_computing",
+      "markdown_cbuae_en_2413_ver1_cloud_exit_planning",
+      "markdown_cbuae_en_2413_ver1_cloud_materiality"
+    ],
+    "114": [
+      "markdown_cbuae_en_6788_ver1_cdd",
+      "markdown_cbuae_en_6788_ver1_edd",
+      "markdown_cbuae_en_6788_ver1_ewra",
+      "markdown_cbuae_en_6788_ver1_illicit_transshipment"
+    ],
+    "115": [
+      "markdown_cbuae_en_996_ver1_cabinet_decision_74",
+      "markdown_cbuae_en_996_ver1_confirmed_match",
+      "markdown_cbuae_en_996_ver1_notification_cbuae"
+    ],
+    "116": [
+      "markdown_cbuae_en_6127_ver1_api_hub",
+      "markdown_cbuae_en_6127_ver1_common_infrastructural_services",
+      "markdown_cbuae_en_6127_ver1_open_finance_framework",
+      "markdown_cbuae_en_6127_ver1_outsourcing_regulation",
+      "markdown_cbuae_en_6127_ver1_pfmi",
+      "markdown_cbuae_en_6127_ver1_trust_framework"
+    ],
+    "117": [
+      "markdown_cbuae_en_6672_ver1_emiratization",
+      "markdown_cbuae_en_6672_ver1_emiratization_penalties",
+      "markdown_cbuae_en_6672_ver1_fictitious_emiratization",
+      "markdown_cbuae_en_6672_ver1_licensed_institutions",
+      "markdown_cbuae_en_6672_ver1_nafis",
+      "markdown_cbuae_en_6672_ver1_tawteen_system"
+    ],
+    "120": [
+      "markdown_cbuae_en_1577_ver1_borrower",
+      "markdown_cbuae_en_1577_ver1_client_agreement",
+      "markdown_cbuae_en_1577_ver1_crowdfunding_company_disclosures",
+      "markdown_cbuae_en_1577_ver1_crowdfunding_platform",
+      "markdown_cbuae_en_1577_ver1_lender"
+    ],
+    "121": [
+      "markdown_cbuae_en_1853_ver1",
+      "markdown_cbuae_en_1853_ver1_circular_24_2000",
+      "markdown_cbuae_en_1853_ver1_decree_law_20_2018",
+      "markdown_cbuae_en_1853_ver1_executive_regulation",
+      "markdown_cbuae_en_1853_ver1_financial_institution"
+    ],
+    "122": [
+      "markdown_cbuae_en_1287_ver1_article2_board_responsibilities",
+      "markdown_cbuae_en_1287_ver1_risk_governance_framework",
+      "markdown_cbuae_en_1941_ver1",
+      "markdown_cbuae_en_1941_ver1_country_risk",
+      "markdown_cbuae_en_1941_ver1_transfer_risk",
+      "markdown_cbuae_en_2079_ver1",
+      "markdown_cbuae_en_2079_ver1_irrbb",
+      "markdown_cbuae_en_2405_ver1",
+      "markdown_cbuae_en_2405_ver1_country_risk_rating",
+      "markdown_cbuae_en_2405_ver1_stress_testing",
+      "markdown_cbuae_en_4654_ver1_risk_management_function",
+      "markdown_cbuae_en_4654_ver1_stress_testing",
+      "markdown_cbuae_en_4689_ver1_orsa"
+    ],
+    "124": [
+      "markdown_cbuae_en_2464_ver2_asa",
+      "markdown_cbuae_en_2464_ver2_bia",
+      "markdown_cbuae_en_2464_ver2_gross_income",
+      "markdown_cbuae_en_2464_ver2_operational_risk",
+      "markdown_cbuae_en_2464_ver2_sa_operational"
+    ],
+    "125": [
+      "markdown_cbuae_en_3013_ver1",
+      "markdown_cbuae_en_3013_ver1_ia_board_decision_25_2016",
+      "markdown_cbuae_en_3013_ver2",
+      "markdown_cbuae_en_3013_ver2_board_decision_42_2017",
+      "markdown_cbuae_en_3013_ver2_board_resolution_26_2020"
+    ],
+    "128": [
+      "markdown_cbuae_en_4229_ver1_article10_inclusion",
+      "markdown_cbuae_en_4229_ver1_credit_info_agencies",
+      "markdown_cbuae_en_4229_ver1_debt_collection",
+      "markdown_cbuae_en_4229_ver1_financially_distressed",
+      "markdown_cbuae_en_4229_ver1_record_retention"
+    ],
+    "129": [
+      "markdown_cbuae_en_4246_ver1_motor_tariff_regulation",
+      "markdown_cbuae_en_4246_ver1_resolution_25_2016",
+      "markdown_cbuae_en_4246_ver1_table1_third_party",
+      "markdown_cbuae_en_4246_ver1_table2_loss_damage"
+    ],
+    "132": [
+      "markdown_cbuae_en_6725_ver1",
+      "markdown_cbuae_en_6725_ver1_dual_use_goods",
+      "markdown_cbuae_en_6725_ver1_eocn",
+      "markdown_cbuae_en_6725_ver1_export_controls",
+      "markdown_cbuae_en_6725_ver1_tbml",
+      "markdown_cbuae_en_6725_ver1_trade_finance_vulnerability",
+      "markdown_cbuae_en_6788_ver1",
+      "markdown_cbuae_en_6788_ver1_transshipment",
+      "markdown_cbuae_en_6788_ver1_wolfsberg_icc_baft"
+    ],
+    "133": [
+      "markdown_cbuae_en_6788_ver1_factoring",
+      "markdown_cbuae_en_6788_ver1_forfaiting",
+      "markdown_cbuae_en_6788_ver1_non_documentary_trade_finance",
+      "markdown_cbuae_en_6788_ver1_open_account_trade",
+      "markdown_cbuae_en_6788_ver1_structured_trade_finance"
+    ],
+    "140": [
+      "markdown_cbuae_en_5114_ver1_bcbs_principles",
+      "markdown_cbuae_en_5114_ver1_materiality",
+      "markdown_cbuae_en_5114_ver1_principle3",
+      "markdown_cbuae_en_5114_ver1_principle4"
+    ],
+    "141": [
+      "markdown_cbuae_en_5114_ver1_icaap",
+      "markdown_cbuae_en_5114_ver1_ngfs_scenarios",
+      "markdown_cbuae_en_5114_ver1_principle6",
+      "markdown_cbuae_en_5114_ver1_principle7"
+    ],
+    "142": [
+      "markdown_cbuae_en_5558_ver1_erm",
+      "markdown_cbuae_en_5558_ver1_governance",
+      "markdown_cbuae_en_5558_ver1_isc"
+    ],
+    "143": [
+      "markdown_cbuae_en_5731_ver1_art27_customer_agreement",
+      "markdown_cbuae_en_5731_ver1_art28_required_terms",
+      "markdown_cbuae_en_5731_ver1_art29_transactional_info",
+      "markdown_cbuae_en_5731_ver1_payment_token_service_provider"
+    ],
+    "144": [
+      "markdown_cbuae_en_5791_ver1_issb",
+      "markdown_cbuae_en_5791_ver1_principle3",
+      "markdown_cbuae_en_5791_ver1_reporting_entities",
+      "markdown_cbuae_en_5791_ver1_sfwg"
+    ],
+    "146": [
+      "markdown_cbuae_en_7233_ver1_central_bank_law",
+      "markdown_cbuae_en_7233_ver1_standard",
+      "markdown_cbuae_en_7246_ver1_article6_establishment",
+      "markdown_cbuae_en_7246_ver1_standard",
+      "markdown_cbuae_en_7267_ver1_regulation"
+    ],
+    "147": [
+      "markdown_cbuae_en_3934_ver1",
+      "markdown_cbuae_en_3934_ver1_ifrs9",
+      "markdown_cbuae_en_3934_ver1_tess"
+    ],
+    "148": [
+      "markdown_cbuae_en_3945_ver2_ml_phases",
+      "markdown_cbuae_en_3945_ver2_money_laundering",
+      "markdown_cbuae_en_3945_ver2_predicate_offence",
+      "markdown_cbuae_en_6725_ver1_proliferation_financing",
+      "markdown_cbuae_en_6725_ver1_terrorist_financing",
+      "markdown_cbuae_en_6788_ver1_falsely_described_goods"
+    ],
+    "149": [
+      "markdown_cbuae_en_4229_ver1_asset_protection",
+      "markdown_cbuae_en_4229_ver1_atm_pos_provisions",
+      "markdown_cbuae_en_4229_ver1_fraud_detection"
+    ],
+    "150": [
+      "markdown_cbuae_en_5027_ver1_covered_bonds",
+      "markdown_cbuae_en_5027_ver1_crm",
+      "markdown_cbuae_en_5027_ver1_exposure_measurement"
+    ],
+    "152": [
+      "markdown_cbuae_en_5808_ver1_art10_risk_governance",
+      "markdown_cbuae_en_5808_ver1_art17_outsourcing",
+      "markdown_cbuae_en_5808_ver1_art9_corporate_governance"
+    ],
+    "156": [
+      "markdown_cbuae_en_1250_ver1_article4_risk_measurement",
+      "markdown_cbuae_en_1269_ver1_article4_risk_measurement"
+    ],
+    "157": [
+      "markdown_cbuae_en_1250_ver1_article6_information_systems",
+      "markdown_cbuae_en_1269_ver1_article6_information_systems"
+    ],
+    "158": [
+      "markdown_cbuae_en_1250_ver1_article7_strategic_decisions",
+      "markdown_cbuae_en_1269_ver1_article7_strategic_decisions"
+    ],
+    "159": [
+      "markdown_cbuae_en_1250_ver1_article8_group_risk",
+      "markdown_cbuae_en_1269_ver1_article8_group_risk"
+    ],
+    "160": [
+      "markdown_cbuae_en_238_ver1_participants_risk_fund",
+      "markdown_cbuae_en_238_ver1_qard_hasan"
+    ],
+    "162": [
+      "markdown_cbuae_en_3844_ver1",
+      "markdown_cbuae_en_3844_ver2"
+    ],
+    "163": [
+      "markdown_cbuae_en_3912_ver1_0",
+      "markdown_cbuae_en_3919_ver1"
+    ],
+    "164": [
+      "markdown_cbuae_en_4229_ver1_article11_shariah",
+      "markdown_cbuae_en_4229_ver1_hsa_resolution_76"
+    ],
+    "165": [
+      "markdown_cbuae_en_4728_ver1_board",
+      "markdown_cbuae_en_4728_ver1_committee"
+    ],
+    "166": [
+      "markdown_cbuae_en_5622_ver1_safeguards",
+      "markdown_cbuae_en_5622_ver1_testing_reporting"
+    ],
+    "167": [
+      "markdown_cbuae_en_5731_ver1_art39_amendment_svf",
+      "markdown_cbuae_en_5731_ver1_art40_transition_period"
+    ],
+    "168": [
+      "markdown_cbuae_en_5731_ver1_foreign_payment_token",
+      "markdown_cbuae_en_5731_ver1_foreign_payment_token_registration"
+    ],
+    "170": [
+      "markdown_cbuae_en_5791_ver1_esg_disclosures",
+      "markdown_cbuae_en_5791_ver1_principle2"
+    ],
+    "171": [
+      "markdown_cbuae_en_5808_ver1_art1_definitions",
+      "markdown_cbuae_en_5808_ver1_insurance_broker"
+    ],
+    "172": [
+      "markdown_cbuae_en_5808_ver1_art20_cancellation",
+      "markdown_cbuae_en_5808_ver1_ia_res_15_2013"
+    ],
+    "173": [
+      "markdown_cbuae_en_5808_ver1_art6_brokerage_agreements",
+      "markdown_cbuae_en_5808_ver1_art7_premiums"
+    ],
+    "174": [
+      "markdown_cbuae_en_5974_ver1_article8_restructuring",
+      "markdown_cbuae_en_5974_ver1_article9_classification_provisioning"
+    ],
+    "175": [
+      "markdown_cbuae_en_6092_ver1_aml_cft_compliance",
+      "markdown_cbuae_en_6092_ver1_internal_audit"
+    ],
+    "176": [
+      "markdown_cbuae_en_6092_ver1_unclaimed_funds",
+      "markdown_cbuae_en_6593_ver1_aml_cft_decision",
+      "markdown_cbuae_en_6593_ver1_cdd_kyc",
+      "markdown_cbuae_en_6593_ver1_customer_identification",
+      "markdown_cbuae_en_6593_ver1_third_party_reliance",
+      "markdown_cbuae_en_6708_ver1_aml_framework",
+      "markdown_cbuae_en_6708_ver1_consumer_protection",
+      "markdown_cbuae_en_6708_ver1_dormant_accounts",
+      "markdown_cbuae_en_6708_ver1_dormant_customer",
+      "markdown_cbuae_en_6708_ver1_reclaim_procedures",
+      "markdown_cbuae_en_6708_ver1_transfer_to_cbuae",
+      "markdown_cbuae_en_6708_ver1_unclaimed_funds"
+    ],
+    "177": [
+      "markdown_cbuae_en_6092_ver1_external_audit",
+      "markdown_cbuae_en_6092_ver1_remittance_intermediate_account"
+    ],
+    "180": [
+      "markdown_cbuae_en_6663_ver1_edd_unhosted",
+      "markdown_cbuae_en_6663_ver1_unhosted_wallet"
+    ],
+    "182": [
+      "markdown_cbuae_en_6843_ver1_article67",
+      "markdown_cbuae_en_6843_ver1_article68"
+    ],
+    "183": [
+      "markdown_cbuae_en_6986_ver1_principle1",
+      "markdown_cbuae_en_6986_ver1_principle4"
+    ],
+    "184": [
+      "markdown_cbuae_en_7178_ver1_article28_cancellation",
+      "markdown_cbuae_en_7178_ver1_takaful_regulation_2022"
+    ],
+    "185": [
+      "markdown_cbuae_en_7267_ver1_article19_cancellation",
+      "markdown_cbuae_en_7267_ver1_circular_163_2018"
+    ],
+    "186": [
+      "markdown_cbuae_en_7267_ver1_article4_board_role",
+      "markdown_cbuae_en_7267_ver1_article5_senior_mgmt"
+    ],
+    "188": [
+      "markdown_cbuae_en_1250_ver1_article10_islamic_banking"
+    ],
+    "189": [
+      "markdown_cbuae_en_1250_ver1_article9_disclosure"
+    ],
+    "190": [
+      "markdown_cbuae_en_1531_ver1_aggregate_capital_funds"
+    ],
+    "191": [
+      "markdown_cbuae_en_1531_ver1_outsourcing"
+    ],
+    "192": [
+      "markdown_cbuae_en_1580_ver1"
+    ],
+    "193": [
+      "markdown_cbuae_en_1691_ver2_pillar3_disclosure"
+    ],
+    "194": [
+      "markdown_cbuae_en_3524_ver1_ch15_business_continuity"
+    ],
+    "195": [
+      "markdown_cbuae_en_3524_ver1_ch8_human_resources"
+    ],
+    "196": [
+      "markdown_cbuae_en_3845_ver1"
+    ],
+    "197": [
+      "markdown_cbuae_en_3853_ver1_0"
+    ],
+    "198": [
+      "markdown_cbuae_en_3858_ver1"
+    ],
+    "199": [
+      "markdown_cbuae_en_3884_ver1"
+    ],
+    "200": [
+      "markdown_cbuae_en_3901_ver1"
+    ],
+    "201": [
+      "markdown_cbuae_en_3920_ver1"
+    ],
+    "202": [
+      "markdown_cbuae_en_3945_ver2_financing_terrorism"
+    ],
+    "203": [
+      "markdown_cbuae_en_3945_ver2_united_nations"
+    ],
+    "204": [
+      "markdown_cbuae_en_4122_ver1_0_advances_deposits_ratio"
+    ],
+    "206": [
+      "markdown_cbuae_en_4229_ver1_remittances"
+    ],
+    "207": [
+      "markdown_cbuae_en_4229_ver1_section22_transparency"
+    ],
+    "209": [
+      "markdown_cbuae_en_5114_ver1_principle5"
+    ],
+    "210": [
+      "markdown_cbuae_en_5558_ver1_group_recovery"
+    ],
+    "211": [
+      "markdown_cbuae_en_5731_ver1_art31_liability_unauthorized"
+    ],
+    "212": [
+      "markdown_cbuae_en_5731_ver1_art33_corporate_governance"
+    ],
+    "213": [
+      "markdown_cbuae_en_5731_ver1_art36_business_continuity"
+    ],
+    "214": [
+      "markdown_cbuae_en_5731_ver1_art37_enforcement"
+    ],
+    "215": [
+      "markdown_cbuae_en_5731_ver1_art38_info_gathering"
+    ],
+    "216": [
+      "markdown_cbuae_en_5791_ver1_principle4"
+    ],
+    "217": [
+      "markdown_cbuae_en_5808_ver1_art11_accounting_audit"
+    ],
+    "218": [
+      "markdown_cbuae_en_5808_ver1_art12_conduct_business"
+    ],
+    "219": [
+      "markdown_cbuae_en_5808_ver1_art13_financial_reporting"
+    ],
+    "220": [
+      "markdown_cbuae_en_5808_ver1_art14_reporting_requirements"
+    ],
+    "221": [
+      "markdown_cbuae_en_5808_ver1_art15_record_keeping"
+    ],
+    "222": [
+      "markdown_cbuae_en_5808_ver1_art16_data_cyber"
+    ],
+    "223": [
+      "markdown_cbuae_en_5808_ver1_art18_powers"
+    ],
+    "224": [
+      "markdown_cbuae_en_5808_ver1_art19_mergers"
+    ],
+    "225": [
+      "markdown_cbuae_en_5808_ver1_art4_ongoing"
+    ],
+    "226": [
+      "markdown_cbuae_en_5808_ver1_art8_financial_soundness"
+    ],
+    "227": [
+      "markdown_cbuae_en_5974_ver1_article10_crm"
+    ],
+    "228": [
+      "markdown_cbuae_en_5974_ver1_article13_models"
+    ],
+    "229": [
+      "markdown_cbuae_en_6092_ver1_anti_fraud"
+    ],
+    "230": [
+      "markdown_cbuae_en_6092_ver1_business_continuity"
+    ],
+    "231": [
+      "markdown_cbuae_en_6092_ver1_duty_to_report"
+    ],
+    "232": [
+      "markdown_cbuae_en_6092_ver1_risk_management"
+    ],
+    "233": [
+      "markdown_cbuae_en_6127_ver1_liability"
+    ],
+    "234": [
+      "markdown_cbuae_en_6127_ver1_secure_communication"
+    ],
+    "235": [
+      "markdown_cbuae_en_6587_ver1_red_flags"
+    ],
+    "236": [
+      "markdown_cbuae_en_6725_ver1_correspondent_banking"
+    ],
+    "237": [
+      "markdown_cbuae_en_6725_ver1_hawala"
+    ],
+    "241": [
+      "markdown_cbuae_en_6843_ver1_article64"
+    ],
+    "242": [
+      "markdown_cbuae_en_6843_ver1_article65"
+    ],
+    "243": [
+      "markdown_cbuae_en_6843_ver1_article66"
+    ],
+    "244": [
+      "markdown_cbuae_en_6843_ver1_article70"
+    ],
+    "245": [
+      "markdown_cbuae_en_6843_ver1_international_cooperation"
+    ],
+    "246": [
+      "markdown_cbuae_en_6986_ver1_principle2"
+    ],
+    "247": [
+      "markdown_cbuae_en_6986_ver1_principle3"
+    ],
+    "248": [
+      "markdown_cbuae_en_6986_ver1_principle5"
+    ],
+    "249": [
+      "markdown_cbuae_en_6986_ver1_principle7"
+    ],
+    "250": [
+      "markdown_cbuae_en_6986_ver1_principle8"
+    ],
+    "251": [
+      "markdown_cbuae_en_7178_ver1_article22_retakaful"
+    ],
+    "252": [
+      "markdown_cbuae_en_7178_ver1_article23_zakat_fund"
+    ],
+    "253": [
+      "markdown_cbuae_en_7178_ver1_article24_solvency"
+    ],
+    "254": [
+      "markdown_cbuae_en_7178_ver1_article25_disclosure"
+    ],
+    "255": [
+      "markdown_cbuae_en_7178_ver1_article26_transfer"
+    ],
+    "256": [
+      "markdown_cbuae_en_7246_ver1_article15_retakaful"
+    ]
+  },
+  "cohesion": {
+    "0": 0.06086956521739131,
+    "1": 0.15833333333333333,
+    "2": 0.125,
+    "3": 0.05735430157261795,
+    "4": 0.1631578947368421,
+    "5": 0.14285714285714285,
+    "6": 0.25,
+    "7": 0.09846153846153846,
+    "8": 0.13333333333333333,
+    "9": 0.2,
+    "10": 0.11255411255411256,
+    "11": 0.4,
+    "12": 0.1794871794871795,
+    "13": 0.050072568940493466,
+    "14": 0.3333333333333333,
+    "15": 0.2222222222222222,
+    "16": 0.3333333333333333,
+    "17": 0.2222222222222222,
+    "18": 0.2,
+    "19": 0.21794871794871795,
+    "20": 0.07196969696969698,
+    "21": 0.21818181818181817,
+    "22": 0.2,
+    "23": 0.16374269005847952,
+    "24": 0.15384615384615385,
+    "25": 0.3333333333333333,
+    "26": 0.07977207977207977,
+    "27": 0.2,
+    "28": 0.4,
+    "29": 0.14285714285714285,
+    "30": 0.2,
+    "31": 0.1794871794871795,
+    "32": 0.13970588235294118,
+    "33": 0.18181818181818182,
+    "34": 0.2545454545454545,
+    "35": 0.28888888888888886,
+    "36": 0.3333333333333333,
+    "37": 0.08912655971479501,
+    "38": 0.2,
+    "39": 0.16666666666666666,
+    "40": 0.14285714285714285,
+    "41": 0.15,
+    "42": 0.05102040816326531,
+    "43": 0.2,
+    "44": 0.25,
+    "45": 0.14166666666666666,
+    "46": 0.1978021978021978,
+    "47": 0.5,
+    "48": 0.16176470588235295,
+    "49": 0.2222222222222222,
+    "50": 0.25,
+    "51": 0.24444444444444444,
+    "52": 0.18681318681318682,
+    "53": 0.1794871794871795,
+    "54": 0.2222222222222222,
+    "55": 0.2222222222222222,
+    "56": 0.42857142857142855,
+    "57": 0.26666666666666666,
+    "58": 0.25,
+    "59": 0.2222222222222222,
+    "60": 0.24444444444444444,
+    "61": 0.25,
+    "62": 0.2857142857142857,
+    "63": 0.28888888888888886,
+    "64": 0.25,
+    "65": 0.2857142857142857,
+    "66": 0.1794871794871795,
+    "67": 0.26666666666666666,
+    "68": 0.4,
+    "69": 0.2727272727272727,
+    "70": 0.1503267973856209,
+    "71": 0.10333333333333333,
+    "72": 0.2222222222222222,
+    "73": 0.32142857142857145,
+    "74": 0.32142857142857145,
+    "75": 0.2,
+    "76": 0.2222222222222222,
+    "77": 0.25,
+    "78": 0.32142857142857145,
+    "79": 0.25,
+    "80": 0.25,
+    "81": 0.2857142857142857,
+    "82": 0.18181818181818182,
+    "83": 0.5,
+    "84": 0.2857142857142857,
+    "85": 0.3333333333333333,
+    "86": 0.2857142857142857,
+    "87": 0.25,
+    "88": 0.2857142857142857,
+    "89": 0.42857142857142855,
+    "90": 0.2857142857142857,
+    "91": 0.5,
+    "92": 0.3333333333333333,
+    "93": 0.25,
+    "94": 0.21212121212121213,
+    "95": 0.2777777777777778,
+    "96": 0.4,
+    "97": 0.4,
+    "98": 0.3333333333333333,
+    "99": 0.11578947368421053,
+    "100": 0.4,
+    "101": 0.5,
+    "102": 0.2,
+    "103": 0.3333333333333333,
+    "104": 0.4,
+    "105": 0.2857142857142857,
+    "106": 0.6666666666666666,
+    "107": 0.4666666666666667,
+    "108": 0.25,
+    "109": 0.5,
+    "110": 0.3333333333333333,
+    "111": 0.5,
+    "112": 0.4,
+    "113": 0.5,
+    "114": 0.5,
+    "115": 1.0,
+    "116": 0.4,
+    "117": 0.3333333333333333,
+    "120": 0.4,
+    "121": 0.5,
+    "122": 0.2948717948717949,
+    "124": 0.6,
+    "125": 0.5,
+    "128": 0.4,
+    "129": 0.5,
+    "132": 0.2222222222222222,
+    "133": 0.4,
+    "140": 0.5,
+    "141": 0.5,
+    "142": 0.6666666666666666,
+    "143": 0.5,
+    "144": 0.5,
+    "146": 0.4,
+    "147": 0.6666666666666666,
+    "148": 0.3333333333333333,
+    "149": 0.6666666666666666,
+    "150": 0.6666666666666666,
+    "152": 0.6666666666666666,
+    "156": 1.0,
+    "157": 1.0,
+    "158": 1.0,
+    "159": 1.0,
+    "160": 1.0,
+    "162": 1.0,
+    "163": 1.0,
+    "164": 1.0,
+    "165": 1.0,
+    "166": 1.0,
+    "167": 1.0,
+    "168": 1.0,
+    "170": 1.0,
+    "171": 1.0,
+    "172": 1.0,
+    "173": 1.0,
+    "174": 1.0,
+    "175": 1.0,
+    "176": 0.18181818181818182,
+    "177": 1.0,
+    "180": 1.0,
+    "182": 1.0,
+    "183": 1.0,
+    "184": 1.0,
+    "185": 1.0,
+    "186": 1.0,
+    "188": 1.0,
+    "189": 1.0,
+    "190": 1.0,
+    "191": 1.0,
+    "192": 1.0,
+    "193": 1.0,
+    "194": 1.0,
+    "195": 1.0,
+    "196": 1.0,
+    "197": 1.0,
+    "198": 1.0,
+    "199": 1.0,
+    "200": 1.0,
+    "201": 1.0,
+    "202": 1.0,
+    "203": 1.0,
+    "204": 1.0,
+    "206": 1.0,
+    "207": 1.0,
+    "209": 1.0,
+    "210": 1.0,
+    "211": 1.0,
+    "212": 1.0,
+    "213": 1.0,
+    "214": 1.0,
+    "215": 1.0,
+    "216": 1.0,
+    "217": 1.0,
+    "218": 1.0,
+    "219": 1.0,
+    "220": 1.0,
+    "221": 1.0,
+    "222": 1.0,
+    "223": 1.0,
+    "224": 1.0,
+    "225": 1.0,
+    "226": 1.0,
+    "227": 1.0,
+    "228": 1.0,
+    "229": 1.0,
+    "230": 1.0,
+    "231": 1.0,
+    "232": 1.0,
+    "233": 1.0,
+    "234": 1.0,
+    "235": 1.0,
+    "236": 1.0,
+    "237": 1.0,
+    "241": 1.0,
+    "242": 1.0,
+    "243": 1.0,
+    "244": 1.0,
+    "245": 1.0,
+    "246": 1.0,
+    "247": 1.0,
+    "248": 1.0,
+    "249": 1.0,
+    "250": 1.0,
+    "251": 1.0,
+    "252": 1.0,
+    "253": 1.0,
+    "254": 1.0,
+    "255": 1.0,
+    "256": 1.0
+  },
+  "gods": [
+    {
+      "id": "markdown_cbuae_en_6185_ver1_central_bank",
+      "label": "Central Bank of the UAE",
+      "degree": 32
+    },
+    {
+      "id": "markdown_cbuae_en_3945_ver2_cdd",
+      "label": "Customer Due Diligence (CDD)",
+      "degree": 25
+    },
+    {
+      "id": "markdown_cbuae_en_5056_ver1_issc",
+      "label": "Internal Shari'ah Supervision Committee (ISSC)",
+      "degree": 25
+    },
+    {
+      "id": "markdown_cbuae_en_1287_ver1_risk_governance_framework",
+      "label": "Risk Governance Framework",
+      "degree": 20
+    },
+    {
+      "id": "markdown_cbuae_en_6788_ver1_tbml",
+      "label": "Trade-Based Money Laundering",
+      "degree": 19
+    },
+    {
+      "id": "markdown_cbuae_en_2464_ver2_icaap",
+      "label": "ICAAP Guidance",
+      "degree": 18
+    },
+    {
+      "id": "markdown_cbuae_en_4640_ver1_board",
+      "label": "Board of Directors",
+      "degree": 17
+    },
+    {
+      "id": "markdown_cbuae_en_3524_ver1",
+      "label": "Standards for Exchange Business in the UAE",
+      "degree": 17
+    },
+    {
+      "id": "markdown_cbuae_en_1494_ver1_central_bank_law",
+      "label": "Central Bank Law (Decretal Federal Law 14/2018)",
+      "degree": 16
+    },
+    {
+      "id": "markdown_cbuae_en_4229_ver1_decretal_law_14_2018",
+      "label": "Decretal Federal Law No. 14 of 2018",
+      "degree": 15
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Central Bank Law (Decretal Federal Law 14/2018)",
+      "target": "Decretal Federal Law 14/2018",
+      "source_files": [
+        "markdown/CBUAE_EN_1494_VER1.md",
+        "markdown/CBUAE_EN_6185_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link; peripheral node `Decretal Federal Law 14/2018` unexpectedly reaches hub `Central Bank Law (Decretal Federal Law 14/2018)`"
+    },
+    {
+      "source": "AML/KYC Procedures",
+      "target": "Customer Due Diligence (CDD)",
+      "source_files": [
+        "markdown/CBUAE_EN_4091_VER1_0.md",
+        "markdown/CBUAE_EN_3945_VER2.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link; peripheral node `AML/KYC Procedures` unexpectedly reaches hub `Customer Due Diligence (CDD)`"
+    },
+    {
+      "source": "Trade-Based Money Laundering",
+      "target": "Trade-Based Money Laundering (PF context)",
+      "source_files": [
+        "markdown/CBUAE_EN_6788_VER1.md",
+        "markdown/CBUAE_EN_6725_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link; peripheral node `Trade-Based Money Laundering (PF context)` unexpectedly reaches hub `Trade-Based Money Laundering`"
+    },
+    {
+      "source": "CDD Measures",
+      "target": "Customer Due Diligence Measures",
+      "source_files": [
+        "markdown/CBUAE_EN_6788_VER1.md",
+        "markdown/CBUAE_EN_6843_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link; peripheral node `CDD Measures` unexpectedly reaches hub `Customer Due Diligence Measures`"
+    },
+    {
+      "source": "Federal Law No. 6 of 2007 (Insurance Authority)",
+      "target": "Federal Law No. 6 of 2007",
+      "source_files": [
+        "markdown/CBUAE_EN_156_VER1.md",
+        "markdown/CBUAE_EN_1087_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Board of Directors` connect `Governance & Complaint Management` to `Audit & Accounting Records`, `Central Bank Governance & Authority`, `Insurance Financial Regulations`, `Internal Controls & Audit`, `Compliance Officer & Reporting`, `Shari'ah Governance & Audit`, `Country & Transfer Risk Governance`?",
+      "why": "High betweenness centrality (0.244) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Central Bank of the UAE` connect `Central Bank Governance & Authority` to `Loan-Based Crowdfunding Regulation`, `Stored Value Facilities Regulation`, `Governance & Complaint Management`, `Islamic Profit Equalization`, `Bank Capital Adequacy (Basel III)`, `Large Value Payment Systems`, `Consumer Protection Standards`, `Hawala Provider Regulation`, `Exchange Business Licensing`, `Bank Corporate Governance`, `Insurance Licensing & Climate Risk`, `Insurance Dispute Resolution`, `Finance Companies Regulation`, `Payment Token Issuance`, `Takaful Insurance Regulation`, `Fit & Proper Designated Functions`, `Shari'ah Governance & Audit`, `Specialized Banks Regulation`?",
+      "why": "High betweenness centrality (0.242) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Compliance Officer` connect `Compliance Officer & Reporting` to `Governance & Complaint Management`, `AML/CFT Guidelines & Typologies`, `Suspicious Transaction Reporting`, `Bank Corporate Governance`, `Customer Due Diligence Program`, `Internal Controls & Audit`?",
+      "why": "High betweenness centrality (0.226) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `Central Bank of the UAE` (e.g. with `Loan-based Crowdfunding Activities Regulation` and `Central Bank Law (Federal Decree-Law 6/2025)`) actually correct?",
+      "why": "`Central Bank of the UAE` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 5 inferred relationships involving `Customer Due Diligence (CDD)` (e.g. with `ML/FT Risk Assessment` and `KYC Process`) actually correct?",
+      "why": "`Customer Due Diligence (CDD)` has 5 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Internal Shari'ah Supervision Committee (ISSC)` (e.g. with `Takaful Insurance External Shari'ah Audit (Article 6)` and `Shari'ah Governance Standard for Takaful Insurance Companies`) actually correct?",
+      "why": "`Internal Shari'ah Supervision Committee (ISSC)` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `Risk Governance Framework` (e.g. with `Risk Appetite Statement` and `IRRBB Risk Governance Framework`) actually correct?",
+      "why": "`Risk Governance Framework` has 3 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

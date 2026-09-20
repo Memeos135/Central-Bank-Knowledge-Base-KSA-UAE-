@@ -1,0 +1,51 @@
+# CBUAE Guidance on Proliferation Finance Risks
+
+CBUAE guidance for licensed financial institutions on identifying, assessing and mitigating proliferation financing (PF) risk as part of the wider AML/CFT/CPF regime. It explains the UAE's counter-proliferation-financing framework — targeted financial sanctions implementation without delay, export controls and preventive/detective measures — and situates it against FATF standards and guidance on PF risk assessment and red-flag indicators. Issued under the supervisory authority's mandate to provide guidance; it binds CBUAE-supervised financial institutions as expectations for compliance with the underlying AML/CFT legislation.
+
+**Regimes:** AML/CTF, sanctions/TFS, governance/risk
+
+## Sources
+
+- `corpus/markdown/CBUAE_EN_6725_VER1.md`
+
+## Connections
+
+### [[CBUAE — AML-CFT Decision (Cabinet Decision No. 10 of 2019)|AML-CFT Decision (Cabinet Decision No. 10 of 2019)]] — `cites` [EXTRACTED]
+- **What this link tells you:** For proliferation-finance and targeted financial sanctions decisions, the binding duty is the requirement in the AML-CFT Law and Decision to implement UNSC Chapter VII directives without delay as transposed by the competent authority. The PF Risks guidance is issued under that chain and explains how institutions are expected to identify, assess and mitigate PF exposure. Treat the guidance as the supervisory benchmark for adequacy, while citing the Law and Decision as the legal basis for freezing, screening and reporting steps.
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 57): "CBUAE Classification: Public • The AML-CFT Law and AML-CFT Decision require LFIs to promptly apply directives issued by the competent authorities of the UAE for implementing the decisions issued by the United Nations Security Council (“UNSC”) under Chapter VII of the Charter of t"
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 57): "CBUAE Classification: Public • The AML-CFT Law and AML-CFT Decision require LFIs to promptly apply directives issued by the competent authorities of the UAE for implementing the decisions issued by the United Nations Security Council (“UNSC”) under Chapter VII of the Charter of t"
+
+### [[CBUAE — AML-CFT Law (Federal Decree-Law No. 20 of 2018)|AML-CFT Law (Federal Decree-Law No. 20 of 2018)]] — `cites` [EXTRACTED]
+- **What this link tells you:** For a decision on proliferation-finance controls, the guidance document is subordinate to and derives its authority from the AML/CFT primary law, which supplies the enforceable obligations the guidance elaborates. The citation reflects that the proliferation-finance material draws on the statutory framework together with external and sectoral reference sources to set supervisory expectations. The reader should therefore treat the guidance as the supervisor's expected standard of conduct while grounding any legal obligation analysis in the cited law; because the linkage here appears through referencing material, the primary text should be verified before relying on it for a specific requirement.
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 19): "14 See RUSI, Sanctions Evasion, Proliferation Finance, and the Insurance Industry (July 2018), available at: https://static.rusi.org/20180710_underwriting_proliferation_web.pdf 15 Available at: https://centralbank.ae/media/eyeeyagu/cbuae-aml_cft-guidance-for-the-insurance-sector."
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 19): "14 See RUSI, Sanctions Evasion, Proliferation Finance, and the Insurance Industry (July 2018), available at: https://static.rusi.org/20180710_underwriting_proliferation_web.pdf 15 Available at: https://centralbank.ae/media/eyeeyagu/cbuae-aml_cft-guidance-for-the-insurance-sector."
+
+### [[CBUAE — CBUAE Guidance on TBML and Transshipment|CBUAE Guidance on TBML and Transshipment]] — `conceptually_related_to` [INFERRED]
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 14): "Moreover, offshore financial centers may have regulatory 8 For more information on the risks related to VAs/VASPs, see the relevant CBUAE Guidance at: https://www.centralbank.ae/media/avwlktgy/cbuae-guidance-for-lfis-on-risks-related-to-virtual-assets-and-virtual-assets-providers"
+- **Grounding — related node** (CBUAE_EN_6788_VER1 · Page 4): "The Guidance has been developed to assist licensed financial institutions (“LFIs”) with identifying and understanding TBML and illicit transshipment activities, and to manage the risks associated with TBML and illicit transshipment."
+- **Caveat:** Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference.
+
+### [[CBUAE — Cabinet Decision No. 74 of 2020|Cabinet Decision No. 74 of 2020]] — `cites` [EXTRACTED]
+- **What this link tells you:** Decisions on proliferation-finance controls, including targeted financial sanctions and freezing obligations, should be anchored in the cited Cabinet Decision on terrorism lists and implementation of UN Security Council resolutions, which supplies the binding legal basis that the guidance interprets. The guidance addresses risk indicators and typologies — such as exposure to offshore structures or virtual asset channels — but the duty to apply listings and act on designations derives from the cited instrument and the wider TFS regime. Practically, a risk-based judgement in the guidance cannot override the strict-liability character of sanctions implementation under the parent decision; verify the operative articles of that decision before relying on the guidance alone.
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 14): "Moreover, offshore financial centers may have regulatory 8 For more information on the risks related to VAs/VASPs, see the relevant CBUAE Guidance at: https://www.centralbank.ae/media/avwlktgy/cbuae-guidance-for-lfis-on-risks-related-to-virtual-assets-and-virtual-assets-providers"
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 5): "(74) of 2020 Regarding Terrorism Lists Regulation and Implementation of United Nations Security Council (UNSC) Resolutions on the Suppression and Combating of Terrorism, Terrorist Financing, Countering the Proliferation of Weapons of Mass Destruction and its Financing and Relevan"
+
+### [[CBUAE — Executive Office for Control and Non-Proliferation (EOCN)|Executive Office for Control and Non-Proliferation (EOCN)]] — `references` [EXTRACTED]
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 50): "46 Financial Action Task Force, FATF Guidance on Counter Proliferation Financing (February 2018), available at: https://www.fatf- gafi.org/en/publications/Financingofproliferation/Guidance-counter-proliferation-financing.html."
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 50): "The February 2018 FATF Guidance on Counter Proliferation Financing 46 listed additional potential indicators of sanctions evasion activity mentioned in third-party reports (e.g., UN Panel of Experts reports, Study of Typologies of Financing of WMD Proliferation47): • Involvement "
+
+### [[CBUAE — Financial Action Task Force (FATF)|Financial Action Task Force (FATF)]] — `references` [EXTRACTED]
+- **What this link tells you:** When applying the proliferation finance guidance, treat the FATF counter-proliferation financing guidance as the interpretive backdrop rather than as a free-standing obligation: the CBUAE document expressly points to it as the source of the international standard it is operationalising. The enforceable duty remains the domestic supervisory expectation; the FATF material explains the expected content of a PF risk assessment and mitigation approach. Practically, a decision defended only by reference to FATF text is incomplete — cite the domestic instrument as the obligation and the FATF guidance as supporting rationale.
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 50): "46 Financial Action Task Force, FATF Guidance on Counter Proliferation Financing (February 2018), available at: https://www.fatf- gafi.org/en/publications/Financingofproliferation/Guidance-counter-proliferation-financing.html."
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 50): "46 Financial Action Task Force, FATF Guidance on Counter Proliferation Financing (February 2018), available at: https://www.fatf- gafi.org/en/publications/Financingofproliferation/Guidance-counter-proliferation-financing.html."
+
+### [[CBUAE — Proliferation Financing|Proliferation Financing]] — `references` [EXTRACTED]
+- **What this link tells you:** When deciding how to scope a proliferation finance (PF) control, read the CBUAE guidance as the binding supervisory expectation and the FATF counter-proliferation financing material it points to as the interpretive source for what PF means and how it is assessed. The guidance expressly invokes the FATF standard rather than restating it, so the defined concept of PF and its typologies are imported by reference. Practically, an institution cannot defend a narrow reading of PF drawn only from the guidance text; it should align its definition and risk understanding with the referenced FATF source, and verify the current version, since the guidance cites a dated publication.
+- **Grounding — this node** (CBUAE_EN_6725_VER1 · Page 50): "46 Financial Action Task Force, FATF Guidance on Counter Proliferation Financing (February 2018), available at: https://www.fatf- gafi.org/en/publications/Financingofproliferation/Guidance-counter-proliferation-financing.html."
+- **Grounding — related node** (CBUAE_EN_6725_VER1 · Page 50): "46 Financial Action Task Force, FATF Guidance on Counter Proliferation Financing (February 2018), available at: https://www.fatf- gafi.org/en/publications/Financingofproliferation/Guidance-counter-proliferation-financing.html."
+
+## Lookup terms
+
+`proliferation financing (PF)`, `countering the financing of proliferation (CPF)`, `targeted financial sanctions without delay`, `weapons of mass destruction financing`, `FATF Recommendation 7`, `PF risk assessment`, `UNSCR North Korea Iran sanctions`, `PF red flag indicators`
+
+#graphify/enriched #source/cbuae #community/proliferation-finance-&-trade-risk

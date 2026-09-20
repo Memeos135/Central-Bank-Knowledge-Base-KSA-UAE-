@@ -1,0 +1,3733 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#community/aml-&-terrorism-financing-law",
+      "color": {
+        "a": 1,
+        "rgb": 5805612
+      }
+    },
+    {
+      "query": "tag:#community/aml-compliance-function",
+      "color": {
+        "a": 1,
+        "rgb": 4245353
+      }
+    },
+    {
+      "query": "tag:#community/aml/ctf-due-diligence",
+      "color": {
+        "a": 1,
+        "rgb": 4434738
+      }
+    },
+    {
+      "query": "tag:#community/aml/ctf-training",
+      "color": {
+        "a": 1,
+        "rgb": 5557658
+      }
+    },
+    {
+      "query": "tag:#community/atm-receipt-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3718986
+      }
+    },
+    {
+      "query": "tag:#community/account-agreements-&-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5348910
+      }
+    },
+    {
+      "query": "tag:#community/accounting-standards-amendments",
+      "color": {
+        "a": 1,
+        "rgb": 4770429
+      }
+    },
+    {
+      "query": "tag:#community/agent-banking-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3715892
+      }
+    },
+    {
+      "query": "tag:#community/aggregation-&-business-continuity",
+      "color": {
+        "a": 1,
+        "rgb": 6082731
+      }
+    },
+    {
+      "query": "tag:#community/airport-exchange-id-exemption",
+      "color": {
+        "a": 1,
+        "rgb": 3917404
+      }
+    },
+    {
+      "query": "tag:#community/application-&-infrastructure-security",
+      "color": {
+        "a": 1,
+        "rgb": 4761136
+      }
+    },
+    {
+      "query": "tag:#community/asset-encumbrance-template",
+      "color": {
+        "a": 1,
+        "rgb": 5229712
+      }
+    },
+    {
+      "query": "tag:#community/asset-management",
+      "color": {
+        "a": 1,
+        "rgb": 3586623
+      }
+    },
+    {
+      "query": "tag:#community/asset-repossession-authorities",
+      "color": {
+        "a": 1,
+        "rgb": 5609772
+      }
+    },
+    {
+      "query": "tag:#community/bnpl-&-responsible-lending",
+      "color": {
+        "a": 1,
+        "rgb": 4442225
+      }
+    },
+    {
+      "query": "tag:#community/bnpl-licensing",
+      "color": {
+        "a": 1,
+        "rgb": 4173362
+      }
+    },
+    {
+      "query": "tag:#community/bank-account-rules",
+      "color": {
+        "a": 1,
+        "rgb": 5754529
+      }
+    },
+    {
+      "query": "tag:#community/bank-licensing-guidelines",
+      "color": {
+        "a": 1,
+        "rgb": 3719760
+      }
+    },
+    {
+      "query": "tag:#community/banking-book-securitisation-exposures",
+      "color": {
+        "a": 1,
+        "rgb": 5153071
+      }
+    },
+    {
+      "query": "tag:#community/banking-book-securitisation-template",
+      "color": {
+        "a": 1,
+        "rgb": 4967300
+      }
+    },
+    {
+      "query": "tag:#community/banking-disputes-committee-requests",
+      "color": {
+        "a": 1,
+        "rgb": 3520053
+      }
+    },
+    {
+      "query": "tag:#community/banking-penalties-publication",
+      "color": {
+        "a": 1,
+        "rgb": 6279601
+      }
+    },
+    {
+      "query": "tag:#community/banking-procedure-transaction-controls",
+      "color": {
+        "a": 1,
+        "rgb": 4114276
+      }
+    },
+    {
+      "query": "tag:#community/banknote-inspection-emphasis",
+      "color": {
+        "a": 1,
+        "rgb": 4565297
+      }
+    },
+    {
+      "query": "tag:#community/banknote-sorting-instructions",
+      "color": {
+        "a": 1,
+        "rgb": 5426582
+      }
+    },
+    {
+      "query": "tag:#community/bankruptcy-&-companies-law",
+      "color": {
+        "a": 1,
+        "rgb": 3652934
+      }
+    },
+    {
+      "query": "tag:#community/basel-iii-capital-buffers",
+      "color": {
+        "a": 1,
+        "rgb": 5479469
+      }
+    },
+    {
+      "query": "tag:#community/basel-iii-counterparty-exposure",
+      "color": {
+        "a": 1,
+        "rgb": 4639096
+      }
+    },
+    {
+      "query": "tag:#community/board-remuneration-report",
+      "color": {
+        "a": 1,
+        "rgb": 3911987
+      }
+    },
+    {
+      "query": "tag:#community/bring-your-own-device",
+      "color": {
+        "a": 1,
+        "rgb": 5951399
+      }
+    },
+    {
+      "query": "tag:#community/ccr-collateral-composition",
+      "color": {
+        "a": 1,
+        "rgb": 3786071
+      }
+    },
+    {
+      "query": "tag:#community/ccr-exposure-analysis-template",
+      "color": {
+        "a": 1,
+        "rgb": 4957232
+      }
+    },
+    {
+      "query": "tag:#community/ccr-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5163915
+      }
+    },
+    {
+      "query": "tag:#community/ccr-rwa-flow-statements",
+      "color": {
+        "a": 1,
+        "rgb": 3586363
+      }
+    },
+    {
+      "query": "tag:#community/cctv-specifications",
+      "color": {
+        "a": 1,
+        "rgb": 5740332
+      }
+    },
+    {
+      "query": "tag:#community/cva-&-market-risk-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4311148
+      }
+    },
+    {
+      "query": "tag:#community/cva-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 4303922
+      }
+    },
+    {
+      "query": "tag:#community/cva-risk-general-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5623453
+      }
+    },
+    {
+      "query": "tag:#community/capital-adequacy-stress-tests",
+      "color": {
+        "a": 1,
+        "rgb": 3719244
+      }
+    },
+    {
+      "query": "tag:#community/cash-transport-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 5283630
+      }
+    },
+    {
+      "query": "tag:#community/cash-transport-contracting-rules",
+      "color": {
+        "a": 1,
+        "rgb": 4835968
+      }
+    },
+    {
+      "query": "tag:#community/change-and-patch-management",
+      "color": {
+        "a": 1,
+        "rgb": 3650612
+      }
+    },
+    {
+      "query": "tag:#community/charity-donation-integration",
+      "color": {
+        "a": 1,
+        "rgb": 6148270
+      }
+    },
+    {
+      "query": "tag:#community/close-out-netting-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3982943
+      }
+    },
+    {
+      "query": "tag:#community/commercial-register-law",
+      "color": {
+        "a": 1,
+        "rgb": 4695856
+      }
+    },
+    {
+      "query": "tag:#community/commodities-finance-slotting-grades",
+      "color": {
+        "a": 1,
+        "rgb": 5360786
+      }
+    },
+    {
+      "query": "tag:#community/commodity-risk-buckets",
+      "color": {
+        "a": 1,
+        "rgb": 3587138
+      }
+    },
+    {
+      "query": "tag:#community/company-incorporation-contracts",
+      "color": {
+        "a": 1,
+        "rgb": 5544493
+      }
+    },
+    {
+      "query": "tag:#community/complaint-and-fund-distribution",
+      "color": {
+        "a": 1,
+        "rgb": 4508020
+      }
+    },
+    {
+      "query": "tag:#community/consumer-finance-&-credit-cards",
+      "color": {
+        "a": 1,
+        "rgb": 4042547
+      }
+    },
+    {
+      "query": "tag:#community/consumer-finance-apr-rules",
+      "color": {
+        "a": 1,
+        "rgb": 5820323
+      }
+    },
+    {
+      "query": "tag:#community/consumer-protection-&-certifications",
+      "color": {
+        "a": 1,
+        "rgb": 3785555
+      }
+    },
+    {
+      "query": "tag:#community/contract-and-vendor-management",
+      "color": {
+        "a": 1,
+        "rgb": 5087791
+      }
+    },
+    {
+      "query": "tag:#community/corporate-governance-&-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 5032839
+      }
+    },
+    {
+      "query": "tag:#community/counter-fraud-framework",
+      "color": {
+        "a": 1,
+        "rgb": 3520312
+      }
+    },
+    {
+      "query": "tag:#community/countercyclical-capital-buffer",
+      "color": {
+        "a": 1,
+        "rgb": 6345140
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-credit-&-sfts",
+      "color": {
+        "a": 1,
+        "rgb": 4179815
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-credit-risk-mitigation",
+      "color": {
+        "a": 1,
+        "rgb": 4500017
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-credit-risk-templates",
+      "color": {
+        "a": 1,
+        "rgb": 5557657
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-data-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3653448
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-exposure-analysis",
+      "color": {
+        "a": 1,
+        "rgb": 5414190
+      }
+    },
+    {
+      "query": "tag:#community/court-ruling-enforcement",
+      "color": {
+        "a": 1,
+        "rgb": 4704891
+      }
+    },
+    {
+      "query": "tag:#community/credit-card-rules",
+      "color": {
+        "a": 1,
+        "rgb": 3781172
+      }
+    },
+    {
+      "query": "tag:#community/credit-derivatives-exposures",
+      "color": {
+        "a": 1,
+        "rgb": 6016938
+      }
+    },
+    {
+      "query": "tag:#community/credit-information-data-sharing",
+      "color": {
+        "a": 1,
+        "rgb": 3851866
+      }
+    },
+    {
+      "query": "tag:#community/credit-information-law",
+      "color": {
+        "a": 1,
+        "rgb": 4826416
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-general-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5229710
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-mitigation-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 3586622
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-rwa-flow-statements",
+      "color": {
+        "a": 1,
+        "rgb": 5675052
+      }
+    },
+    {
+      "query": "tag:#community/crowdfunding-&-outsourcing",
+      "color": {
+        "a": 1,
+        "rgb": 4376687
+      }
+    },
+    {
+      "query": "tag:#community/crowdfunding-pooled-accounts",
+      "color": {
+        "a": 1,
+        "rgb": 4238642
+      }
+    },
+    {
+      "query": "tag:#community/cryptography",
+      "color": {
+        "a": 1,
+        "rgb": 5754528
+      }
+    },
+    {
+      "query": "tag:#community/currency-bundling-card-templates",
+      "color": {
+        "a": 1,
+        "rgb": 3719759
+      }
+    },
+    {
+      "query": "tag:#community/currency-reproduction-controls",
+      "color": {
+        "a": 1,
+        "rgb": 5152815
+      }
+    },
+    {
+      "query": "tag:#community/customer-identity-verification",
+      "color": {
+        "a": 1,
+        "rgb": 4901506
+      }
+    },
+    {
+      "query": "tag:#community/customer-income-verification",
+      "color": {
+        "a": 1,
+        "rgb": 3519797
+      }
+    },
+    {
+      "query": "tag:#community/customer-onboarding-security",
+      "color": {
+        "a": 1,
+        "rgb": 6213808
+      }
+    },
+    {
+      "query": "tag:#community/cyber-operations-&-incident-management",
+      "color": {
+        "a": 1,
+        "rgb": 4048738
+      }
+    },
+    {
+      "query": "tag:#community/cyber-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 4630577
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-architecture",
+      "color": {
+        "a": 1,
+        "rgb": 5426581
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-audits",
+      "color": {
+        "a": 1,
+        "rgb": 3652932
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-awareness",
+      "color": {
+        "a": 1,
+        "rgb": 5479213
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-framework",
+      "color": {
+        "a": 1,
+        "rgb": 4573559
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-leadership",
+      "color": {
+        "a": 1,
+        "rgb": 3977267
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-project-management",
+      "color": {
+        "a": 1,
+        "rgb": 5885862
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-review",
+      "color": {
+        "a": 1,
+        "rgb": 3786070
+      }
+    },
+    {
+      "query": "tag:#community/cyber-security-training",
+      "color": {
+        "a": 1,
+        "rgb": 4956975
+      }
+    },
+    {
+      "query": "tag:#community/cyber-threat-intelligence",
+      "color": {
+        "a": 1,
+        "rgb": 5098378
+      }
+    },
+    {
+      "query": "tag:#community/cyber-threat-intelligence-principles",
+      "color": {
+        "a": 1,
+        "rgb": 3520570
+      }
+    },
+    {
+      "query": "tag:#community/cybersecurity-controls-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 5805868
+      }
+    },
+    {
+      "query": "tag:#community/dtfc-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 4245610
+      }
+    },
+    {
+      "query": "tag:#community/damaged-currency-compensation",
+      "color": {
+        "a": 1,
+        "rgb": 4369202
+      }
+    },
+    {
+      "query": "tag:#community/data-protection-law-amendment",
+      "color": {
+        "a": 1,
+        "rgb": 5623451
+      }
+    },
+    {
+      "query": "tag:#community/debt-restructuring-coordination",
+      "color": {
+        "a": 1,
+        "rgb": 3719243
+      }
+    },
+    {
+      "query": "tag:#community/default-risk-capital",
+      "color": {
+        "a": 1,
+        "rgb": 5283374
+      }
+    },
+    {
+      "query": "tag:#community/deferred-remuneration-template",
+      "color": {
+        "a": 1,
+        "rgb": 4770430
+      }
+    },
+    {
+      "query": "tag:#community/delivery-versus-payment-settlement",
+      "color": {
+        "a": 1,
+        "rgb": 3715892
+      }
+    },
+    {
+      "query": "tag:#community/deposit-taking-finance-companies",
+      "color": {
+        "a": 1,
+        "rgb": 6082732
+      }
+    },
+    {
+      "query": "tag:#community/development-fund-loans",
+      "color": {
+        "a": 1,
+        "rgb": 3917405
+      }
+    },
+    {
+      "query": "tag:#community/digital-banking-authentication",
+      "color": {
+        "a": 1,
+        "rgb": 4761136
+      }
+    },
+    {
+      "query": "tag:#community/digital-identity-acceptance",
+      "color": {
+        "a": 1,
+        "rgb": 5295249
+      }
+    },
+    {
+      "query": "tag:#community/disability-emergency-evacuation",
+      "color": {
+        "a": 1,
+        "rgb": 3586880
+      }
+    },
+    {
+      "query": "tag:#community/disability-financial-services",
+      "color": {
+        "a": 1,
+        "rgb": 5610029
+      }
+    },
+    {
+      "query": "tag:#community/dormant-&-term-accounts",
+      "color": {
+        "a": 1,
+        "rgb": 4442226
+      }
+    },
+    {
+      "query": "tag:#community/e-wallet-fee-amendment",
+      "color": {
+        "a": 1,
+        "rgb": 4107827
+      }
+    },
+    {
+      "query": "tag:#community/economic-cities-ownership-documents",
+      "color": {
+        "a": 1,
+        "rgb": 5820066
+      }
+    },
+    {
+      "query": "tag:#community/electronic-bank-document-verification",
+      "color": {
+        "a": 1,
+        "rgb": 3785553
+      }
+    },
+    {
+      "query": "tag:#community/electronic-notarization-circulars",
+      "color": {
+        "a": 1,
+        "rgb": 5087535
+      }
+    },
+    {
+      "query": "tag:#community/ethical-red-teaming",
+      "color": {
+        "a": 1,
+        "rgb": 4967301
+      }
+    },
+    {
+      "query": "tag:#community/event-hosting-rules",
+      "color": {
+        "a": 1,
+        "rgb": 3520054
+      }
+    },
+    {
+      "query": "tag:#community/exchange-business-procedures",
+      "color": {
+        "a": 1,
+        "rgb": 6279602
+      }
+    },
+    {
+      "query": "tag:#community/exchange-business-rules",
+      "color": {
+        "a": 1,
+        "rgb": 4114277
+      }
+    },
+    {
+      "query": "tag:#community/exchange-center-customer-instructions",
+      "color": {
+        "a": 1,
+        "rgb": 4499761
+      }
+    },
+    {
+      "query": "tag:#community/exchange-center-premises-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 5492119
+      }
+    },
+    {
+      "query": "tag:#community/exchange-company-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 3653191
+      }
+    },
+    {
+      "query": "tag:#community/expired-id-handling",
+      "color": {
+        "a": 1,
+        "rgb": 5414189
+      }
+    },
+    {
+      "query": "tag:#community/external-auditor-accounting-standards",
+      "color": {
+        "a": 1,
+        "rgb": 4639097
+      }
+    },
+    {
+      "query": "tag:#community/external-credit-ratings-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 3846451
+      }
+    },
+    {
+      "query": "tag:#community/finance-companies-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 6016936
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-committees",
+      "color": {
+        "a": 1,
+        "rgb": 3786328
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-holidays",
+      "color": {
+        "a": 1,
+        "rgb": 4891696
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-licensing",
+      "color": {
+        "a": 1,
+        "rgb": 5164172
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-registration-fees",
+      "color": {
+        "a": 1,
+        "rgb": 3586364
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-spv-debt-issuance",
+      "color": {
+        "a": 1,
+        "rgb": 5740588
+      }
+    },
+    {
+      "query": "tag:#community/finance-company-web-updates",
+      "color": {
+        "a": 1,
+        "rgb": 4311149
+      }
+    },
+    {
+      "query": "tag:#community/finance-consumer-fees",
+      "color": {
+        "a": 1,
+        "rgb": 4303922
+      }
+    },
+    {
+      "query": "tag:#community/finance-lease-contract-registration",
+      "color": {
+        "a": 1,
+        "rgb": 5688990
+      }
+    },
+    {
+      "query": "tag:#community/finance-lease-contract-registry",
+      "color": {
+        "a": 1,
+        "rgb": 3719501
+      }
+    },
+    {
+      "query": "tag:#community/finance-product-digital-certification",
+      "color": {
+        "a": 1,
+        "rgb": 5218350
+      }
+    },
+    {
+      "query": "tag:#community/finance-reporting-guidelines",
+      "color": {
+        "a": 1,
+        "rgb": 4835969
+      }
+    },
+    {
+      "query": "tag:#community/finance-support-license-guidelines",
+      "color": {
+        "a": 1,
+        "rgb": 3585076
+      }
+    },
+    {
+      "query": "tag:#community/financial-statement-notification",
+      "color": {
+        "a": 1,
+        "rgb": 6213807
+      }
+    },
+    {
+      "query": "tag:#community/financial-statement-publication",
+      "color": {
+        "a": 1,
+        "rgb": 3983200
+      }
+    },
+    {
+      "query": "tag:#community/financing-price-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 4695857
+      }
+    },
+    {
+      "query": "tag:#community/fire-safety-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 5360787
+      }
+    },
+    {
+      "query": "tag:#community/foreign-exchange-risk-buckets",
+      "color": {
+        "a": 1,
+        "rgb": 3652675
+      }
+    },
+    {
+      "query": "tag:#community/founding-day-holiday",
+      "color": {
+        "a": 1,
+        "rgb": 5544749
+      }
+    },
+    {
+      "query": "tag:#community/g-sib-indicators-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 4508021
+      }
+    },
+    {
+      "query": "tag:#community/g-sib-indicators-template",
+      "color": {
+        "a": 1,
+        "rgb": 4042547
+      }
+    },
+    {
+      "query": "tag:#community/gcc-net-pos-payments",
+      "color": {
+        "a": 1,
+        "rgb": 5885860
+      }
+    },
+    {
+      "query": "tag:#community/grocery-electronic-payments",
+      "color": {
+        "a": 1,
+        "rgb": 3785812
+      }
+    },
+    {
+      "query": "tag:#community/holidays-and-rtgs-hours",
+      "color": {
+        "a": 1,
+        "rgb": 5022511
+      }
+    },
+    {
+      "query": "tag:#community/human-resources",
+      "color": {
+        "a": 1,
+        "rgb": 5032840
+      }
+    },
+    {
+      "query": "tag:#community/ifrs-accounting-standards-adoption",
+      "color": {
+        "a": 1,
+        "rgb": 3520312
+      }
+    },
+    {
+      "query": "tag:#community/ima-capital-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 6410677
+      }
+    },
+    {
+      "query": "tag:#community/irb-ccr-exposure-template",
+      "color": {
+        "a": 1,
+        "rgb": 4179816
+      }
+    },
+    {
+      "query": "tag:#community/irb-ccr-exposures-by-pd",
+      "color": {
+        "a": 1,
+        "rgb": 4434481
+      }
+    },
+    {
+      "query": "tag:#community/irb-credit-derivatives-crm-effect",
+      "color": {
+        "a": 1,
+        "rgb": 5557658
+      }
+    },
+    {
+      "query": "tag:#community/irb-credit-risk-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3653449
+      }
+    },
+    {
+      "query": "tag:#community/irb-credit-risk-templates",
+      "color": {
+        "a": 1,
+        "rgb": 5348910
+      }
+    },
+    {
+      "query": "tag:#community/irb-disclosure-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4704892
+      }
+    },
+    {
+      "query": "tag:#community/irb-exposure-classes",
+      "color": {
+        "a": 1,
+        "rgb": 3781172
+      }
+    },
+    {
+      "query": "tag:#community/irb-models-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 6082731
+      }
+    },
+    {
+      "query": "tag:#community/irb-retail-exposures",
+      "color": {
+        "a": 1,
+        "rgb": 3917403
+      }
+    },
+    {
+      "query": "tag:#community/irb-risk-components",
+      "color": {
+        "a": 1,
+        "rgb": 4826672
+      }
+    },
+    {
+      "query": "tag:#community/irb-specialised-lending-slotting",
+      "color": {
+        "a": 1,
+        "rgb": 5229711
+      }
+    },
+    {
+      "query": "tag:#community/irrbb-quantitative-information",
+      "color": {
+        "a": 1,
+        "rgb": 3586623
+      }
+    },
+    {
+      "query": "tag:#community/irrbb-quantitative-template",
+      "color": {
+        "a": 1,
+        "rgb": 5675308
+      }
+    },
+    {
+      "query": "tag:#community/irrbb-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 4376688
+      }
+    },
+    {
+      "query": "tag:#community/irrbb-risk-management-policies",
+      "color": {
+        "a": 1,
+        "rgb": 4173106
+      }
+    },
+    {
+      "query": "tag:#community/it-governance-framework",
+      "color": {
+        "a": 1,
+        "rgb": 5754528
+      }
+    },
+    {
+      "query": "tag:#community/it-governance-glossary",
+      "color": {
+        "a": 1,
+        "rgb": 3719760
+      }
+    },
+    {
+      "query": "tag:#community/it-steering-committee",
+      "color": {
+        "a": 1,
+        "rgb": 5153071
+      }
+    },
+    {
+      "query": "tag:#community/independent-audit-function",
+      "color": {
+        "a": 1,
+        "rgb": 4901763
+      }
+    },
+    {
+      "query": "tag:#community/indirect-investment-fund-participation",
+      "color": {
+        "a": 1,
+        "rgb": 3519797
+      }
+    },
+    {
+      "query": "tag:#community/individual-real-estate-finance",
+      "color": {
+        "a": 1,
+        "rgb": 6279345
+      }
+    },
+    {
+      "query": "tag:#community/interest-rate-risk-(irrbb)",
+      "color": {
+        "a": 1,
+        "rgb": 4114275
+      }
+    },
+    {
+      "query": "tag:#community/interest-rate-risk-standards",
+      "color": {
+        "a": 1,
+        "rgb": 4565297
+      }
+    },
+    {
+      "query": "tag:#community/internal-&-shariah-audit",
+      "color": {
+        "a": 1,
+        "rgb": 5426582
+      }
+    },
+    {
+      "query": "tag:#community/internal-models-approach",
+      "color": {
+        "a": 1,
+        "rgb": 3652933
+      }
+    },
+    {
+      "query": "tag:#community/internal-models-approach-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5479469
+      }
+    },
+    {
+      "query": "tag:#community/investment-round-notification",
+      "color": {
+        "a": 1,
+        "rgb": 4573560
+      }
+    },
+    {
+      "query": "tag:#community/judicial-authorities-response",
+      "color": {
+        "a": 1,
+        "rgb": 3911731
+      }
+    },
+    {
+      "query": "tag:#community/judicial-order-enforcement",
+      "color": {
+        "a": 1,
+        "rgb": 5951399
+      }
+    },
+    {
+      "query": "tag:#community/kyc-deregistered-companies",
+      "color": {
+        "a": 1,
+        "rgb": 3786071
+      }
+    },
+    {
+      "query": "tag:#community/lcr-and-nsfr-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 4957232
+      }
+    },
+    {
+      "query": "tag:#community/lei-and-data-privacy",
+      "color": {
+        "a": 1,
+        "rgb": 5098379
+      }
+    },
+    {
+      "query": "tag:#community/large-exposures-framework",
+      "color": {
+        "a": 1,
+        "rgb": 3586107
+      }
+    },
+    {
+      "query": "tag:#community/legal-staff-statutory-representative",
+      "color": {
+        "a": 1,
+        "rgb": 5740332
+      }
+    },
+    {
+      "query": "tag:#community/liquidity-&-counterparty-risk",
+      "color": {
+        "a": 1,
+        "rgb": 4311147
+      }
+    },
+    {
+      "query": "tag:#community/liquidity-&-credit-risk-governance",
+      "color": {
+        "a": 1,
+        "rgb": 4369458
+      }
+    },
+    {
+      "query": "tag:#community/liquidity-coverage-ratio",
+      "color": {
+        "a": 1,
+        "rgb": 5623452
+      }
+    },
+    {
+      "query": "tag:#community/liquidity-coverage-ratio-template",
+      "color": {
+        "a": 1,
+        "rgb": 3719244
+      }
+    },
+    {
+      "query": "tag:#community/liquidity-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 5283630
+      }
+    },
+    {
+      "query": "tag:#community/loan-restructuring-documents",
+      "color": {
+        "a": 1,
+        "rgb": 4770431
+      }
+    },
+    {
+      "query": "tag:#community/logistics-zone-entities",
+      "color": {
+        "a": 1,
+        "rgb": 3650356
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-general-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 6148269
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-ima-disclosures",
+      "color": {
+        "a": 1,
+        "rgb": 3982943
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 4695856
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-standardised-approach",
+      "color": {
+        "a": 1,
+        "rgb": 5295250
+      }
+    },
+    {
+      "query": "tag:#community/marketing-&-complaints-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3586881
+      }
+    },
+    {
+      "query": "tag:#community/martyrs'-cheque-exemption",
+      "color": {
+        "a": 1,
+        "rgb": 5610029
+      }
+    },
+    {
+      "query": "tag:#community/model-real-estate-contracts",
+      "color": {
+        "a": 1,
+        "rgb": 4508019
+      }
+    },
+    {
+      "query": "tag:#community/money-changing-business-rules",
+      "color": {
+        "a": 1,
+        "rgb": 4108083
+      }
+    },
+    {
+      "query": "tag:#community/money-exchange-procedures",
+      "color": {
+        "a": 1,
+        "rgb": 5820323
+      }
+    },
+    {
+      "query": "tag:#community/money-exchange-statutory-reserve",
+      "color": {
+        "a": 1,
+        "rgb": 3785554
+      }
+    },
+    {
+      "query": "tag:#community/money-transfer-controls",
+      "color": {
+        "a": 1,
+        "rgb": 5087791
+      }
+    },
+    {
+      "query": "tag:#community/mortgage-and-land-registration",
+      "color": {
+        "a": 1,
+        "rgb": 4967302
+      }
+    },
+    {
+      "query": "tag:#community/nsfr-disclosure-template",
+      "color": {
+        "a": 1,
+        "rgb": 3520055
+      }
+    },
+    {
+      "query": "tag:#community/national-address-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 6345139
+      }
+    },
+    {
+      "query": "tag:#community/nebras-drug-prevention-project",
+      "color": {
+        "a": 1,
+        "rgb": 4179814
+      }
+    },
+    {
+      "query": "tag:#community/net-stable-funding-ratio",
+      "color": {
+        "a": 1,
+        "rgb": 4500017
+      }
+    },
+    {
+      "query": "tag:#community/net-stable-funding-ratio-template",
+      "color": {
+        "a": 1,
+        "rgb": 5492120
+      }
+    },
+    {
+      "query": "tag:#community/new-products-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3653192
+      }
+    },
+    {
+      "query": "tag:#community/non-resident-account-rules",
+      "color": {
+        "a": 1,
+        "rgb": 5414190
+      }
+    },
+    {
+      "query": "tag:#community/otc-derivatives-governance",
+      "color": {
+        "a": 1,
+        "rgb": 4704634
+      }
+    },
+    {
+      "query": "tag:#community/otc-derivatives-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3846708
+      }
+    },
+    {
+      "query": "tag:#community/object-finance-slotting-grades",
+      "color": {
+        "a": 1,
+        "rgb": 6016937
+      }
+    },
+    {
+      "query": "tag:#community/old-device-handling-controls",
+      "color": {
+        "a": 1,
+        "rgb": 3851866
+      }
+    },
+    {
+      "query": "tag:#community/operational-loss-data",
+      "color": {
+        "a": 1,
+        "rgb": 4891952
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-capital",
+      "color": {
+        "a": 1,
+        "rgb": 5164173
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-framework",
+      "color": {
+        "a": 1,
+        "rgb": 3586365
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-qualitative-info",
+      "color": {
+        "a": 1,
+        "rgb": 5675052
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4376686
+      }
+    },
+    {
+      "query": "tag:#community/options-&-simplified-market-risk",
+      "color": {
+        "a": 1,
+        "rgb": 4238642
+      }
+    },
+    {
+      "query": "tag:#community/outsourcing-for-finance-companies",
+      "color": {
+        "a": 1,
+        "rgb": 5688991
+      }
+    },
+    {
+      "query": "tag:#community/pci-dss-standards-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3719502
+      }
+    },
+    {
+      "query": "tag:#community/pos-sales-kyc",
+      "color": {
+        "a": 1,
+        "rgb": 5218350
+      }
+    },
+    {
+      "query": "tag:#community/payment-fraud-and-fees",
+      "color": {
+        "a": 1,
+        "rgb": 4901506
+      }
+    },
+    {
+      "query": "tag:#community/payment-services-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3585332
+      }
+    },
+    {
+      "query": "tag:#community/payment-systems",
+      "color": {
+        "a": 1,
+        "rgb": 6213807
+      }
+    },
+    {
+      "query": "tag:#community/payment-systems-standards",
+      "color": {
+        "a": 1,
+        "rgb": 4048738
+      }
+    },
+    {
+      "query": "tag:#community/payment-technology-products",
+      "color": {
+        "a": 1,
+        "rgb": 4630577
+      }
+    },
+    {
+      "query": "tag:#community/penalties-publication-instructions",
+      "color": {
+        "a": 1,
+        "rgb": 5361044
+      }
+    },
+    {
+      "query": "tag:#community/personal-data-protection-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3652676
+      }
+    },
+    {
+      "query": "tag:#community/physical-security",
+      "color": {
+        "a": 1,
+        "rgb": 5544749
+      }
+    },
+    {
+      "query": "tag:#community/pillar-3-capital-disclosures",
+      "color": {
+        "a": 1,
+        "rgb": 4573558
+      }
+    },
+    {
+      "query": "tag:#community/premium-residency-acceptance",
+      "color": {
+        "a": 1,
+        "rgb": 3977267
+      }
+    },
+    {
+      "query": "tag:#community/primary-dealers-guidelines",
+      "color": {
+        "a": 1,
+        "rgb": 5885861
+      }
+    },
+    {
+      "query": "tag:#community/problem-assets-prudential-treatment",
+      "color": {
+        "a": 1,
+        "rgb": 3785813
+      }
+    },
+    {
+      "query": "tag:#community/problem-loan-management",
+      "color": {
+        "a": 1,
+        "rgb": 5022511
+      }
+    },
+    {
+      "query": "tag:#community/promissory-notes-and-payment-orders",
+      "color": {
+        "a": 1,
+        "rgb": 5098377
+      }
+    },
+    {
+      "query": "tag:#community/prudential-data-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3520569
+      }
+    },
+    {
+      "query": "tag:#community/qr-code-payment-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 5805612
+      }
+    },
+    {
+      "query": "tag:#community/qawaem-program-mandate",
+      "color": {
+        "a": 1,
+        "rgb": 4245609
+      }
+    },
+    {
+      "query": "tag:#community/rwa-&-cva-disclosure-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4369202
+      }
+    },
+    {
+      "query": "tag:#community/rating-overrides",
+      "color": {
+        "a": 1,
+        "rgb": 5557659
+      }
+    },
+    {
+      "query": "tag:#community/real-estate-broker-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3718986
+      }
+    },
+    {
+      "query": "tag:#community/real-estate-exposures",
+      "color": {
+        "a": 1,
+        "rgb": 5348910
+      }
+    },
+    {
+      "query": "tag:#community/real-estate-finance-circulars",
+      "color": {
+        "a": 1,
+        "rgb": 4770429
+      }
+    },
+    {
+      "query": "tag:#community/real-estate-financing-rules",
+      "color": {
+        "a": 1,
+        "rgb": 3715892
+      }
+    },
+    {
+      "query": "tag:#community/regulatory-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 6082732
+      }
+    },
+    {
+      "query": "tag:#community/regulatory-data-forms",
+      "color": {
+        "a": 1,
+        "rgb": 3917405
+      }
+    },
+    {
+      "query": "tag:#community/regulatory-sandbox-process",
+      "color": {
+        "a": 1,
+        "rgb": 4761136
+      }
+    },
+    {
+      "query": "tag:#community/remittance-centers-rules",
+      "color": {
+        "a": 1,
+        "rgb": 5295248
+      }
+    },
+    {
+      "query": "tag:#community/remote-work-and-localization",
+      "color": {
+        "a": 1,
+        "rgb": 3586880
+      }
+    },
+    {
+      "query": "tag:#community/remuneration-awarded-template",
+      "color": {
+        "a": 1,
+        "rgb": 5609773
+      }
+    },
+    {
+      "query": "tag:#community/remuneration-policy",
+      "color": {
+        "a": 1,
+        "rgb": 4442225
+      }
+    },
+    {
+      "query": "tag:#community/repurchase-&-securities-agreements",
+      "color": {
+        "a": 1,
+        "rgb": 4173362
+      }
+    },
+    {
+      "query": "tag:#community/risk-factor-modellability",
+      "color": {
+        "a": 1,
+        "rgb": 5754529
+      }
+    },
+    {
+      "query": "tag:#community/sa-cva-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 3719761
+      }
+    },
+    {
+      "query": "tag:#community/sa-cva-qualitative-disclosures",
+      "color": {
+        "a": 1,
+        "rgb": 5153071
+      }
+    },
+    {
+      "query": "tag:#community/sama-circular-5526",
+      "color": {
+        "a": 1,
+        "rgb": 4967301
+      }
+    },
+    {
+      "query": "tag:#community/sama-circular-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3520054
+      }
+    },
+    {
+      "query": "tag:#community/sama-finance-circulars",
+      "color": {
+        "a": 1,
+        "rgb": 6279602
+      }
+    },
+    {
+      "query": "tag:#community/sama-financial-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 4114277
+      }
+    },
+    {
+      "query": "tag:#community/sama-logo-prohibition",
+      "color": {
+        "a": 1,
+        "rgb": 4565297
+      }
+    },
+    {
+      "query": "tag:#community/sama-property-and-fintech-circulars",
+      "color": {
+        "a": 1,
+        "rgb": 5492119
+      }
+    },
+    {
+      "query": "tag:#community/sme-definition-and-dealing",
+      "color": {
+        "a": 1,
+        "rgb": 3653190
+      }
+    },
+    {
+      "query": "tag:#community/sms-sender-tag-governance",
+      "color": {
+        "a": 1,
+        "rgb": 5413933
+      }
+    },
+    {
+      "query": "tag:#community/sms-services-subscription",
+      "color": {
+        "a": 1,
+        "rgb": 4639097
+      }
+    },
+    {
+      "query": "tag:#community/src-residential-real-estate-purchase",
+      "color": {
+        "a": 1,
+        "rgb": 3911987
+      }
+    },
+    {
+      "query": "tag:#community/sarie-instant-payments",
+      "color": {
+        "a": 1,
+        "rgb": 5951400
+      }
+    },
+    {
+      "query": "tag:#community/saudization-children-counting",
+      "color": {
+        "a": 1,
+        "rgb": 3786072
+      }
+    },
+    {
+      "query": "tag:#community/scanned-arabic-circular",
+      "color": {
+        "a": 1,
+        "rgb": 4891696
+      }
+    },
+    {
+      "query": "tag:#community/seasonal-currency-readiness",
+      "color": {
+        "a": 1,
+        "rgb": 5164172
+      }
+    },
+    {
+      "query": "tag:#community/seasonal-operating-hours",
+      "color": {
+        "a": 1,
+        "rgb": 3586364
+      }
+    },
+    {
+      "query": "tag:#community/sector-electronic-payments",
+      "color": {
+        "a": 1,
+        "rgb": 5740588
+      }
+    },
+    {
+      "query": "tag:#community/secure-information-disposal",
+      "color": {
+        "a": 1,
+        "rgb": 4311148
+      }
+    },
+    {
+      "query": "tag:#community/securitisation-exposure-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4303922
+      }
+    },
+    {
+      "query": "tag:#community/securitisation-qualitative-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 5688989
+      }
+    },
+    {
+      "query": "tag:#community/securitisation-risk-weights",
+      "color": {
+        "a": 1,
+        "rgb": 3719501
+      }
+    },
+    {
+      "query": "tag:#community/securitization-framework",
+      "color": {
+        "a": 1,
+        "rgb": 5218094
+      }
+    },
+    {
+      "query": "tag:#community/senior-leadership-appointments",
+      "color": {
+        "a": 1,
+        "rgb": 4835968
+      }
+    },
+    {
+      "query": "tag:#community/sensitivities-based-market-risk",
+      "color": {
+        "a": 1,
+        "rgb": 3650612
+      }
+    },
+    {
+      "query": "tag:#community/shariah-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 6148270
+      }
+    },
+    {
+      "query": "tag:#community/simplified-market-risk-approach",
+      "color": {
+        "a": 1,
+        "rgb": 3982944
+      }
+    },
+    {
+      "query": "tag:#community/social-media-data-prohibition",
+      "color": {
+        "a": 1,
+        "rgb": 4695857
+      }
+    },
+    {
+      "query": "tag:#community/social-responsibility-day",
+      "color": {
+        "a": 1,
+        "rgb": 5360787
+      }
+    },
+    {
+      "query": "tag:#community/special-payments-remuneration",
+      "color": {
+        "a": 1,
+        "rgb": 3587138
+      }
+    },
+    {
+      "query": "tag:#community/specialized-lending-slotting",
+      "color": {
+        "a": 1,
+        "rgb": 5544749
+      }
+    },
+    {
+      "query": "tag:#community/standardised-credit-risk-templates",
+      "color": {
+        "a": 1,
+        "rgb": 4508020
+      }
+    },
+    {
+      "query": "tag:#community/standardized-credit-risk-mitigation",
+      "color": {
+        "a": 1,
+        "rgb": 4042547
+      }
+    },
+    {
+      "query": "tag:#community/stress-testing-&-icaap",
+      "color": {
+        "a": 1,
+        "rgb": 5885860
+      }
+    },
+    {
+      "query": "tag:#community/stress-testing-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3785811
+      }
+    },
+    {
+      "query": "tag:#community/supervisory-data-sharing-consent",
+      "color": {
+        "a": 1,
+        "rgb": 5022255
+      }
+    },
+    {
+      "query": "tag:#community/surveillance-camera-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 5032839
+      }
+    },
+    {
+      "query": "tag:#community/system-configuration-management",
+      "color": {
+        "a": 1,
+        "rgb": 3520312
+      }
+    },
+    {
+      "query": "tag:#community/targeted-financial-sanctions",
+      "color": {
+        "a": 1,
+        "rgb": 6345140
+      }
+    },
+    {
+      "query": "tag:#community/trademark-product-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 4179816
+      }
+    },
+    {
+      "query": "tag:#community/trading-book-boundary",
+      "color": {
+        "a": 1,
+        "rgb": 4434481
+      }
+    },
+    {
+      "query": "tag:#community/trading-book-securitisation-exposures",
+      "color": {
+        "a": 1,
+        "rgb": 5557657
+      }
+    },
+    {
+      "query": "tag:#community/trading-book-securitisation-template",
+      "color": {
+        "a": 1,
+        "rgb": 3653449
+      }
+    },
+    {
+      "query": "tag:#community/transition-arrangements",
+      "color": {
+        "a": 1,
+        "rgb": 5348654
+      }
+    },
+    {
+      "query": "tag:#community/transition-phase-in-arrangements",
+      "color": {
+        "a": 1,
+        "rgb": 4704892
+      }
+    },
+    {
+      "query": "tag:#community/unified-customer-service-number",
+      "color": {
+        "a": 1,
+        "rgb": 3781172
+      }
+    },
+    {
+      "query": "tag:#community/unified-financial-notifications",
+      "color": {
+        "a": 1,
+        "rgb": 6082730
+      }
+    },
+    {
+      "query": "tag:#community/unified-number-registration",
+      "color": {
+        "a": 1,
+        "rgb": 3851867
+      }
+    },
+    {
+      "query": "tag:#community/unified-pos-pricing-model",
+      "color": {
+        "a": 1,
+        "rgb": 4826416
+      }
+    },
+    {
+      "query": "tag:#community/unified-sms-notifications",
+      "color": {
+        "a": 1,
+        "rgb": 5229710
+      }
+    },
+    {
+      "query": "tag:#community/valuables-transport-law",
+      "color": {
+        "a": 1,
+        "rgb": 3586622
+      }
+    },
+    {
+      "query": "tag:#community/vehicle-finance-lease-contracts",
+      "color": {
+        "a": 1,
+        "rgb": 5675308
+      }
+    },
+    {
+      "query": "tag:#community/wage-protection-platform",
+      "color": {
+        "a": 1,
+        "rgb": 4376687
+      }
+    },
+    {
+      "query": "tag:#community/whistle-blowing-policy",
+      "color": {
+        "a": 1,
+        "rgb": 4238642
+      }
+    },
+    {
+      "query": "tag:#community/zakat-and-tax-accounting",
+      "color": {
+        "a": 1,
+        "rgb": 5754528
+      }
+    },
+    {
+      "query": "tag:#community/esama-portal-access",
+      "color": {
+        "a": 1,
+        "rgb": 3719759
+      }
+    },
+    {
+      "query": "tag:#community/aml-controls-effectiveness",
+      "color": {
+        "a": 1,
+        "rgb": 2915478
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft-&-internal-audit",
+      "color": {
+        "a": 1,
+        "rgb": 4211911
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft-financial-institution-obligations",
+      "color": {
+        "a": 1,
+        "rgb": 3304363
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft-guidelines-&-typologies",
+      "color": {
+        "a": 1,
+        "rgb": 7492813
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft-sector-guidance",
+      "color": {
+        "a": 1,
+        "rgb": 3691455
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft-training-&-risk-assessment",
+      "color": {
+        "a": 1,
+        "rgb": 3045022
+      }
+    },
+    {
+      "query": "tag:#community/aml/cft/pf-federal-law",
+      "color": {
+        "a": 1,
+        "rgb": 5327050
+      }
+    },
+    {
+      "query": "tag:#community/api-&-authentication-framework",
+      "color": {
+        "a": 1,
+        "rgb": 3433395
+      }
+    },
+    {
+      "query": "tag:#community/accounting-&-audit",
+      "color": {
+        "a": 1,
+        "rgb": 8740048
+      }
+    },
+    {
+      "query": "tag:#community/acquisitions-&-shareholding",
+      "color": {
+        "a": 1,
+        "rgb": 3885254
+      }
+    },
+    {
+      "query": "tag:#community/advances-to-deposits-ratio",
+      "color": {
+        "a": 1,
+        "rgb": 3174566
+      }
+    },
+    {
+      "query": "tag:#community/aggregate-capital-funds",
+      "color": {
+        "a": 1,
+        "rgb": 6705100
+      }
+    },
+    {
+      "query": "tag:#community/anti-fraud-framework",
+      "color": {
+        "a": 1,
+        "rgb": 3561914
+      }
+    },
+    {
+      "query": "tag:#community/audit-&-accounting-records",
+      "color": {
+        "a": 1,
+        "rgb": 2914969
+      }
+    },
+    {
+      "query": "tag:#community/bank-capital-adequacy-(basel-iii)",
+      "color": {
+        "a": 1,
+        "rgb": 4473800
+      }
+    },
+    {
+      "query": "tag:#community/bank-capital-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3303598
+      }
+    },
+    {
+      "query": "tag:#community/bank-corporate-governance",
+      "color": {
+        "a": 1,
+        "rgb": 7952334
+      }
+    },
+    {
+      "query": "tag:#community/bank-liquidity-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 3690178
+      }
+    },
+    {
+      "query": "tag:#community/bank-loans-&-consumer-credit",
+      "color": {
+        "a": 1,
+        "rgb": 3110049
+      }
+    },
+    {
+      "query": "tag:#community/bank-outsourcing-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 5852107
+      }
+    },
+    {
+      "query": "tag:#community/banking-book-rate-risk-(irrbb)",
+      "color": {
+        "a": 1,
+        "rgb": 3497910
+      }
+    },
+    {
+      "query": "tag:#community/basel-risk-approaches",
+      "color": {
+        "a": 1,
+        "rgb": 9199569
+      }
+    },
+    {
+      "query": "tag:#community/beneficial-ownership-procedures",
+      "color": {
+        "a": 1,
+        "rgb": 4081095
+      }
+    },
+    {
+      "query": "tag:#community/big-data-&-ai-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3239337
+      }
+    },
+    {
+      "query": "tag:#community/board-&-senior-management-roles",
+      "color": {
+        "a": 1,
+        "rgb": 7230157
+      }
+    },
+    {
+      "query": "tag:#community/business-continuity",
+      "color": {
+        "a": 1,
+        "rgb": 3626429
+      }
+    },
+    {
+      "query": "tag:#community/business-continuity-management",
+      "color": {
+        "a": 1,
+        "rgb": 2979996
+      }
+    },
+    {
+      "query": "tag:#community/business-strategy-incorporation",
+      "color": {
+        "a": 1,
+        "rgb": 4998857
+      }
+    },
+    {
+      "query": "tag:#community/cva-capital-calculation",
+      "color": {
+        "a": 1,
+        "rgb": 3368369
+      }
+    },
+    {
+      "query": "tag:#community/card-scheme-&-pci-security",
+      "color": {
+        "a": 1,
+        "rgb": 8411855
+      }
+    },
+    {
+      "query": "tag:#community/central-bank-governance-&-authority",
+      "color": {
+        "a": 1,
+        "rgb": 3754693
+      }
+    },
+    {
+      "query": "tag:#community/central-bank-powers",
+      "color": {
+        "a": 1,
+        "rgb": 3174820
+      }
+    },
+    {
+      "query": "tag:#community/central-bank-reporting-duty",
+      "color": {
+        "a": 1,
+        "rgb": 6377163
+      }
+    },
+    {
+      "query": "tag:#community/climate-risk-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3562425
+      }
+    },
+    {
+      "query": "tag:#community/climate-scenario-&-capital-adequacy",
+      "color": {
+        "a": 1,
+        "rgb": 2915223
+      }
+    },
+    {
+      "query": "tag:#community/climate-transition-planning",
+      "color": {
+        "a": 1,
+        "rgb": 4277192
+      }
+    },
+    {
+      "query": "tag:#community/cloud-computing-&-continuity",
+      "color": {
+        "a": 1,
+        "rgb": 3304108
+      }
+    },
+    {
+      "query": "tag:#community/common-reporting-standard-(crs)",
+      "color": {
+        "a": 1,
+        "rgb": 7689678
+      }
+    },
+    {
+      "query": "tag:#community/compliance-&-internal-audit-controls",
+      "color": {
+        "a": 1,
+        "rgb": 3690944
+      }
+    },
+    {
+      "query": "tag:#community/compliance-officer-&-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3044767
+      }
+    },
+    {
+      "query": "tag:#community/conduct-of-business",
+      "color": {
+        "a": 1,
+        "rgb": 5589450
+      }
+    },
+    {
+      "query": "tag:#community/consumer-data-protection",
+      "color": {
+        "a": 1,
+        "rgb": 3432884
+      }
+    },
+    {
+      "query": "tag:#community/consumer-financial-inclusion-&-debt",
+      "color": {
+        "a": 1,
+        "rgb": 8871376
+      }
+    },
+    {
+      "query": "tag:#community/consumer-protection-standards",
+      "color": {
+        "a": 1,
+        "rgb": 3950534
+      }
+    },
+    {
+      "query": "tag:#community/corporate-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3174311
+      }
+    },
+    {
+      "query": "tag:#community/correspondent-banking-&-wire-transfers",
+      "color": {
+        "a": 1,
+        "rgb": 6902220
+      }
+    },
+    {
+      "query": "tag:#community/correspondent-banking-red-flags",
+      "color": {
+        "a": 1,
+        "rgb": 3561660
+      }
+    },
+    {
+      "query": "tag:#community/correspondent-banking-risk",
+      "color": {
+        "a": 1,
+        "rgb": 2980250
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-credit-&-cva-risk",
+      "color": {
+        "a": 1,
+        "rgb": 4670665
+      }
+    },
+    {
+      "query": "tag:#community/counterparty-exposure-(sa-ccr)",
+      "color": {
+        "a": 1,
+        "rgb": 3368879
+      }
+    },
+    {
+      "query": "tag:#community/country-&-transfer-risk-governance",
+      "color": {
+        "a": 1,
+        "rgb": 8149199
+      }
+    },
+    {
+      "query": "tag:#community/credit-default-&-provisioning",
+      "color": {
+        "a": 1,
+        "rgb": 3755459
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-&-cva-standards",
+      "color": {
+        "a": 1,
+        "rgb": 3109794
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-mitigation",
+      "color": {
+        "a": 1,
+        "rgb": 6048971
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-mitigation-&-covered-bonds",
+      "color": {
+        "a": 1,
+        "rgb": 3497655
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-models",
+      "color": {
+        "a": 1,
+        "rgb": 9330897
+      }
+    },
+    {
+      "query": "tag:#community/credit-risk-standardised-approach",
+      "color": {
+        "a": 1,
+        "rgb": 4146375
+      }
+    },
+    {
+      "query": "tag:#community/cross-border-payments-&-swift",
+      "color": {
+        "a": 1,
+        "rgb": 3239082
+      }
+    },
+    {
+      "query": "tag:#community/crowdfunding-platforms",
+      "color": {
+        "a": 1,
+        "rgb": 7361741
+      }
+    },
+    {
+      "query": "tag:#community/customer-due-diligence-program",
+      "color": {
+        "a": 1,
+        "rgb": 3626175
+      }
+    },
+    {
+      "query": "tag:#community/dnfbp-&-real-estate-aml",
+      "color": {
+        "a": 1,
+        "rgb": 3045277
+      }
+    },
+    {
+      "query": "tag:#community/data-and-customer-engagement",
+      "color": {
+        "a": 1,
+        "rgb": 5261258
+      }
+    },
+    {
+      "query": "tag:#community/derivative-add-on-calculations",
+      "color": {
+        "a": 1,
+        "rgb": 3433394
+      }
+    },
+    {
+      "query": "tag:#community/digital-id-due-diligence",
+      "color": {
+        "a": 1,
+        "rgb": 8608719
+      }
+    },
+    {
+      "query": "tag:#community/digital-identity-verification",
+      "color": {
+        "a": 1,
+        "rgb": 3819974
+      }
+    },
+    {
+      "query": "tag:#community/disciplinary-sanction-lapse",
+      "color": {
+        "a": 1,
+        "rgb": 3174565
+      }
+    },
+    {
+      "query": "tag:#community/disclosure-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 6574028
+      }
+    },
+    {
+      "query": "tag:#community/disclosure-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3562170
+      }
+    },
+    {
+      "query": "tag:#community/distributed-ledger-technology-governance",
+      "color": {
+        "a": 1,
+        "rgb": 2914968
+      }
+    },
+    {
+      "query": "tag:#community/dormant-accounts-&-unclaimed-funds",
+      "color": {
+        "a": 1,
+        "rgb": 4342472
+      }
+    },
+    {
+      "query": "tag:#community/esg-disclosures",
+      "color": {
+        "a": 1,
+        "rgb": 3303853
+      }
+    },
+    {
+      "query": "tag:#community/electronic-insurance-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 7886798
+      }
+    },
+    {
+      "query": "tag:#community/emiratization-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3690434
+      }
+    },
+    {
+      "query": "tag:#community/enabling-technology-guidelines",
+      "color": {
+        "a": 1,
+        "rgb": 3110048
+      }
+    },
+    {
+      "query": "tag:#community/enforcement-&-sanctions",
+      "color": {
+        "a": 1,
+        "rgb": 5786314
+      }
+    },
+    {
+      "query": "tag:#community/enterprise-risk-&-solvency",
+      "color": {
+        "a": 1,
+        "rgb": 3498165
+      }
+    },
+    {
+      "query": "tag:#community/exchange-business-licensing",
+      "color": {
+        "a": 1,
+        "rgb": 9068240
+      }
+    },
+    {
+      "query": "tag:#community/exchange-business-standards",
+      "color": {
+        "a": 1,
+        "rgb": 4015815
+      }
+    },
+    {
+      "query": "tag:#community/exchange-house-aml/cft",
+      "color": {
+        "a": 1,
+        "rgb": 3239592
+      }
+    },
+    {
+      "query": "tag:#community/finance-companies-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 7099085
+      }
+    },
+    {
+      "query": "tag:#community/financial-data-extension",
+      "color": {
+        "a": 1,
+        "rgb": 3626685
+      }
+    },
+    {
+      "query": "tag:#community/financial-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 2979995
+      }
+    },
+    {
+      "query": "tag:#community/financial-reporting-&-audit",
+      "color": {
+        "a": 1,
+        "rgb": 4933065
+      }
+    },
+    {
+      "query": "tag:#community/financial-sanctions-&-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3368624
+      }
+    },
+    {
+      "query": "tag:#community/financial-soundness",
+      "color": {
+        "a": 1,
+        "rgb": 8346063
+      }
+    },
+    {
+      "query": "tag:#community/fit-&-proper-designated-functions",
+      "color": {
+        "a": 1,
+        "rgb": 3754949
+      }
+    },
+    {
+      "query": "tag:#community/fitness-&-propriety-standards",
+      "color": {
+        "a": 1,
+        "rgb": 3109539
+      }
+    },
+    {
+      "query": "tag:#community/foreign-judgment-execution",
+      "color": {
+        "a": 1,
+        "rgb": 6245835
+      }
+    },
+    {
+      "query": "tag:#community/foreign-payment-token-registration",
+      "color": {
+        "a": 1,
+        "rgb": 3497144
+      }
+    },
+    {
+      "query": "tag:#community/fraud-protection-&-atm/pos",
+      "color": {
+        "a": 1,
+        "rgb": 2915223
+      }
+    },
+    {
+      "query": "tag:#community/fund-and-investment-transfer",
+      "color": {
+        "a": 1,
+        "rgb": 4211656
+      }
+    },
+    {
+      "query": "tag:#community/governance-&-complaint-management",
+      "color": {
+        "a": 1,
+        "rgb": 3304363
+      }
+    },
+    {
+      "query": "tag:#community/governance-principle",
+      "color": {
+        "a": 1,
+        "rgb": 7558606
+      }
+    },
+    {
+      "query": "tag:#community/grievance-procedures",
+      "color": {
+        "a": 1,
+        "rgb": 3691200
+      }
+    },
+    {
+      "query": "tag:#community/group-recovery-plans",
+      "color": {
+        "a": 1,
+        "rgb": 3045022
+      }
+    },
+    {
+      "query": "tag:#community/group-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 5458122
+      }
+    },
+    {
+      "query": "tag:#community/hawala-provider-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3433139
+      }
+    },
+    {
+      "query": "tag:#community/hawala-and-remittance",
+      "color": {
+        "a": 1,
+        "rgb": 8805584
+      }
+    },
+    {
+      "query": "tag:#community/health-insurance-tpa-licensing",
+      "color": {
+        "a": 1,
+        "rgb": 3885254
+      }
+    },
+    {
+      "query": "tag:#community/human-resources",
+      "color": {
+        "a": 1,
+        "rgb": 3174310
+      }
+    },
+    {
+      "query": "tag:#community/icaap-&-supervisory-review",
+      "color": {
+        "a": 1,
+        "rgb": 6770892
+      }
+    },
+    {
+      "query": "tag:#community/ifrs-9-provisions-&-tess",
+      "color": {
+        "a": 1,
+        "rgb": 3561659
+      }
+    },
+    {
+      "query": "tag:#community/implementation-strategy-and-actions",
+      "color": {
+        "a": 1,
+        "rgb": 2980250
+      }
+    },
+    {
+      "query": "tag:#community/information-gathering-powers",
+      "color": {
+        "a": 1,
+        "rgb": 4539336
+      }
+    },
+    {
+      "query": "tag:#community/information-systems-&-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 3369134
+      }
+    },
+    {
+      "query": "tag:#community/insurance-aml-&-solvency-rules",
+      "color": {
+        "a": 1,
+        "rgb": 8018126
+      }
+    },
+    {
+      "query": "tag:#community/insurance-administrative-fines",
+      "color": {
+        "a": 1,
+        "rgb": 3755715
+      }
+    },
+    {
+      "query": "tag:#community/insurance-authority-legal-instruments",
+      "color": {
+        "a": 1,
+        "rgb": 3109793
+      }
+    },
+    {
+      "query": "tag:#community/insurance-authority-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 5983179
+      }
+    },
+    {
+      "query": "tag:#community/insurance-broker-definitions",
+      "color": {
+        "a": 1,
+        "rgb": 3497910
+      }
+    },
+    {
+      "query": "tag:#community/insurance-brokerage-agreements",
+      "color": {
+        "a": 1,
+        "rgb": 9265105
+      }
+    },
+    {
+      "query": "tag:#community/insurance-code-of-conduct",
+      "color": {
+        "a": 1,
+        "rgb": 4081095
+      }
+    },
+    {
+      "query": "tag:#community/insurance-corporate-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3239081
+      }
+    },
+    {
+      "query": "tag:#community/insurance-dispute-committees",
+      "color": {
+        "a": 1,
+        "rgb": 7295949
+      }
+    },
+    {
+      "query": "tag:#community/insurance-dispute-resolution",
+      "color": {
+        "a": 1,
+        "rgb": 3626430
+      }
+    },
+    {
+      "query": "tag:#community/insurance-due-diligence",
+      "color": {
+        "a": 1,
+        "rgb": 2979741
+      }
+    },
+    {
+      "query": "tag:#community/insurance-financial-regulations",
+      "color": {
+        "a": 1,
+        "rgb": 5129929
+      }
+    },
+    {
+      "query": "tag:#community/insurance-licensing-&-climate-risk",
+      "color": {
+        "a": 1,
+        "rgb": 3368113
+      }
+    },
+    {
+      "query": "tag:#community/insurance-marketing-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 8477647
+      }
+    },
+    {
+      "query": "tag:#community/insurance-minimum-capital",
+      "color": {
+        "a": 1,
+        "rgb": 3754438
+      }
+    },
+    {
+      "query": "tag:#community/insurance-ombudsman-&-hawala",
+      "color": {
+        "a": 1,
+        "rgb": 3174820
+      }
+    },
+    {
+      "query": "tag:#community/insurance-ownership-ratios",
+      "color": {
+        "a": 1,
+        "rgb": 6442700
+      }
+    },
+    {
+      "query": "tag:#community/insurance-pricing-policy-revision",
+      "color": {
+        "a": 1,
+        "rgb": 3562425
+      }
+    },
+    {
+      "query": "tag:#community/internal-controls-&-audit",
+      "color": {
+        "a": 1,
+        "rgb": 2915224
+      }
+    },
+    {
+      "query": "tag:#community/international-cooperation-and-asset-recovery",
+      "color": {
+        "a": 1,
+        "rgb": 4276936
+      }
+    },
+    {
+      "query": "tag:#community/international-judicial-cooperation",
+      "color": {
+        "a": 1,
+        "rgb": 3303852
+      }
+    },
+    {
+      "query": "tag:#community/international-va-crime-cooperation",
+      "color": {
+        "a": 1,
+        "rgb": 7755470
+      }
+    },
+    {
+      "query": "tag:#community/islamic-bank-board-&-reserves",
+      "color": {
+        "a": 1,
+        "rgb": 3690689
+      }
+    },
+    {
+      "query": "tag:#community/islamic-banking-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3044768
+      }
+    },
+    {
+      "query": "tag:#community/islamic-consumer-protection-&-shari'ah",
+      "color": {
+        "a": 1,
+        "rgb": 5654986
+      }
+    },
+    {
+      "query": "tag:#community/islamic-enterprise-risk-governance",
+      "color": {
+        "a": 1,
+        "rgb": 3432884
+      }
+    },
+    {
+      "query": "tag:#community/islamic-profit-equalization",
+      "color": {
+        "a": 1,
+        "rgb": 8937168
+      }
+    },
+    {
+      "query": "tag:#community/islamic-shari'ah-supervision",
+      "color": {
+        "a": 1,
+        "rgb": 3950279
+      }
+    },
+    {
+      "query": "tag:#community/large-exposures-&-credit-risk",
+      "color": {
+        "a": 1,
+        "rgb": 3239591
+      }
+    },
+    {
+      "query": "tag:#community/large-value-payment-systems",
+      "color": {
+        "a": 1,
+        "rgb": 6967756
+      }
+    },
+    {
+      "query": "tag:#community/law-enforcement-info-exchange",
+      "color": {
+        "a": 1,
+        "rgb": 3626940
+      }
+    },
+    {
+      "query": "tag:#community/loan-restructuring-&-provisioning",
+      "color": {
+        "a": 1,
+        "rgb": 2980251
+      }
+    },
+    {
+      "query": "tag:#community/loan-based-crowdfunding-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 4801737
+      }
+    },
+    {
+      "query": "tag:#community/loans-for-share-purchase",
+      "color": {
+        "a": 1,
+        "rgb": 3368623
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-controls",
+      "color": {
+        "a": 1,
+        "rgb": 8214991
+      }
+    },
+    {
+      "query": "tag:#community/market-risk-standards",
+      "color": {
+        "a": 1,
+        "rgb": 3755204
+      }
+    },
+    {
+      "query": "tag:#community/mergers-&-liquidations",
+      "color": {
+        "a": 1,
+        "rgb": 3109795
+      }
+    },
+    {
+      "query": "tag:#community/minimum-bank-capital-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 6180043
+      }
+    },
+    {
+      "query": "tag:#community/model-risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 3497399
+      }
+    },
+    {
+      "query": "tag:#community/money-laundering-phases",
+      "color": {
+        "a": 1,
+        "rgb": 9396689
+      }
+    },
+    {
+      "query": "tag:#community/monitoring-&-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 4146375
+      }
+    },
+    {
+      "query": "tag:#community/mortgage-&-real-estate-lending",
+      "color": {
+        "a": 1,
+        "rgb": 3238826
+      }
+    },
+    {
+      "query": "tag:#community/motor-insurance-tariffs",
+      "color": {
+        "a": 1,
+        "rgb": 7427277
+      }
+    },
+    {
+      "query": "tag:#community/motor-vehicle-insurance-policy",
+      "color": {
+        "a": 1,
+        "rgb": 3625919
+      }
+    },
+    {
+      "query": "tag:#community/national-aml/cft-risk-assessment",
+      "color": {
+        "a": 1,
+        "rgb": 3045022
+      }
+    },
+    {
+      "query": "tag:#community/ongoing-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 5326794
+      }
+    },
+    {
+      "query": "tag:#community/open-finance-data-sharing",
+      "color": {
+        "a": 1,
+        "rgb": 3433394
+      }
+    },
+    {
+      "query": "tag:#community/open-finance-framework",
+      "color": {
+        "a": 1,
+        "rgb": 8674512
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-&-resilience",
+      "color": {
+        "a": 1,
+        "rgb": 3885254
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-approaches",
+      "color": {
+        "a": 1,
+        "rgb": 3174566
+      }
+    },
+    {
+      "query": "tag:#community/operational-risk-circular",
+      "color": {
+        "a": 1,
+        "rgb": 6639564
+      }
+    },
+    {
+      "query": "tag:#community/outsourcing-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3561914
+      }
+    },
+    {
+      "query": "tag:#community/payment-message-specifications",
+      "color": {
+        "a": 1,
+        "rgb": 2914969
+      }
+    },
+    {
+      "query": "tag:#community/payment-systems-&-shareholding",
+      "color": {
+        "a": 1,
+        "rgb": 4408008
+      }
+    },
+    {
+      "query": "tag:#community/payment-token-customer-agreements",
+      "color": {
+        "a": 1,
+        "rgb": 3303597
+      }
+    },
+    {
+      "query": "tag:#community/payment-token-issuance",
+      "color": {
+        "a": 1,
+        "rgb": 7952334
+      }
+    },
+    {
+      "query": "tag:#community/payment-token-services",
+      "color": {
+        "a": 1,
+        "rgb": 3690434
+      }
+    },
+    {
+      "query": "tag:#community/payment-tokens-&-crypto-assets",
+      "color": {
+        "a": 1,
+        "rgb": 3110049
+      }
+    },
+    {
+      "query": "tag:#community/personal-data-&-cyber-security",
+      "color": {
+        "a": 1,
+        "rgb": 5851851
+      }
+    },
+    {
+      "query": "tag:#community/personal-loans-manual",
+      "color": {
+        "a": 1,
+        "rgb": 3497909
+      }
+    },
+    {
+      "query": "tag:#community/pillar-3-market-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 9134032
+      }
+    },
+    {
+      "query": "tag:#community/politically-exposed-persons-(pep)",
+      "color": {
+        "a": 1,
+        "rgb": 4081095
+      }
+    },
+    {
+      "query": "tag:#community/product-level-disclosures",
+      "color": {
+        "a": 1,
+        "rgb": 3239337
+      }
+    },
+    {
+      "query": "tag:#community/proliferation-finance-&-trade-risk",
+      "color": {
+        "a": 1,
+        "rgb": 7164621
+      }
+    },
+    {
+      "query": "tag:#community/proliferation-financing-sanctions",
+      "color": {
+        "a": 1,
+        "rgb": 3626429
+      }
+    },
+    {
+      "query": "tag:#community/public-subscription-circulars",
+      "color": {
+        "a": 1,
+        "rgb": 2979996
+      }
+    },
+    {
+      "query": "tag:#community/re-takaful-insurance",
+      "color": {
+        "a": 1,
+        "rgb": 4998601
+      }
+    },
+    {
+      "query": "tag:#community/record-keeping",
+      "color": {
+        "a": 1,
+        "rgb": 3368368
+      }
+    },
+    {
+      "query": "tag:#community/remittance-accounts-&-audit",
+      "color": {
+        "a": 1,
+        "rgb": 8411855
+      }
+    },
+    {
+      "query": "tag:#community/remittances-&-foreign-exchange",
+      "color": {
+        "a": 1,
+        "rgb": 3754693
+      }
+    },
+    {
+      "query": "tag:#community/repeal-of-prior-resolution",
+      "color": {
+        "a": 1,
+        "rgb": 3175076
+      }
+    },
+    {
+      "query": "tag:#community/reporting-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 6376907
+      }
+    },
+    {
+      "query": "tag:#community/responsible-financing-practices",
+      "color": {
+        "a": 1,
+        "rgb": 3562680
+      }
+    },
+    {
+      "query": "tag:#community/retail-payment-regulation-amendment",
+      "color": {
+        "a": 1,
+        "rgb": 2915223
+      }
+    },
+    {
+      "query": "tag:#community/retail-payment-services-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 4277192
+      }
+    },
+    {
+      "query": "tag:#community/review-and-updates",
+      "color": {
+        "a": 1,
+        "rgb": 3304108
+      }
+    },
+    {
+      "query": "tag:#community/risk-governance-&-outsourcing",
+      "color": {
+        "a": 1,
+        "rgb": 7624142
+      }
+    },
+    {
+      "query": "tag:#community/risk-management",
+      "color": {
+        "a": 1,
+        "rgb": 3690944
+      }
+    },
+    {
+      "query": "tag:#community/risk-management-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3045023
+      }
+    },
+    {
+      "query": "tag:#community/risk-measurement-&-models",
+      "color": {
+        "a": 1,
+        "rgb": 5523658
+      }
+    },
+    {
+      "query": "tag:#community/sme-market-conduct",
+      "color": {
+        "a": 1,
+        "rgb": 3433139
+      }
+    },
+    {
+      "query": "tag:#community/safeguards-&-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 8871376
+      }
+    },
+    {
+      "query": "tag:#community/sanctions-&-beneficial-owner-screening",
+      "color": {
+        "a": 1,
+        "rgb": 3950534
+      }
+    },
+    {
+      "query": "tag:#community/sanctions-&-payments-screening",
+      "color": {
+        "a": 1,
+        "rgb": 3174311
+      }
+    },
+    {
+      "query": "tag:#community/sanctions-&-proliferation-red-flags",
+      "color": {
+        "a": 1,
+        "rgb": 6836428
+      }
+    },
+    {
+      "query": "tag:#community/sanctions-screening-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 3561659
+      }
+    },
+    {
+      "query": "tag:#community/secure-communication",
+      "color": {
+        "a": 1,
+        "rgb": 2980250
+      }
+    },
+    {
+      "query": "tag:#community/securitisation-framework",
+      "color": {
+        "a": 1,
+        "rgb": 4670665
+      }
+    },
+    {
+      "query": "tag:#community/shari'ah-compliance-&-settlement",
+      "color": {
+        "a": 1,
+        "rgb": 3368879
+      }
+    },
+    {
+      "query": "tag:#community/shari'ah-governance-&-audit",
+      "color": {
+        "a": 1,
+        "rgb": 8083663
+      }
+    },
+    {
+      "query": "tag:#community/solvency-requirements",
+      "color": {
+        "a": 1,
+        "rgb": 3755459
+      }
+    },
+    {
+      "query": "tag:#community/specialized-banks-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3109794
+      }
+    },
+    {
+      "query": "tag:#community/stored-value-facilities-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 6048715
+      }
+    },
+    {
+      "query": "tag:#community/strategic-&-operational-decisions",
+      "color": {
+        "a": 1,
+        "rgb": 3497654
+      }
+    },
+    {
+      "query": "tag:#community/suspicious-transaction-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 9265361
+      }
+    },
+    {
+      "query": "tag:#community/sustainable-finance-disclosure",
+      "color": {
+        "a": 1,
+        "rgb": 4146375
+      }
+    },
+    {
+      "query": "tag:#community/takaful-insurance-regulation",
+      "color": {
+        "a": 1,
+        "rgb": 3239082
+      }
+    },
+    {
+      "query": "tag:#community/takaful-insurance-regulation-2022",
+      "color": {
+        "a": 1,
+        "rgb": 7361485
+      }
+    },
+    {
+      "query": "tag:#community/takaful-participants'-risk-fund",
+      "color": {
+        "a": 1,
+        "rgb": 3626174
+      }
+    },
+    {
+      "query": "tag:#community/takaful-shari'ah-audit",
+      "color": {
+        "a": 1,
+        "rgb": 3045277
+      }
+    },
+    {
+      "query": "tag:#community/takaful-shari'ah-reporting",
+      "color": {
+        "a": 1,
+        "rgb": 5195721
+      }
+    },
+    {
+      "query": "tag:#community/takaful-wakala-operational-model",
+      "color": {
+        "a": 1,
+        "rgb": 3433650
+      }
+    },
+    {
+      "query": "tag:#community/terrorism-financing",
+      "color": {
+        "a": 1,
+        "rgb": 8543183
+      }
+    },
+    {
+      "query": "tag:#community/terrorism-lists-&-sanctions",
+      "color": {
+        "a": 1,
+        "rgb": 3819974
+      }
+    },
+    {
+      "query": "tag:#community/terrorism-lists-screening",
+      "color": {
+        "a": 1,
+        "rgb": 3174821
+      }
+    },
+    {
+      "query": "tag:#community/third-party-cdd-reliance",
+      "color": {
+        "a": 1,
+        "rgb": 6508236
+      }
+    },
+    {
+      "query": "tag:#community/trade-finance",
+      "color": {
+        "a": 1,
+        "rgb": 3562169
+      }
+    },
+    {
+      "query": "tag:#community/trade-based-due-diligence",
+      "color": {
+        "a": 1,
+        "rgb": 2914968
+      }
+    },
+    {
+      "query": "tag:#community/trade-based-money-laundering",
+      "color": {
+        "a": 1,
+        "rgb": 4342472
+      }
+    },
+    {
+      "query": "tag:#community/trading-book-interest-rate-risk",
+      "color": {
+        "a": 1,
+        "rgb": 3303853
+      }
+    },
+    {
+      "query": "tag:#community/transparency",
+      "color": {
+        "a": 1,
+        "rgb": 7821006
+      }
+    },
+    {
+      "query": "tag:#community/unauthorised-transaction-liability",
+      "color": {
+        "a": 1,
+        "rgb": 3690689
+      }
+    },
+    {
+      "query": "tag:#community/unauthorized-transfer-liability",
+      "color": {
+        "a": 1,
+        "rgb": 3044768
+      }
+    },
+    {
+      "query": "tag:#community/unhosted-wallet-due-diligence",
+      "color": {
+        "a": 1,
+        "rgb": 5720778
+      }
+    },
+    {
+      "query": "tag:#community/united-nations",
+      "color": {
+        "a": 1,
+        "rgb": 3432629
+      }
+    },
+    {
+      "query": "tag:#community/virtual-asset-travel-rule",
+      "color": {
+        "a": 1,
+        "rgb": 9002704
+      }
+    },
+    {
+      "query": "tag:#community/zakat-fund-account",
+      "color": {
+        "a": 1,
+        "rgb": 4015815
+      }
+    },
+    {
+      "query": "path:\"SAMA\"",
+      "color": {
+        "a": 1,
+        "rgb": 3453513
+      }
+    },
+    {
+      "query": "path:\"CBUAE\"",
+      "color": {
+        "a": 1,
+        "rgb": 3426738
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.08345956629515898,
+  "close": false
+}

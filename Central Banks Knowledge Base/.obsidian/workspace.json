@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "d421c89e4e31bf34",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8568da8b9e37a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f6778f0ea9ff26",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e5c57e71d207466",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ab7cfc5aeaa2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace25ddbbd912cd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad8166983c455889",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f89d258ef5afcb7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5a4224557c18e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e1c2c18169b427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebe2c2f9dceb27f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2d3399e8a67ee5f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "270918ac82ee610f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1a680082b5ff6b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "30b5ac5791da076c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "53f6778f0ea9ff26",
+  "lastOpenFiles": [
+    "SAMA/Security Surveillance Camera System Compliance.md",
+    "SAMA/Products Under Different Trademarks Requirements.md",
+    "SAMA/Finance Companies Control Law.md",
+    "SAMA/Update to Senior Leadership Appointment Requirements.md",
+    "SAMA/Prohibition on Social Media for Data Exchange.md",
+    "SAMA/Electronic Link with Elm for Digital Document Service.md",
+    "SAMA/KSRelief Sole Authorized Charity Donations Entity.md",
+    "SAMA/Systemically Important Payment Systems Standards.md",
+    "SAMA/SAMA Circular Amended LCR Prudential Returns & NSFR.md",
+    "SAMA/SAMA Circular Revised Amended LCR Regulations.md",
+    "SAMA/Report on Total Remunerations for Board and Committees.md",
+    "SAMA/SAMA Circular Consumer Finance Rules Clarification (Article 10, 11, APR).md",
+    "SAMA",
+    "CBUAE/CBUAE — Customer Due Diligence (CDD).md",
+    "CBUAE/CBUAE — _COMMUNITY_Community 0.md",
+    "_COMMUNITY_Community 0.md"
+  ]
+}
